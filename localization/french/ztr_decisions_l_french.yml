@@ -1,0 +1,298 @@
+﻿l_french:
+
+good_friday_agreement_decision: "Appliquer l'accord du Vendredi saint"
+good_friday_agreement_decision_desc: "L'accord du Vendredi saint est un développement politique majeur en Irlande du Nord, établissant un gouvernement décentralisé et créant un cadre pour la paix et la coopération. En appliquant cet accord, nous pouvons assurer la stabilité et le progrès dans la région."
+good_friday_agreement_decision_tooltip: "Ulster reconquise !"
+
+firm_ztr_geneva_convention: "Signer les Conventions de Genève"
+firm_ztr_geneva_convention_desc: "Les Conventions de Genève sont une série de traités qui établissent des normes juridiques internationales pour le traitement humanitaire en temps de guerre. En signant ces conventions, nous nous engageons à défendre les droits de l'homme et à protéger les civils pendant les conflits."
+firm_ztr_geneva_convention_tooltip: "Conventions de Genève signées."
+
+withdraw_ztr_geneva_convention: "Se retirer des Conventions de Genève"
+withdraw_ztr_geneva_convention_desc: "Se retirer des Conventions de Genève signifierait abandonner notre engagement envers le droit humanitaire international. Cela pourrait entraîner une augmentation de la souffrance et des violations des droits de l'homme pendant les conflits."
+withdraw_ztr_geneva_convention_tooltip: "Conventions de Genève retirées."
+
+enter_ztr_society_of_nations: "Rejoindre la Société des Nations"
+enter_ztr_society_of_nations_desc: "Rejoindre la Société des Nations nous permettrait de participer à la diplomatie et à la coopération internationales, promouvant la paix et la stabilité. C'est une opportunité de renforcer notre position mondiale et de collaborer avec d'autres nations."
+enter_ztr_society_of_nations_tooltip: "Adhésion à la Société des Nations accordée."
+
+withdraw_ztr_society_of_nations: "Se retirer de la Société des Nations"
+withdraw_ztr_society_of_nations_desc: "Se retirer de la Société des Nations nous isolerait de la diplomatie et de la coopération internationales. Cela pourrait entraîner une augmentation des tensions et entraver notre capacité à relever efficacement les défis mondiaux."
+withdraw_ztr_society_of_nations_tooltip: "Adhésion à la Société des Nations retirée."
+
+un_foundation: "Fonder les Nations Unies"
+un_foundation_desc: "Les Nations Unies sont une organisation internationale fondée pour promouvoir la paix, la sécurité et la coopération entre les nations. En établissant l'ONU, nous pouvons jouer un rôle crucial dans la formation de la gouvernance mondiale et l'élimination des problèmes internationaux."
+un_foundation_tooltip: "Nations Unies fondées."
+
+become_member_united_nations: "Devenir membre des Nations Unies"
+become_member_united_nations_desc: "Rejoindre les Nations Unies améliorerait notre position internationale et nous permettrait de participer à la prise de décision mondiale. C'est un pas vers une plus grande coopération et collaboration avec d'autres nations."
+become_member_united_nations_tooltip: "Adhésion aux Nations Unies accordée."
+
+withdraw_united_nations: "Se retirer des Nations Unies"
+withdraw_united_nations_desc: "Se retirer des Nations Unies nous isolerait de la gouvernance mondiale et de la coopération. Cela pourrait entraîner une augmentation des tensions et entraver notre capacité à relever efficacement les défis internationaux."
+withdraw_united_nations_tooltip: "Adhésion aux Nations Unies retirée."
+
+become_permanent_member_united_nations: "Devenir membre permanent des Nations Unies"
+become_permanent_member_united_nations_desc: "En tant que membre permanent des Nations Unies, nous aurions une influence significative sur la prise de décision mondiale et les questions de sécurité. Ce statut, réservé aux nations les plus puissantes, nous garantirait un droit de veto et un rôle de premier plan dans la formation des politiques internationales."
+become_permanent_member_united_nations_tooltip: "Adhésion permanente aux Nations Unies accordée."
+
+decolonization_tunisia_decision: "Décoloniser la Tunisie"
+decolonization_tunisia_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Tunisie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population tunisienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_algeria_decision: "Décoloniser l'Algérie"
+decolonization_algeria_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser l'Algérie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population algérienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_morocco_decision: "Décoloniser le Maroc"
+decolonization_morocco_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Maroc et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population marocaine mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_libya_decision: "Décoloniser la Libye"
+decolonization_libya_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Libye et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population libyenne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_egypt_decision: "Décoloniser l'Égypte"
+decolonization_egypt_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser l'Égypte et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population égyptienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_sudan_decision: "Décoloniser le Soudan"
+decolonization_sudan_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Soudan et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population soudanaise mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_arabia_decision: "Décoloniser l'Arabie"
+decolonization_arabia_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser l'Arabie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population arabe mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_oman_decision: "Décoloniser Oman"
+decolonization_oman_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser Oman et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population omanaise mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_yemen_decision: "Décoloniser le Yémen"
+decolonization_yemen_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Yémen et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population yéménite mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_uae_decision: "Décoloniser les États de la Trêve"
+decolonization_uae_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser les États de la Trêve et permettre à leur peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec les populations émiratie et bahreïnie mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_persia_decision: "Décoloniser la Perse"
+decolonization_persia_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Perse et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population perse mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_birmania_decision: "Décoloniser la Birmanie"
+decolonization_birmania_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Birmanie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population birmane mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_siam_decision: "Décoloniser le Siam"
+decolonization_siam_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Siam et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population siamoise mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_laos_decision: "Décoloniser le Laos"
+decolonization_laos_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Laos et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population laotienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_vietnam_decision: "Décoloniser le Vietnam"
+decolonization_vietnam_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Vietnam et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population vietnamienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_cambodia_decision: "Décoloniser le Cambodge"
+decolonization_cambodia_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Cambodge et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population cambodgienne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+# NEW 1.3
+
+indian_unifier_decision: "Se porter candidat comme unificateur indien"
+indian_unifier_decision_desc: "Après la colonisation britannique, l'Inde est fragmentée en de nombreux États. Un pays fort comme le nôtre pourrait unifier ces États sous une seule bannière, créant une nation indienne puissante capable de résister aux puissances étrangères et à leurs ambitions impérialistes."
+
+decolonization_india_decision: "Intégrer les États indiens dans l'Inde"
+decolonization_india_decision_desc: "Une puissance moyenne indienne s'est déclarée dirigeant d'une Inde unifiée, cherchant cette période post-colonisation britannique comme une opportunité d'hégémonie indienne. Devrions-nous intégrer nos États dans l'Inde, ou devrions-nous continuer à les gouverner comme des entités séparées ? La décision nous appartient."
+
+decolonization_korea_decision: "Décoloniser la Corée"
+decolonization_korea_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Corée et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population coréenne mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_japan_decision: "Décoloniser le Japon"
+decolonization_japan_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser le Japon et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population japonaise mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_china_decision: "Décoloniser la Chine"
+decolonization_china_decision_desc: "La colonisation devient quelque chose du passé. Nous devons décoloniser la Chine et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population chinoise mais aussi notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+durrand_line: "Signer le traité de Gandamak"
+durrand_line_desc: "Codifier les frontières entre l'Afghanistan, la Perse et l'Inde"
+decolonization_india_raj_consolidation: "Consolider le Raj britannique"
+decolonization_india_raj_consolidation_desc: "Le Raj britannique sera consolidé"
+decolonization_india_raj_takes_uk_states: "Céder les territoires britanniques au Raj britannique"
+decolonization_india_raj_takes_uk_states_desc: "Le Raj britannique prendra les territoires britanniques en Inde"
+decolonization_india_raj_independence_request: "Demander l'indépendance de l'Empire britannique"
+decolonization_india_raj_independence_request_desc: "Plus d'un siècle s'est écoulé depuis que les Britanniques ont établi un règne consolidé sur l'ensemble du sous-continent indien. Le moment est venu de demander l'indépendance de l'Empire britannique et d'établir un État indien souverain, ou quelque chose qui s'en rapproche, compte tenu de nos différences culturelles et religieuses. S'ils refusent, nous devrons nous battre pour l'obtenir."
+
+ztr_austrian_german_partition_treaty: "Traité de partition austro-prussien"
+ztr_austrian_german_partition_treaty_desc: "À la suite de décennies de rivalité et d'ambitions contrariées, ni Vienne ni Berlin n'ont réussi à forger une nation allemande unie. La ferveur nationaliste croissante, au lieu de lier les terres allemandes ensemble, n'a fait qu'approfondir le fossé entre les deux grandes puissances avec des guerres stériles et destructrices.\n Au début du XXe siècle, pour éviter une discorde perpétuelle et sécuriser nos terres allemandes, nous pouvons nous réunir à Munich pour sceller un traité solennel avec nos rivaux : la partition formelle des États allemands en zones d'influence autrichiennes et prussiennes distinctes, figeant le rêve d'unification en une paix soigneusement équilibrée, mais fragile."
+
+ztr_super_germany_sphere_of_influence: "Question des territoires non-allemands"
+ztr_super_germany_sphere_of_influence_desc: "Depuis des années, depuis la formation de l'Empire allemand, maintenant une puissance mondiale, les populations du sud et de l'est de notre empire demandent une autonomie légèrement plus grande, afin de préserver leur identité en échange de loyauté et d'une plus grande centralisation de notre contrôle sur l'espace vital allemand. Cela pourrait être un moyen de créer une sphère d'influence efficace, évitant les frictions culturelles entre la population locale et notre autorité centrale."
+
+# NOUVEAU 1.4
+
+decolonization_kenya_decision: "Décoloniser le Kenya"
+decolonization_kenya_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Kenya et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population kényane, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_namibia_decision: "Décoloniser la Namibie"
+decolonization_namibia_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Namibie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population namibienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_somalia_decision: "Décoloniser la Somalie"
+decolonization_somalia_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Somalie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population somalienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_eritrea_decision: "Décoloniser l’Érythrée"
+decolonization_eritrea_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser l’Érythrée et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population érythréenne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_chad_decision: "Décoloniser le Tchad"
+decolonization_chad_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Tchad et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population tchadienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_niger_decision: "Décoloniser le Niger"
+decolonization_niger_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Niger et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population nigérienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_mauritania_decision: "Décoloniser la Mauritanie"
+decolonization_mauritania_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Mauritanie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population mauritanienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_senegal_decision: "Décoloniser le Sénégal"
+decolonization_senegal_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Sénégal et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population sénégalaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_guinea_decision: "Décoloniser la Guinée"
+decolonization_guinea_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Guinée et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population guinéenne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_ivory_coast_decision: "Décoloniser la Côte d’Ivoire"
+decolonization_ivory_coast_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Côte d’Ivoire et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population ivoirienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_ghana_decision: "Décoloniser le Ghana"
+decolonization_ghana_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Ghana et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population ghanéenne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_togo_decision: "Décoloniser le Togo"
+decolonization_togo_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Togo et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population togolaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_benin_decision: "Décoloniser le Bénin"
+decolonization_benin_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Bénin et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population béninoise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_burkina_faso_decision: "Décoloniser le Burkina Faso"
+decolonization_burkina_faso_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Burkina Faso et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population burkinabé, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_nigeria_decision: "Décoloniser le Nigeria"
+decolonization_nigeria_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Nigeria et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population nigériane, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_cameroon_decision: "Décoloniser le Cameroun"
+decolonization_cameroon_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Cameroun et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population camerounaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_central_african_republic_decision: "Décoloniser la République centrafricaine"
+decolonization_central_african_republic_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la République centrafricaine et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population centrafricaine, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_gabon_decision: "Décoloniser le Gabon"
+decolonization_gabon_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Gabon et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population gabonaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_republic_of_the_congo_decision: "Décoloniser le Congo (Nord)"
+decolonization_republic_of_the_congo_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la République du Congo et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population congolaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_democratic_republic_of_the_congo_decision: "Décoloniser le Congo (Sud)"
+decolonization_democratic_republic_of_the_congo_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la République démocratique du Congo et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population congolaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_uganda_decision: "Décoloniser l’Ouganda"
+decolonization_uganda_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser l’Ouganda et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population ougandaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_rwanda_decision: "Décoloniser le Rwanda"
+decolonization_rwanda_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Rwanda et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population rwandaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_tanzania_decision: "Décoloniser la Tanzanie"
+decolonization_tanzania_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Tanzanie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population tanzanienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_angola_decision: "Décoloniser l’Angola"
+decolonization_angola_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser l’Angola et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population angolaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_zambia_decision: "Décoloniser la Zambie"
+decolonization_zambia_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser la Zambie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population zambienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_mozambique_decision: "Décoloniser le Mozambique"
+decolonization_mozambique_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Mozambique et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population mozambicaine, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_malawi_decision: "Décoloniser le Malawi"
+decolonization_malawi_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Malawi et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population malawite, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_eswatini_decision: "Décoloniser l’Eswatini"
+decolonization_eswatini_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser l’Eswatini et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population swazie, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_lesotho_decision: "Décoloniser le Lesotho"
+decolonization_lesotho_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Lesotho et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population basotho, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_mali_decision: "Décoloniser le Mali"
+decolonization_mali_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Mali et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population malienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_botswana_decision: "Décoloniser le Botswana"
+decolonization_botswana_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Botswana et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population botswanaise, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_zimbabwe_decision: "Décoloniser le Zimbabwe"
+decolonization_zimbabwe_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser le Zimbabwe et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population zimbabwéenne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_madagascar_decision: "Décoloniser Madagascar"
+decolonization_madagascar_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser Madagascar et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population malgache, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+decolonization_ethiopia_decision: "Décoloniser l’Éthiopie"
+decolonization_ethiopia_decision_desc: "La colonisation appartient désormais au passé. Nous devons décoloniser l’Éthiopie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population éthiopienne, mais aussi notre réputation internationale en tant que nation respectant le droit à l’autodétermination."
+
+ztr_population_measure_decision: "Mettre en place des mesures de santé publique"
+ztr_population_measure_decision_desc: "Face au déclin démographique et à l’absence d’un système national de santé avancé, malgré notre économie développée et notre technologie, nous devons agir pour améliorer la santé et le bien-être de nos citoyens. Cette décision vise à instaurer une loi sur la santé, après débat avec nos principaux groupes d’intérêts, afin de répondre à ces enjeux et promouvoir une population en meilleure santé."
+
+firm_ztr_treaty_of_rome: "Rejoindre la Communauté économique européenne"
+firm_ztr_treaty_of_rome_desc: "En signant le Traité de Rome, nous nous engageons à rejoindre la Communauté économique européenne (CEE), une étape majeure vers l’intégration et la coopération économique entre les nations européennes. Cette décision renforcera nos relations commerciales, favorisera la croissance économique et consolidera notre position sur le marché mondial. Si nous choisissons d’adhérer, nous devrons d’abord adapter nos lois pour les aligner sur les normes de la CEE, telles que le suffrage universel, les droits des travailleurs, la liberté d’expression, les droits des femmes et la protection de l’enfance."
+
+create_eu_decision: "Créer l’Union européenne"
+create_eu_decision_desc: "L’Union européenne (UE) est une union politique et économique regroupant des États membres situés principalement en Europe. En créant l’UE, nous visons à renforcer l’intégration et la coopération entre les nations européennes, en promouvant la paix, la stabilité et la prospérité dans la région. Cette décision impliquera l’établissement de politiques communes en matière de commerce, d’agriculture et de développement régional, ainsi que l’adoption d’un marché unique avec libre circulation des biens, des services, des personnes et des capitaux."
+
+join_european_union: "Rejoindre l’Union européenne"
+join_european_union_desc: "En signant le Traité de Maastricht, nous nous engageons à rejoindre l’Union européenne (UE), une étape majeure vers une intégration politique et économique plus approfondie entre les nations européennes. Cette décision renforcera nos relations commerciales, favorisera la croissance économique et consolidera notre position sur le marché mondial. Si nous choisissons d’adhérer, nous devrons d’abord adapter nos lois pour les aligner sur les normes de l’UE, telles que le suffrage universel, les droits des travailleurs, la liberté d’expression, les droits des femmes et la protection de l’enfance."
+
+withdraw_from_european_union: "Se retirer de l’Union européenne"
+withdraw_from_european_union_desc: "Se retirer de l’Union européenne (UE) signifierait rompre avec l’intégration politique et économique établie entre les États membres. Cette décision pourrait entraîner une hausse des barrières commerciales, une baisse de la croissance économique et une réduction de notre rôle dans les affaires mondiales. Il est essentiel de bien mesurer les conséquences d’un tel choix, car cela pourrait affecter nos relations avec les autres nations européennes ainsi que la capacité de nos citoyens à vivre et travailler librement au sein de l’UE."
+
+# NOUVEAU 1.5
+
+decolonization_iraq_decision: "Décoloniser l'Irak"
+decolonization_iraq_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser l'Irak et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population irakienne, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_syria_decision: "Décoloniser la Syrie"
+decolonization_syria_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser la Syrie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population syrienne, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_lebanon_decision: "Décoloniser le Liban"
+decolonization_lebanon_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser le Liban et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population libanaise, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_transjordan_decision: "Décoloniser la Transjordanie"
+decolonization_transjordan_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser la Transjordanie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population jordanienne, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_palestine_decision: "Décoloniser la Palestine"
+decolonization_palestine_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser la Palestine et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population palestinienne, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_kurdistan_decision: "Décoloniser le Kurdistan"
+decolonization_kurdistan_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser le Kurdistan et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population kurde, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_afghanistan_decision: "Décoloniser l'Afghanistan"
+decolonization_afghanistan_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser l'Afghanistan et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population afghane, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_malaysia_decision: "Décoloniser la Malaisie"
+decolonization_malaysia_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser la Malaisie et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population malaisienne, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_nepal_decision: "Décoloniser le Népal"
+decolonization_nepal_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser le Népal et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population népalaise, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_bhutan_decision: "Décoloniser le Bhoutan"
+decolonization_bhutan_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser le Bhoutan et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population bhoutanaise, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_tibet_decision: "Décoloniser le Tibet"
+decolonization_tibet_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser le Tibet et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population tibétaine, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_new_zealand_decision: "Décoloniser la Nouvelle-Zélande"
+decolonization_new_zealand_decision_desc: "La colonisation appartient au passé. Nous devons décoloniser la Nouvelle-Zélande et permettre à son peuple de se gouverner lui-même. Cela améliorera non seulement nos relations avec la population néo-zélandaise, mais renforcera également notre réputation internationale en tant que nation qui respecte l'autodétermination."
+
+decolonization_new_zealand_decision_gbr: "Créer la Colonie de Nouvelle-Zélande"
+decolonization_new_zealand_decision_gbr_desc: "Notre colonie australienne s'est considérablement développée ces dernières années, et il est temps d'établir une colonie séparée pour la Nouvelle-Zélande. Cela nous permettra de mieux gérer les affaires de cette région et d'offrir une gouvernance plus ciblée à ses habitants et à la majorité maorie."
+
+decolonization_indonesia_netherlands_consolidation: "Consolider les Indes orientales néerlandaises"
+decolonization_indonesia_netherlands_consolidation_desc: "Les Indes orientales néerlandaises sont depuis longtemps une colonie précieuse pour notre nation et nous devrions incorporer les autres territoires néerlandais de la région en une seule entité administrative. Cette consolidation rationalisera la gouvernance, améliorera la gestion des ressources et renforcera notre capacité à répondre aux besoins et aux défis locaux."
+
+ztr_trait_hiddening_decision: "Masquer les traits d'État Tech & Res"
+ztr_trait_hiddening_decision_desc: "Les traits d'État Tech&Res seront masqués (WIP, n'activez QUE si vous ne voulez vraiment pas les voir)"
+
+ztr_trait_unhiddening_decision: "Afficher les traits d'État Tech & Res"
+ztr_trait_unhiddening_decision_desc: "Comme le titre l'indique."
+
+ztr_hindu_decision: "Promouvoir l'hindouisme comme religion d'État"
+ztr_hindu_decision_desc: "Afin de renforcer notre identité nationale et notre héritage culturel, nous devons abandonner les influences religieuses étrangères, telles que l'islam, et promouvoir l'hindouisme comme notre religion d'État. Cette décision contribuera à unifier notre population sous une foi commune, mais peut également engendrer des tensions avec les groupes religieux minoritaires."
+
+ztr_anschluss_decision: "Poursuivre l'Anschluss avec l'Autriche"
+ztr_anschluss_decision_desc: "L'unification de l'Allemagne et de l'Autriche est depuis longtemps un rêve pour beaucoup de nos concitoyens. En poursuivant l'Anschluss, nous pouvons renforcer notre nation tant sur le plan politique qu'économique. Le peuple allemand doit être uni sous un seul drapeau."
+
+ztr_us_wants_to_buy_west_coast: "Négocier l'achat de la côte Ouest"
+ztr_us_wants_to_buy_west_coast_desc: "De nombreuses années se sont écoulées depuis la fin de l'ère de la 'Frontière', et nos territoires de l'ouest sont devenus de plus en plus développés et prospères. Cependant, posséder des ports sur la côte Pacifique et les terres fertiles de Californie renforcerait grandement nos capacités commerciales et notre profondeur stratégique. Nous devrions envisager de négocier avec le Mexique pour acheter ces territoires, dans le cadre d'une mission civilisatrice visant à apporter le progrès et la prospérité."
+
+ztr_give_newfoundland_to_canada: "Céder Terre-Neuve au Canada"
+ztr_give_newfoundland_to_canada_desc: "Terre-Neuve a toujours été une colonie distante et quelque peu isolée, avec de forts liens culturels et économiques avec le Canada. En cédant Terre-Neuve au Canada, nous pouvons permettre aux Terre-Neuviens de bénéficier d'une intégration plus étroite avec l'économie et la société canadiennes. Cette décision nous aidera également à concentrer nos ressources sur des zones plus stratégiques de notre pays."

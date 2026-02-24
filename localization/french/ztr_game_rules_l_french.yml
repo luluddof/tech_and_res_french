@@ -1,0 +1,30 @@
+﻿l_french:
+
+
+# NOUVEAU 1.0
+
+rule_ztr_decolonization_content: "Contenu de Décolonisation (Tech&Res)"
+setting_allow_ztr_decolonization_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_allow_ztr_decolonization_content_desc #high Activé#!#!#!"
+setting_allow_ztr_decolonization_content_desc: "Autoriser le contenu général sur la [Concept('concept_decolonization','$concept_decolonization$')] durant cette campagne, pour une expérience #b historique#! après 1945."
+setting_no_ztr_decolonization_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_ztr_decolonization_content_desc #high Désactivé#!#!#!"
+setting_no_ztr_decolonization_content_desc: "Désactiver le contenu général sur la [Concept('concept_decolonization','$concept_decolonization$')] durant cette campagne, pour une expérience #b vanilla#! ou axée sur la conquête mondiale (#b world-conquer#!)."
+
+rule_ztr_historical_content: "Contenu Historique (Tech&Res)"
+setting_allow_ztr_historical_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_allow_ztr_historical_content_desc #high Activé#!#!#!"
+setting_allow_ztr_historical_content_desc: "Autoriser le contenu historique, pour l’instant concernant #b l’Inde#!, #b l’Autriche#! et #b l’Empire Ottoman#!."
+setting_no_ztr_historical_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_ztr_historical_content_desc #high Désactivé#!#!#!"
+setting_no_ztr_historical_content_desc: "Désactiver le contenu historique durant cette campagne, pour une expérience #b vanilla#! ou pour la compatibilité avec un mod historique (#b historical mod compatibility#!)."
+
+rule_ztr_uchronia_content: "Contenu Uchronique (Tech&Res)"
+setting_allow_ztr_uchronia_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_allow_ztr_uchronia_content_desc #high Activé#!#!#!"
+setting_allow_ztr_uchronia_content_desc: "Autoriser le contenu uchronique durant cette campagne, pour une expérience de jeu plus rapide."
+setting_no_ztr_uchronia_content: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_ztr_uchronia_content_desc #high Désactivé#!#!#!"
+setting_no_ztr_uchronia_content_desc: "Désactiver le contenu uchronique durant cette campagne, pour une expérience #b vanilla#!."
+
+rule_ztr_pop_lag_fix: "Correction du Retard de Population (Tech&Res)"
+setting_allow_ztr_pop_lag_fix: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_allow_ztr_pop_lag_fix_desc #high Activé#!#!#!"
+setting_allow_ztr_pop_lag_fix_desc: "Cette règle réduit le nombre de pops dans les états en effectuant une assimilation douce des cultures non acceptées. Après 1936, l’assimilation devient agressive, sans nuire à l’équilibre du jeu. Recommandé pour les parties performantes au-delà du XXIᵉ siècle."
+setting_mid_ztr_pop_lag_fix: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_mid_ztr_pop_lag_fix_desc #high Après 1936#!#!#!"
+setting_mid_ztr_pop_lag_fix_desc: "Cette règle active une assimilation très agressive uniquement après 1936, tout en conservant les mécaniques d’assimilation vanilla avant 1936."
+setting_no_ztr_pop_lag_fix: "#tooltippable #tooltip:[GetPlayer.GetTooltipTag],setting_no_ztr_pop_lag_fix_desc #high Désactivé#!#!#!"
+setting_no_ztr_pop_lag_fix_desc: "Cette règle s’adresse à ceux qui préfèrent les mécaniques d’assimilation vanilla tout au long du jeu. (Processeur haut de gamme recommandé)"

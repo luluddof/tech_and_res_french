@@ -1,0 +1,24 @@
+﻿ l_french:
+
+# prestige_good_generic_records_and_films
+ je_ztr_prestige_good_generic_records_and_films: "$prestige_good_generic_records_and_films$"
+ je_ztr_prestige_good_generic_records_and_films_reason: "[SCOPE.sCompany('relevant_company').GetName] s'est imposée comme un acteur important de notre économie. L'entreprise cherche à tirer parti de sa prospérité actuelle pour développer sa propre marque de @prestige_good_generic_records_and_films! #b $prestige_good_generic_records_and_films$#!. Si elle réussit, elle pourra accroître sa compétitivité sur le marché mondial du @air_travel! #b $air_travel$#!."
+ je_ztr_prestige_good_generic_records_and_films_goal: "Maintenir ce statut pendant #v [GetPlayer.MakeScope.ScriptValue('prestige_good_journal_entry_months')] mois#! (actuellement #v [ROOT.GetCountry.MakeScope.Var('prestige_good_generic_records_timer_var').GetValue]#!): #indent_newline:3"
+ je_ztr_prestige_good_generic_records_and_films_complete_tt: "A complété le #b $je_ztr_prestige_good_generic_records_and_films$#! [concept_journal_entry]"
+ je_ztr_prestige_good_generic_records_and_films_reward_tt: "[SCOPE.sCompany('relevant_company').GetName] pourra produire des @prestige_good_generic_records_and_films! #b $prestige_good_generic_records_and_films$#!"
+ not_ztr_prestige_good_generic_records_and_films_var_tt: "N'a #b pas#! encore développé de @prestige_good_generic_records_and_films! #b $prestige_good_generic_records_and_films$#!"
+ notification_ztr_prestige_good_generic_records_and_films_unlocked_name: "[SCOPE.sCompany('relevant_company').GetName] développe des @prestige_good_generic_records_and_films! #b $prestige_good_generic_records_and_films$#!"
+ notification_ztr_prestige_good_generic_records_and_films_unlocked_desc: "[Concept('concept_building', '$concept_buildings$')] détenu par [SCOPE.sCompany('relevant_company').GetName] peut désormais commencer à produire des @prestige_good_generic_records_and_films! #b $prestige_good_generic_records_and_films$#!"
+ notification_ztr_prestige_good_generic_records_and_films_unlocked_tooltip: "#header $notification_ztr_prestige_good_generic_records_and_films_unlocked_name$#!\n$TOOLTIP_DELIMITER$\n$notification_ztr_prestige_good_generic_records_and_films_unlocked_desc$"
+
+# prestige_good_generic_instruments
+ je_ztr_prestige_good_generic_instruments: "$prestige_good_generic_instruments$"
+ je_ztr_prestige_good_generic_instruments_reason: "[SCOPE.sCompany('relevant_company').GetName] s'est imposée comme un acteur important de notre économie. L'entreprise cherche à tirer parti de sa prospérité actuelle pour développer sa propre marque de @prestige_good_generic_instruments! #b $prestige_good_generic_instruments$#!. Si elle réussit, elle pourra accroître sa compétitivité sur le marché mondial du @air_travel! #b $air_travel$#!."
+ je_ztr_prestige_good_generic_instruments_goal: "Maintenir ce statut pendant #v [GetPlayer.MakeScope.ScriptValue('prestige_good_journal_entry_months')] mois#! (actuellement #v [ROOT.GetCountry.MakeScope.Var('prestige_good_generic_instruments_timer_var').GetValue]#!): #indent_newline:3"
+ je_ztr_prestige_good_generic_instruments_complete_tt: "A complété le #b $je_ztr_prestige_good_generic_instruments$#! [concept_journal_entry]"
+ je_ztr_prestige_good_generic_instruments_reward_tt: "[SCOPE.sCompany('relevant_company').GetName] pourra produire des @prestige_good_generic_instruments! #b $prestige_good_generic_instruments$#!"
+ not_ztr_prestige_good_generic_instruments_var_tt: "N'a #b pas#! encore développé de @prestige_good_generic_instruments! #b $prestige_good_generic_instruments$#!"
+ notification_ztr_prestige_good_generic_instruments_unlocked_name: "[SCOPE.sCompany('relevant_company').GetName] développe des @prestige_good_generic_instruments! #b $prestige_good_generic_instruments$#!"
+ notification_ztr_prestige_good_generic_instruments_unlocked_desc: "[Concept('concept_building', '$concept_buildings$')] détenu par [SCOPE.sCompany('relevant_company').GetName] peut désormais commencer à produire des @prestige_good_generic_instruments! #b $prestige_good_generic_instruments$#!"
+ notification_ztr_prestige_good_generic_instruments_unlocked_tooltip: "#header $notification_ztr_prestige_good_generic_instruments_unlocked_name$#!\n$TOOLTIP_DELIMITER$\n$notification_ztr_prestige_good_generic_instruments_unlocked_desc$"
+

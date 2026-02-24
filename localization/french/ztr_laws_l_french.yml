@@ -1,0 +1,111 @@
+﻿l_french:
+
+# NOUVEAU 1.3
+mine_banned_hazardous_tt: "Il ne sera plus possible de construire des #bold mines#! de charbon, de plomb et de soufre"
+mine_banned_strategic_tt: "Il ne sera plus possible de construire des #bold mines#! de charbon, de plomb, de soufre, d’uranium et de bauxite"
+mine_banned_tt: "Il ne sera plus possible de construire #bold toutes les mines#!"
+mine_banned_destroy_tt: "@warning! Toutes les #bold mines#! de charbon, de plomb et de soufre dans ce pays seront #bold démantelées#!"
+uranium_banned_destroy_tt: "@warning! Toutes les #bold centrales nucléaires#! de ce pays seront #bold démantelées#!"
+recycling_center_activation_tt: "Les modes de production des centres de recyclage seront disponibles, permettant le recyclage de divers matériaux. Cela aidera à réduire les déchets et à promouvoir une gestion durable des ressources."
+
+# Lois minières
+lawgroup_mining_policy: "Politique minière"
+lawgroup_mining_policy_desc: "Lois qui régulent l’industrie minière, y compris l’extraction de ressources dangereuses et stratégiques."
+
+law_mining_unrestricted: "Exploitation minière libre"
+law_mining_unrestricted_desc: "Cette loi autorise la construction de tous types de mines. Elle favorise la croissance économique mais peut poser des problèmes environnementaux et de sécurité."
+law_mining_restrict_hazardous: "Restriction des mines dangereuses"
+law_mining_restrict_hazardous_desc: "Cette loi restreint la construction de mines dangereuses, afin de réduire les dommages environnementaux et de protéger la santé publique."
+law_mining_strategic: "Exploitation minière stratégique"
+law_mining_strategic_desc: "Cette loi limite la construction aux seules mines stratégiques, comme les terres rares. Elle vise à sécuriser des ressources essentielles pour l’économie et les besoins militaires de la nation."
+law_polluting_mining_banned: "Interdiction des mines polluantes"
+law_polluting_mining_banned_desc: "Cette loi limite la construction de toutes les mines et ferme les mines polluantes afin de protéger l’environnement et la santé publique. C’est un pas important vers le développement durable, mais un recul pour l’économie."
+
+# Lois sur l’uranium
+lawgroup_uranium_usage: "Utilisation de l’uranium"
+lawgroup_uranium_usage_desc: "Lois qui régulent l’utilisation de l’uranium, y compris dans les réacteurs nucléaires et les armes."
+
+law_uranium_civil_usage: "Usage civil de l’uranium"
+law_uranium_civil_usage_desc: "Cette loi autorise l’utilisation de l’uranium à des fins civiles, comme la production d’énergie nucléaire. Elle favorise l’indépendance énergétique et réduit la dépendance aux combustibles fossiles."
+law_uranium_full_usage: "Usage militaire de l’uranium" # La seule façon d’obtenir la bombe atomique
+law_uranium_full_usage_desc: "Cette loi autorise l’utilisation de l’uranium à la fois à des fins civiles et militaires, y compris pour les armes nucléaires. Elle favorise l’indépendance énergétique et renforce la sécurité nationale. Si vous avez cette loi, vous possédez une bombe atomique."
+law_uranium_ban: "Interdiction de l’uranium"
+law_uranium_ban_desc: "Cette loi interdit l’utilisation de l’uranium à toutes fins, civiles comme militaires."
+
+# Lois bioéthiques
+lawgroup_bioethics: "Bioéthique"
+lawgroup_bioethics_desc: "Lois qui régulent les questions bioéthiques, y compris le droit à la vie, l’avortement et l’euthanasie."
+law_life_rights: "Droit à la vie"
+law_life_rights_desc: "Cette loi reconnaît le droit à la vie et interdit les pratiques qui violent ce droit, comme l’euthanasie et l’avortement. Elle vise à protéger la sacralité de la vie et à promouvoir des normes éthiques dans la société."
+law_regulated_adoption: "Adoption réglementée"
+law_regulated_adoption_desc: "Cette loi réglemente le processus d’adoption, garantissant qu’il se déroule de manière éthique et dans l’intérêt supérieur de l’enfant. Elle vise à protéger les droits des enfants et à promouvoir une parentalité responsable."
+law_abortion: "Droit à l’avortement"
+law_abortion_desc: "Cette loi encadre l’avortement, en l’autorisant sous certaines conditions. Elle vise à équilibrer les droits de la mère et ceux de l’enfant à naître, en promouvant des pratiques responsables en matière de santé reproductive."
+law_euthanasia: "Droit à l’euthanasie"
+law_euthanasia_desc: "Cette loi autorise l’euthanasie sous conditions spécifiques, reconnaissant le droit de mourir dans la dignité. Elle vise à offrir des options compatissantes aux personnes confrontées à une maladie terminale ou à des souffrances insupportables, tout en imposant des directives éthiques strictes."
+
+# Lois sur les données
+lawgroup_data_policy: "Politique des données"
+lawgroup_data_policy_desc: "Lois qui régulent la collecte et la confidentialité des données, y compris l’utilisation des données biométriques."
+law_data_free_harvest: "Récolte libre des données"
+law_data_free_harvest_desc: "Cette loi autorise la collecte illimitée de données, y compris biométriques. Elle favorise le progrès technologique et la prise de décision basée sur les données, mais suscite des inquiétudes sur la vie privée et les droits individuels."
+law_data_privacy_basic: "Confidentialité basique des données"
+law_data_privacy_basic_desc: "Cette loi établit des droits élémentaires à la confidentialité des données, protégeant les individus contre la collecte et l’utilisation non autorisées. Elle vise à équilibrer progrès technologique et besoin de sécurité."
+law_data_biometric_ban: "Interdiction des données biométriques"
+law_data_biometric_ban_desc: "Cette loi interdit la collecte et l’utilisation de données biométriques, comme les empreintes digitales et la reconnaissance faciale. Elle vise à protéger la vie privée et à prévenir les abus potentiels d’informations sensibles."
+
+# Lois LGBTQ+
+lawgroup_lgbtq_rights: "Droits LGBTQ+"
+lawgroup_lgbtq_rights_desc: "Lois qui régulent les droits LGBTQ+, y compris le mariage, l’adoption et les protections contre la discrimination."
+
+lgbtq_traditional_couples: "Rôles traditionnels"
+lgbtq_traditional_couples_desc: "Cette loi met en avant les structures et rôles familiaux traditionnels, promouvant l’idée que le mariage doit être entre un homme et une femme. Elle ne reconnaît ni ne protège légalement les couples de même sexe, maintenant les valeurs traditionnelles et limitant les droits des individus LGBTQ+."
+lgbtq_sex_equality: "Rôles hybrides" # C’est aussi une loi de néo-féminisme
+lgbtq_sex_equality_desc: "Cette loi garantit que toutes les personnes, quel que soit leur sexe, soient traitées également devant la loi et aient les mêmes opportunités. Elle interdit la discrimination basée sur le sexe ou l’orientation sexuelle et promeut l’inclusion, tout en maintenant la reconnaissance du mariage traditionnel."
+lgbtq_civil_unions: "Unions civiles"
+lgbtq_civil_unions_desc: "Les unions civiles offrent une reconnaissance légale aux couples de même sexe, avec certains droits et protections similaires au mariage. Bien qu’elles ne confèrent pas tous les avantages du mariage traditionnel, elles représentent une avancée vers l’égalité et l’inclusion, conciliant valeurs progressistes et traditions."
+lgbtq_full_gender_equality: "Égalité de genre"
+lgbtq_full_gender_equality_desc: "Cette loi garantit la pleine reconnaissance légale et l’égalité des droits pour toutes les personnes, quel que soit leur genre ou orientation sexuelle. Elle promeut l’inclusion, protège contre la discrimination et soutient les droits LGBTQ+ dans tous les aspects de la vie, y compris le mariage, l’adoption et l’emploi."
+
+# Lois environnementales
+lawgroup_environmental_policy: "Politique environnementale"
+lawgroup_environmental_policy_desc: "Lois qui régulent la protection de l’environnement, y compris la lutte contre la pollution et la gestion des ressources."
+law_no_protection: "Aucune protection environnementale"
+law_no_protection_desc: "Le pays ne possède aucune loi de protection de l’environnement, garantissant une croissance économique maximale au prix d’une forte dégradation. Cette loi autorise une activité industrielle sans restriction, entraînant pollution et épuisement des ressources."
+law_basic_protection: "Protection environnementale basique"
+law_basic_protection_desc: "Cette loi établit des mesures élémentaires de protection de l’environnement, incluant le contrôle de la pollution et la gestion des ressources. Elle vise à équilibrer croissance économique et durabilité."
+law_active_restoration: "Restauration active"
+law_active_restoration_desc: "Cette loi promeut la restauration active des écosystèmes et ressources endommagés. Elle encourage le reboisement, la conservation des habitats et le nettoyage des pollutions, afin de rétablir l’équilibre écologique et protéger la biodiversité tout en permettant un développement durable."
+
+# Éducation secondaire obligatoire
+lawgroup_advanced_education: "Politique d’éducation avancée"
+law_no_compulsory_secondary_school: "Pas d’école secondaire obligatoire"
+law_no_compulsory_secondary_school_desc: "Cette loi supprime l’obligation de fréquenter l’école secondaire, ce qui signifie que les adolescents ne sont pas tenus d’y assister. Cela peut entraîner une baisse du taux d’alphabétisation et limiter les opportunités éducatives, surtout pour les groupes défavorisés."
+law_compulsory_secondary_school: "École secondaire obligatoire"
+law_compulsory_secondary_school_desc: "Cette loi rend la fréquentation de l’école secondaire obligatoire pour tous les adolescents, garantissant un niveau d’éducation de base. Elle vise à améliorer l’alphabétisation, à favoriser la mobilité sociale et à soutenir le développement économique."
+law_public_universities: "Universités publiques"
+law_public_universities_desc: "Cette loi établit des universités publiques, offrant un accès à l’enseignement supérieur pour tous. Elle vise à promouvoir l’excellence académique, la recherche et l’innovation, tout en garantissant que l’éducation ne soit pas limitée par le statut socio-économique."
+
+
+# NOUVEAU 1.5
+
+nuclear_weapons_silo_destroy_tt: "Les [concept_building] **Silos d'Armes Nucléaires** de ce pays seront #V #N Démantelés#!#!, et le pays perdra son arsenal nucléaire."
+nuclear_weapons_silo_destroy_and_nuclear_power_plant_disabled_tt: "Les [concept_building] **Silos d'Armes Nucléaires** de ce pays seront #V #N Démantelés#!#!, et les [Concept('concept_production_method','$concept_production_methods$')] **Centrales Nucléaires** seront #V #N Désactivées#!#!."
+
+#################################################
+# Tous ces éléments ont été MIS À JOUR
+
+mine_banned_hazardous_tt: "@warning! Les [concept_building] **Mines de Charbon, de Plomb et de Soufre** ne seront plus #v Constructibles#!."
+mine_banned_strategic_tt: "@warning! Les [concept_building] **Mines de Charbon, de Plomb, de Soufre, d'Uranium et de Bauxite** ne seront plus #v Constructibles#!."
+mine_banned_tt: "@warning! Les [concept_building] **Mines** ne seront plus #v Constructibles#!."
+mine_banned_destroy_tt: "@warning! Les [concept_building] **Mines de Charbon, de Plomb et de Soufre** de ce pays seront #V #N Démantelées#!#!"
+recycling_center_activation_tt: "@warning! Le [Concept('concept_production_method','$concept_production_methods$')] **Centre de Recyclage** dans les [concept_building] **Centres Urbains** sera #positive_value Disponible#!, permettant le recyclage de divers matériaux. Cela aidera à réduire les déchets et à promouvoir une gestion durable des ressources."
+
+#################################################
+
+law_collectivized_agriculture_agro_socialist:"Collectivisation Agraire Soviétique"
+law_collectivized_agriculture_agro_socialist_desc:"Cette loi établit un cadre agricole collectivisé inspiré des idées agraires-socialistes. La terre est transférée des propriétaires fonciers privés à la propriété communale sous l'égide d'associations paysannes locales. L'agriculture est organisée par le biais de coopératives qui partagent les outils, le travail et les récoltes. Tout en promouvant l'égalité rurale et en réduisant l'exploitation, la politique maintient un caractère fortement paysan, équilibrant la surveillance étatique avec l'autonomie villageoise traditionnelle."
+law_command_economy_menshevik:"Économie d'État Démocratique"
+law_command_economy_menshevik_desc:"Cette loi crée une économie dirigée par l'État suivant les principes mencheviks. L'État contrôle les grandes industries, les banques et les infrastructures, tandis que la propriété privée reste possible dans les petites et moyennes entreprises. La planification économique vise à assurer le bien-être social et la modernisation, mais dans un cadre de pluralisme politique, de syndicats et de surveillance parlementaire. Des éléments de marché coexistent avec la coordination publique pour prévenir à la fois le chaos et la tyrannie."
+law_council_republic_soviet:"République des Conseils d'Ouvriers Soviétiques"
+law_council_republic_soviet_desc:"Cette loi établit un État gouverné par les Soviets—conseils d'ouvriers, de soldats et de paysans—détenant l'autorité suprême à tous les niveaux. Le pouvoir politique est centralisé sous le Parti Communiste, qui dirige les conseils vers la construction socialiste. Les libertés individuelles et les partis d'opposition sont subordonnés aux objectifs révolutionnaires collectifs, la production et l'administration étant gérées par un contrôle ouvrier hiérarchique sous la supervision du parti."

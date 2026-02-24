@@ -1,0 +1,21 @@
+﻿l_french:
+
+ideology_neg_ambientalist: "Environnementaliste négligent"
+ideology_neg_ambientalist_desc: "#lore Ce groupe se moque totalement de l’environnement, surtout si sa protection entre en conflit avec leurs intérêts économiques.#!"
+ideology_moderate_ambientalist: "Environnementaliste modéré"
+ideology_moderate_ambientalist_desc: "#lore Ce groupe estime que la protection de l’environnement est importante, mais qu’elle doit être équilibrée avec le mode de vie des populations.#!"
+ideology_extreme_ambientalist: "Environnementaliste extrême"
+ideology_extreme_ambientalist_desc: "#lore Ce groupe considère que la protection de l’environnement est la question la plus importante, et qu’elle doit primer sur toutes les autres préoccupations. Il prône des changements radicaux de société afin de préserver l’environnement.#!"
+ideology_neoliberal_ambientalist: "Environnementaliste néolibéral"
+ideology_neoliberal_ambientalist_desc: "#lore Ce groupe pense que la protection de l’environnement peut être atteinte grâce à des solutions fondées sur le marché et la modération, plutôt que par l’intervention de l’État qui pourrait nuire aux entreprises et à l’économie.#!"
+
+ideology_extreme_traditionalist: "Traditionaliste extrême"
+ideology_extreme_traditionalist_desc: "#lore Ce groupe estime que les valeurs et pratiques traditionnelles doivent être préservées à tout prix, même si cela implique de résister au changement et à la modernisation. Il s’oppose souvent aux mouvements progressistes et prône un retour aux normes sociales du passé.#!"
+ideology_moderate_traditionalist: "Traditionaliste modéré"
+ideology_moderate_traditionalist_desc: "#lore Ce groupe souhaite préserver les valeurs et pratiques traditionnelles, mais reste ouvert à un certain degré de changement et de modernisation. Il cherche à équilibrer tradition et progrès, défendant une société qui respecte son héritage tout en s’adaptant aux besoins contemporains.#!"
+ideology_moderate_progressist: "Progressiste modéré"
+ideology_moderate_progressist_desc: "#lore Ce groupe croit en un progrès graduel et en des réformes, prônant des changements sociaux et économiques qui améliorent la société tout en respectant les structures existantes. Il cherche à concilier innovation et stabilité, en promouvant une société qui évolue sans perdre son essence.#!"
+ideology_extreme_progressist: "Progressiste extrême"
+ideology_extreme_progressist_desc: "#lore Ce groupe a une vision radicale de l’avenir, cherchant à démanteler les structures de pouvoir existantes et à créer une société plus équitable par l’action directe et le changement systémique. Il adopte souvent des idées révolutionnaires et remet en cause le statu quo.#!"
+ideology_neoliberal_progressist: "Progressiste néolibéral"
+ideology_neoliberal_progressist_desc: "#lore Ce groupe estime que le progrès est important pour chaque individu, mais qu’il ne doit pas nuire aux entreprises ni à l’économie. Il défend une société qui favorise l’innovation et la croissance économique tout en veillant à ce que le progrès profite à tous les citoyens.#!"

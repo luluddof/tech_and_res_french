@@ -1,0 +1,327 @@
+﻿l_french:
+
+dlc_tech_res: "Tech & Res"
+dlc_tech_res_desc: "Tech & Res est un mod qui ajoute un système de progression technologique profond et immersif, incluant de nouvelles ères, des technologies de production et des mécanismes industriels de 1836 aux années 1990 et au-delà."
+
+# State Traits
+
+dubois_state_trait_volcano: "Volcan"
+
+# Military Units
+
+combat_unit_type_modern_mechanized_infantry: "Infanterie Mécanisée Moderne"
+combat_unit_type_modern_mechanized_infantry_desc: "Force très mobile et bien équipée, capable de déploiement rapide et d'opérations de combat efficaces."
+
+combat_unit_type_modern_light_tanks: "Chars Légers Modernes"
+combat_unit_type_modern_light_tanks_desc: "Véhicules blindés rapides et agiles, conçus pour la reconnaissance et les assauts rapides."
+
+combat_unit_type_modern_heavy_tank: "Char Lourd Moderne"
+combat_unit_type_modern_heavy_tank_desc: "Véhicule lourdement blindé et armé, offrant une puissance de feu et une protection supérieures sur le champ de bataille."
+
+combat_unit_type_main_battle_tanks: "Char de Combat Principal"
+combat_unit_type_main_battle_tanks_desc: "Véhicule blindé polyvalent, combinant puissance de feu, protection et mobilité pour divers scénarios de combat modernes, en particulier pendant la Guerre Froide."
+
+combat_unit_type_advanced_mechanized_infantry: "Infanterie Mécanisée Avancée"
+combat_unit_type_advanced_mechanized_infantry_desc: "Force très mobile et bien équipée, capable de déploiement rapide et d'opérations de combat efficaces."
+extra: "Extra"
+
+combat_unit_type_nuclear_submarine: "Sous-marin Nucléaire"
+combat_unit_type_nuclear_submarine_desc: "Sous-marin propulsé par des réacteurs nucléaires, permettant des opérations sous-marines prolongées et des engagements furtifs."
+
+combat_unit_type_modern_destroyer: "Destroyer Moderne"
+combat_unit_type_modern_destroyer_desc: "Navire de guerre rapide et manœuvrable, conçu pour la guerre anti-aérienne, anti-sous-marine et de surface."
+
+combat_unit_type_scout_modern_cruiser: "Croiseur Moderne d'Éclaireur"
+combat_unit_type_scout_modern_cruiser_desc: "Croiseur rapide et agile, conçu pour la reconnaissance et les opérations de réponse rapide."
+
+combat_unit_type_modern_battleship: "Cuirassé Moderne"
+combat_unit_type_modern_battleship_desc: "Navire de guerre lourdement armé et blindé, offrant un soutien d'artillerie à longue portée et une domination navale."
+
+# NEW 1.1 Pop growth modifiers
+
+historical_population_of_france_1: "Stagnation du XIXe Siècle"
+historical_population_of_france_2: "Stagnation du XIXe Siècle Résolue"
+population_of_brazil_end_of_slavery: "Essor des Favelas"
+population_of_brazil_end_of_slavery_player: "Essor des Favelas"
+population_of_country_modernizing: "Boom Démographique"
+japan_meiji_modernization: "Modernisation Meiji"
+japan_meiji_modernization_player: "Modernisation Meiji"
+usa_gilded_age: "Âge Doré"
+usa_gilded_age_player: "Âge Doré"
+arabia_renaissance_modifier: "Renaissance Arabe"
+anglo_irish_pact_modifier: "Trêve Anglo-Irlandaise"
+anglo_irish_false_pact_modifier: "Fausse Trêve Anglo-Irlandaise"
+bloody_sunday_modifier: "Dimanche Sanglant"
+good_friday_agreement_modifier: "Accord du Vendredi Saint"
+union_consolidated_modifier: "Union Anglo-Irlandaise Consolidée"
+austria_unity_restored: "Unité de l'Empire Restaurée"
+magyar_linguistic_discrimination: "Discrimination Linguistique Magyare"
+ztr_collapse_revolt_crushed: "Révolte Écrasée"
+ztr_collapse_revolt_appeased: "Révolte Apaisée"
+hungarian_rights_granted: "Droits Hongrois Accordés"
+czech_rights_granted: "Droits Tchèques Accordés"
+austrian_monarchy_humiliated: "Monarchie Autrichienne Humiliée"
+mittleuropa_harbor: "Port de la Mitteleuropa"
+galicia_agricultural_subsidies: "Subventions Agricoles en Galicie"
+
+ztr_geneva_convention: "Adhésion aux Conventions de Genève"
+ztr_society_of_nations: "Membre de la Société des Nations"
+ztr_onu_member: "Membre de l'ONU"
+ztr_onu_permanent_member: "Membre Permanent de l'ONU"
+ztr_un_resolution_refused_modifier: "Résolution de l'ONU Refusée"
+ztr_un_resolution_veto_modifier: "Veto Reçu sur une Résolution de l'ONU"
+ztr_un_resolution_used_veto_modifier: "Veto Utilisé sur une Résolution de l'ONU"
+
+# NEW 1.2
+
+historical_population_of_germany: "Boom du XIXe Siècle"
+
+# NEW 1.3
+population_of_brazil_during_slavery: "Esclavage Post-Indépendance"
+population_of_brazil_during_slavery_player: "Esclavage Post-Indépendance"
+jewel_in_the_crown_modifier: "Le Joyau de la Couronne"
+colonial_agricultural_shift_player: "Changement Agricole Colonial"
+colonial_agricultural_shift: "Changement Agricole Colonial"
+ai_strategy_un_stability: "Stratégie de Stabilité de l'ONU"
+ai_strategy_un_stability_desc: "[COUNTRY.GetName] souhaite maintenir la stabilité dans le cadre de l'ONU, promouvant des résolutions pacifiques aux conflits, et prévenant l'escalade vers des guerres plus vastes."
+demographic_stage_0: "Phase Démographique Pré-Industrielle"
+demographic_stage_1: "Phase Démographique Début de l'Industrialisation"
+demographic_stage_2: "Phase Démographique Milieu de l'Industrialisation"
+demographic_stage_3: "Phase Démographique Fin de l'Industrialisation"
+demographic_stage_4: "Phase Démographique Début Post-Industriel"
+demographic_stage_5: "Phase Démographique Milieu Post-Industriel"
+demographic_stage_6: "Phase Démographique Fin Post-Industriel"
+demographic_stage_7: "Phase Démographique Stagnante"
+demographic_stage_8: "Phase Démographique Déclinante"
+modern_medicine_0: "Médecine du Début du XIXe Siècle" #UPDATED
+modern_medicine_1: "Médecine de la Fin du XIXe Siècle" #UPDATED
+modern_medicine_2: "Médecine du Début du XXe Siècle" #UPDATED
+modern_medicine_3: "Médecine du Milieu du XXe Siècle" #UPDATED
+modern_medicine_4: "Médecine de la Fin du XXe Siècle" #UPDATED
+
+# NEW 1.4
+combat_unit_type_self_propelled_artillery: "Artillerie Autopropulsée"
+combat_unit_type_self_propelled_artillery_desc: "Artillerie montée sur une plateforme mobile, permettant une plus grande flexibilité et un déploiement rapide."
+combat_unit_type_rocket_artillery: "Artillerie à Roquettes"
+combat_unit_type_rocket_artillery_desc: "Artillerie qui utilise des roquettes comme projectile principal, permettant une plus grande portée et une puissance explosive accrue."
+combat_unit_type_modern_carrier: "Porte-avions Nucléaire" #UPDATED
+combat_unit_type_modern_carrier_desc: "Porte-avions propulsé par des réacteurs nucléaires, permettant un déploiement prolongé et des contraintes logistiques réduites." #UPDATED
+
+# IMPORTANT All the file mobilization_option has been moved here
+
+tactical_weapons: "Armes Tactiques"
+mobilization_option_close_air_support: "Appui Aérien Rapproché"
+mobilization_option_close_air_support_desc: "Des aéronefs spécialisés avec des armes air-sol attaquent directement les forces terrestres ennemies."
+mobilization_option_supersonic_close_air_support: "Appui Aérien Rapproché Supersonique"
+mobilization_option_supersonic_close_air_support_desc: "Des aéronefs supersoniques avec des armes air-sol attaquent directement les forces terrestres ennemies."
+mobilization_option_indirect_air_support: "Soutien Aérien Indirect"
+mobilization_option_indirect_air_support_desc: "Une variété de bombardiers attaquent des cibles derrière les lignes ennemies pour perturber les réserves et les lignes d'approvisionnement ennemies."
+mobilization_option_supersonic_indirect_air_support: "Soutien Aérien Indirect Supersonique"
+mobilization_option_supersonic_indirect_air_support_desc: "Des bombardiers supersoniques attaquent des cibles derrière les lignes ennemies pour perturber les réserves et les lignes d'approvisionnement ennemies."
+mobilization_option_paratroopers: "Parachutistes"
+mobilization_option_paratroopers_desc: "Les troupes d'élite utilisent des parachutes pour attaquer des objectifs clés derrière les lignes ennemies."
+mobilization_option_guided_missiles: "Missiles Guidés"
+mobilization_option_guided_missiles_desc: "Les missiles guidés sont utilisés pour attaquer les cibles ennemies avec précision."
+
+mobilization_option_helicopters_support: "Soutien par Hélicoptères"
+mobilization_option_helicopters_support_desc: "Les hélicoptères fournissent un soutien aux troupes au sol et peuvent être utilisés pour un assaut aérien."
+
+mobilization_option_awacs_support: "Soutien AWACS"
+mobilization_option_awacs_support_desc: "Les avions AWACS sont utiles pour la reconnaissance et peuvent être utilisés pour coordonner les opérations."
+
+mobilization_option_satellites_support: "Soutien par Satellites"
+mobilization_option_satellites_support_desc: "Les satellites sont des systèmes de reconnaissance spatiaux qui peuvent être utilisés pour coordonner les opérations."
+
+mobilization_option_penicillin_medical_support: "Soutien Médical à la Pénicilline"
+mobilization_option_penicillin_medical_support_desc: "La pénicilline est un puissant antibiotique qui peut être utilisé pour traiter les infections et sauver des vies sur le champ de bataille."
+ 
+goods_input_light_fuel_add: "@light_fuel! Consommation de Carburant Léger"
+goods_input_light_fuel_add_desc: "La quantité de @light_fuel! Carburant Léger consommée par les bâtiments"
+goods_input_pharmaceuticals_add: "@pharmaceuticals! Consommation de Produits Pharmaceutiques"
+goods_input_pharmaceuticals_add_desc: "La quantité de @pharmaceuticals! Produits Pharmaceutiques consommée par les bâtiments"
+goods_input_helicopters_add: "@helicopters! Consommation d'Hélicoptères"
+goods_input_helicopters_add_desc: "La quantité de @helicopters! Hélicoptères consommée par les bâtiments"
+goods_input_processors_add: "@processors! Consommation de Processeurs"
+goods_input_processors_add_desc: "La quantité de @processors! Processeurs consommée par les bâtiments"
+goods_input_missiles_add: "@missiles! Consommation de Missiles"
+goods_input_missiles_add_desc: "La quantité de @missiles! Missiles consommée par les bâtiments"
+goods_input_good_uranium_add: "@good_uranium! Consommation d'Uranium"
+goods_input_good_uranium_add_desc: "La quantité de @good_uranium! Uranium consommée par les bâtiments"
+goods_input_computer_add: "@computer! Consommation d'Ordinateurs"
+goods_input_computer_add_desc: "La quantité de @computer! Ordinateurs consommée par les bâtiments"
+goods_input_electroniccomponents_add: "@electroniccomponents! Consommation de Composants Électroniques"
+goods_input_electroniccomponents_add_desc: "La quantité de @electroniccomponents! Composants Électroniques consommée par les bâtiments"
+goods_input_space_assets_add: "@space_assets! Consommation d'Actifs Spatiaux"
+goods_input_space_assets_add_desc: "La quantité de @space_assets! Actifs Spatiaux consommée par les bâtiments"
+goods_input_water_add: "@water! Consommation d'Eau"
+goods_input_water_add_desc: "La quantité de @water! Eau consommée par les bâtiments"
+
+# NEW 1.3
+
+goods_input_telecommunications_add: "@telecommunications! Consommation de Télécommunications"
+goods_input_telecommunications_add_desc: "La quantité de @telecommunications! Télécommunications consommée par les bâtiments"
+
+# NEW 1.4
+
+goods_input_robotics_add: "@robotics! Consommation de Robotique"
+goods_input_robotics_add_desc: "La quantité de @robotics! Robotique consommée par les bâtiments"
+
+electronic_support: "Soutien Électronique"
+remote_support: "Soutien à Distance"
+nuclear_weapons: "Armes Nucléaires"
+
+mobilization_option_electronic_countermeasures: "Contre-mesures Électroniques"
+mobilization_option_electronic_countermeasures_desc: "Les contre-mesures électroniques aident à protéger nos forces contre les radars et les systèmes de ciblage ennemis."
+mobilization_option_electronic_support_measures: "Mesures de Soutien Électronique"
+mobilization_option_electronic_support_measures_desc: "Les mesures de soutien électronique améliorent les capacités de nos forces grâce à une communication et une coordination améliorées."
+mobilization_option_electronic_attack: "Attaque Électronique"
+mobilization_option_electronic_attack_desc: "Les capacités d'attaque électronique nous permettent de perturber les communications et les systèmes de ciblage ennemis."
+mobilization_option_electronic_counter_countermeasures: "Contre-Contre-mesures Électroniques"
+mobilization_option_electronic_counter_countermeasures_desc: "Les contre-contre-mesures électroniques aident à protéger nos forces contre la guerre électronique ennemie."
+mobilization_option_uavs: "Véhicules Aériens Sans Pilote"
+mobilization_option_uavs_desc: "Les Véhicules Aériens Sans Pilote (UAV) fournissent des capacités de reconnaissance et de frappe sans risquer la vie des pilotes."
+mobilization_option_ai_drones: "Véhicules IA"
+mobilization_option_ai_drones_desc: "Les Véhicules IA sont l'état de l'art de la guerre des années 2020, offrant des capacités inégalées sur le champ de bataille avec une intervention humaine minimale."
+
+unit_combat_unit_type_modern_heavy_tank_offense_mult: "$combat_unit_type_modern_heavy_tank$ $unit_offense_mult$"
+unit_combat_unit_type_modern_heavy_tank_offense_mult_desc: "$combat_unit_type_modern_heavy_tank$ $unit_offense_mult$"
+unit_combat_unit_type_modern_light_tanks_offense_mult: "$combat_unit_type_modern_light_tanks$ $unit_offense_mult$"
+unit_combat_unit_type_modern_light_tanks_offense_mult_desc: "$combat_unit_type_modern_light_tanks$ $unit_offense_mult$"
+unit_combat_unit_type_main_battle_tanks_offense_mult: "$combat_unit_type_main_battle_tanks$ $unit_offense_mult$"
+unit_combat_unit_type_main_battle_tanks_offense_mult_desc: "$combat_unit_type_main_battle_tanks$ $unit_offense_mult$"
+# ARMY
+unit_combat_unit_type_siege_artillery_offense_mult: "$combat_unit_type_siege_artillery$ $unit_offense_mult$"
+unit_combat_unit_type_siege_artillery_offense_mult_desc: "$combat_unit_type_siege_artillery$ $unit_offense_mult$"
+unit_combat_unit_type_siege_artillery_defense_mult: "$combat_unit_type_siege_artillery$ $unit_defense_mult$"
+unit_combat_unit_type_siege_artillery_defense_mult_desc: "$combat_unit_type_siege_artillery$ $unit_defense_mult$"
+unit_combat_unit_type_self_propelled_artillery_offense_mult: "$combat_unit_type_self_propelled_artillery$ $unit_offense_mult$"
+unit_combat_unit_type_self_propelled_artillery_offense_mult_desc: "$combat_unit_type_self_propelled_artillery$ $unit_offense_mult$"
+unit_combat_unit_type_self_propelled_artillery_defense_mult: "$combat_unit_type_self_propelled_artillery$ $unit_defense_mult$"
+unit_combat_unit_type_self_propelled_artillery_defense_mult_desc: "$combat_unit_type_self_propelled_artillery$ $unit_defense_mult$"
+unit_combat_unit_type_modern_mechanized_infantry_offense_mult: "$combat_unit_type_modern_mechanized_infantry$ $unit_offense_mult$"
+unit_combat_unit_type_modern_mechanized_infantry_offense_mult_desc: "$combat_unit_type_modern_mechanized_infantry$ $unit_offense_mult$"
+unit_combat_unit_type_modern_mechanized_infantry_defense_mult: "$combat_unit_type_modern_mechanized_infantry$ $unit_defense_mult$"
+unit_combat_unit_type_modern_mechanized_infantry_defense_mult_desc: "$combat_unit_type_modern_mechanized_infantry$ $unit_defense_mult$"
+unit_combat_unit_type_advanced_mechanized_infantry_offense_mult: "$combat_unit_type_advanced_mechanized_infantry$ $unit_offense_mult$"
+unit_combat_unit_type_advanced_mechanized_infantry_offense_mult_desc: "$combat_unit_type_advanced_mechanized_infantry$ $unit_offense_mult$"
+unit_combat_unit_type_advanced_mechanized_infantry_defense_mult: "$combat_unit_type_advanced_mechanized_infantry$ $unit_defense_mult$"
+unit_combat_unit_type_advanced_mechanized_infantry_defense_mult_desc: "$combat_unit_type_advanced_mechanized_infantry$ $unit_defense_mult$"
+mobilization_option_rocket_artillery: "Roquettes"
+mobilization_option_rocket_artillery_desc: "Les roquettes permettent de délivrer une quantité mortelle d'explosifs sur les troupes ennemies."
+
+# NAVY
+unit_combat_unit_type_nuclear_submarine_offense_mult: "$combat_unit_type_nuclear_submarine$ $unit_offense_mult$"
+unit_combat_unit_type_nuclear_submarine_offense_mult_desc: "$combat_unit_type_nuclear_submarine$ $unit_offense_mult$"
+unit_combat_unit_type_nuclear_submarine_defense_mult: "$combat_unit_type_nuclear_submarine$ $unit_defense_mult$"
+unit_combat_unit_type_nuclear_submarine_defense_mult_desc: "$combat_unit_type_nuclear_submarine$ $unit_defense_mult$"
+unit_combat_unit_type_modern_destroyer_offense_mult: "$combat_unit_type_modern_destroyer$ $unit_offense_mult$"
+unit_combat_unit_type_modern_destroyer_offense_mult_desc: "$combat_unit_type_modern_destroyer$ $unit_offense_mult$"
+unit_combat_unit_type_modern_destroyer_defense_mult: "$combat_unit_type_modern_destroyer$ $unit_defense_mult$"
+unit_combat_unit_type_modern_destroyer_defense_mult_desc: "$combat_unit_type_modern_destroyer$ $unit_defense_mult$"
+unit_combat_unit_type_scout_modern_cruiser_offense_mult: "$combat_unit_type_scout_modern_cruiser$ $unit_offense_mult$"
+unit_combat_unit_type_scout_modern_cruiser_offense_mult_desc: "$combat_unit_type_scout_modern_cruiser$ $unit_offense_mult$"
+unit_combat_unit_type_scout_modern_cruiser_defense_mult: "$combat_unit_type_scout_modern_cruiser$ $unit_defense_mult$"
+unit_combat_unit_type_scout_modern_cruiser_defense_mult_desc: "$combat_unit_type_scout_modern_cruiser$ $unit_defense_mult$"
+unit_combat_unit_type_modern_battleship_offense_mult: "$combat_unit_type_modern_battleship$ $unit_offense_mult$"
+unit_combat_unit_type_modern_battleship_offense_mult_desc: "$combat_unit_type_modern_battleship$ $unit_offense_mult$"
+unit_combat_unit_type_modern_battleship_defense_mult: "$combat_unit_type_modern_battleship$ $unit_defense_mult$"
+unit_combat_unit_type_modern_battleship_defense_mult_desc: "$combat_unit_type_modern_battleship$ $unit_defense_mult$"
+unit_combat_unit_type_modern_carrier_offense_mult: "$combat_unit_type_modern_carrier$ $unit_offense_mult$"
+unit_combat_unit_type_modern_carrier_offense_mult_desc: "$combat_unit_type_modern_carrier$ $unit_offense_mult$"
+unit_combat_unit_type_modern_carrier_defense_mult: "$combat_unit_type_modern_carrier$ $unit_defense_mult$"
+unit_combat_unit_type_modern_carrier_defense_mult_desc: "$combat_unit_type_modern_carrier$ $unit_defense_mult$"
+
+# Economy Growth Modifiers
+
+dev_0_country: "Pays Pauvre" #UPDATED
+dev_1_country: "Pays à Faible Développement" #UPDATED
+dev_2_country: "Pays en Développement" #UPDATED
+dev_3_country: "Pays Semi-Développé" #UPDATED
+dev_4_country: "Pays Partiellement Développé" #UPDATED
+dev_5_country: "Pays Développé" #UPDATED
+dev_6_country: "Pays Développé Avancé" #UPDATED
+dev_7_country: "Pays Hyper-Développé" #UPDATED
+dev_8_country: "Pays Ultra-Développé" #UPDATED
+
+decolonization_liberty_desire_counter_modifier: "Contre-balance de l'Absence de Règle de Décolonisation"
+
+ztr_superpower: "Superpuissance"
+ztr_eec_member: "Membre de la CEE"
+ztr_eu_member: "Membre de l'UE"
+EUROPEAN_UNION: "Union Européenne"
+
+combat_unit_type_giant_death_robot: "Robot de Guerre Géant"
+combat_unit_type_giant_death_robot_desc: "Une imposante machine de guerre IA mécanisée, équipée d'armements avancés, de systèmes de défense et d'un blindage, capable de dévaster les forces ennemies sur le champ de bataille."
+
+# NEW 1.5
+
+ztr_merge_power_bloc_diplomacy: "Fusionner les Blocs de Puissance"
+ztr_merge_power_bloc_diplomacy_desc: "Une proposition de fusionner notre bloc de puissance avec un autre, car les deux blocs partagent une [Concept('concept_ideology','$concept_ideology$')] similaire."
+ztr_merge_power_bloc_diplomacy_effects_desc: "Fusionne notre bloc de puissance avec le bloc de puissance de [TreatyDraft.GetRightCountry.GetName], créant une alliance plus forte basée sur une [Concept('concept_ideology','$concept_ideology$')] partagée."
+ztr_merge_power_bloc_diplomacy_name: "$ztr_merge_power_bloc_diplomacy$"
+ztr_merge_power_bloc_diplomacy_action_name: "Fusionner les Blocs de Puissance"
+ztr_merge_power_bloc_diplomacy_proposal_notification_name: "Proposition de Fusionner les Blocs de Puissance"
+ztr_merge_power_bloc_diplomacy_proposal_notification_desc: "Nous avons proposé à [TARGET_COUNTRY.GetName] de fusionner nos blocs de puissance, car les deux blocs partagent une [Concept('concept_ideology','$concept_ideology$')] similaire. Cette unification renforcerait notre alliance et améliorerait notre sécurité collective."
+
+suez_canal_big_money: "Concession du Canal de Suez"
+suez_canal_big_money_exit: "Acquisition du Canal de Suez"
+suez_canal_small_money: "Partage des Revenus du Canal de Suez"
+suez_canal_small_money_exit: "Partage des Revenus du Canal de Suez"
+ztr_israel_land_settling_modifier: "Colonisation des Terres Juives"
+
+mobilization_option_nuclear_artillery: "Artillerie à Armes Nucléaires"
+mobilization_option_nuclear_artillery_desc: "Munitions nucléaires de faible puissance destinées à un usage tactique sur le champ de bataille contre les formations ennemies, les fortifications ou les cibles de terrain de grande valeur. Ces armes sont de nature nucléaire et leur emploi comporte de graves risques humanitaires, environnementaux et d'escalade stratégique."
+
+mobilization_option_icbms_artillery: "ICBM"
+mobilization_option_icbms_artillery_desc: "Missiles Balistiques Intercontinentaux (ICBM) : systèmes balistiques à longue portée principalement conçus pour délivrer des ogives stratégiques à travers les continents. Bien que principalement déployés comme systèmes de livraison nucléaire, des concepts d'ogives conventionnelles à frappe rapide à longue portée existent ; l'utilisation des ICBM comporte des implications stratégiques et d'escalade significatives."
+
+research_center_site: "Site de Construction d'un Centre de Recherche"
+research_center_survey: "Étude d'un Centre de Recherche"
+research_center_modifier: "Initiative Nationale de Recherche"
+
+ztr_modern_universities_linkage: "Liaison Universités Modernes"
+rise_of_extremism_modifier: "Montée de l'Extrémisme"
+rise_of_left_modifier: "Montée du Consensus de Gauche"
+
+ai_strategy_rules_based_security: "Prioriser la Stabilité de l'ONU"
+ai_strategy_rules_based_security_desc: "[COUNTRY.GetName] priorise la défense des alliances, le droit international et la coercition calibrée. Préfère les coalitions, les sanctions et les opérations de liberté de navigation, tout en faisant preuve de prudence envers les pairs nucléaires."
+ai_strategy_security_state_revisionism: "Prioriser l'Autodéfense"
+ai_strategy_security_state_revisionism_desc: "[COUNTRY.GetName] vise à réviser l'ordre régional par la pression, les tactiques de zone grise et les guerres opportunistes. Évite les conflits directs avec les pairs nucléaires et cible les voisins vulnérables et les États tampons."
+ai_strategy_superpower_liberal_hegemony: "Hégémonie Libérale"
+ai_strategy_superpower_liberal_hegemony_desc: "[COUNTRY.GetName] utilise son statut de superpuissance pour diriger des blocs, défendre des alliés et façonner les règles et les marchés mondiaux. Met l'accent sur la portée navale, les embargos technologiques, l'application des droits de l'homme et l'endiguement des superpuissances rivales."
+ai_strategy_superpower_command_hegemony: "Hégémonie de Commandement"
+ai_strategy_superpower_command_hegemony_desc: "[COUNTRY.GetName] utilise un contrôle centralisé pour construire des sphères d'influence, imposer la dépendance et sécuriser les points d'étranglement stratégiques. Favorise les postures A2/AD, les conflits par procuration et les concessions de ressources, tout en évitant les guerres symétriques avec les pairs nucléaires."
+
+ztr_russian_proletariat_modifier: "Montée du Prolétariat Russe"
+ztr_liberal_consensus_helped_modifier: "Consensus Libéral Aidé"
+ztr_repressed_soviet_movements_modifier: "Mouvements Soviétiques Réprimés"
+ztr_russian_modernization: "Modernisation Russe"
+ztr_desperate_research_funds_modifier: "Compromis de Recherche Désespéré"
+ztr_liberal_petition_success_modifier: "Succès de la Pétition Libérale"
+russian_revolution_lower_strata_aid_modifier: "Aide aux Couches Inférieures"
+ztr_industrialists_happy_modifier: "Industriels Heureux"
+ztr_industrialists_unhappy_modifier: "Industriels Mécontents"
+ztr_industrialists_appeased_modifier: "Industriels Apaisés"
+ztr_industrialists_unpleased_modifier: "Industriels Peu Satisfaits"
+ztr_bolsheviks_prepare_the_soviet_congress_modifier: "Les Bolcheviks Préparent le Congrès des Soviets"
+ztr_revolutions_blocked: "Stase des Révolutions"
+ztr_ig_red_army: "Armée Rouge"
+ztr_russian_liberal_revolution: "Révolution Libérale"
+ztr_russian_communist_revolution: "Révolution Soviétique"
+ztr_russia_bright_future: "Avenir Russe Résilient"
+
+MODERN_DIPLOMATIC_ACCEPTANCE_BASE: "Base d'Acceptation Diplomatique Moderne"
+ZTR_VERY_SIMILAR_LIBERTY_INDEX: "Indice de [Concept('concept_liberty_index','$concept_liberty_index$')] Très Similaire"
+ZTR_SIMILAR_LIBERTY_INDEX: "Indice de [Concept('concept_liberty_index','$concept_liberty_index$')] Similaire"
+ZTR_NEUTRAL_LIBERTY_INDEX: "Indice de [Concept('concept_liberty_index','$concept_liberty_index$')] Neutre"
+ZTR_SIMILAR_EQUALITY_INDEX: "Indice de [Concept('concept_equality_index','$concept_equality_index$')] Similaire"
+ztr_merge_power_bloc_diplomacy_proposal_accepted_name: "$ztr_merge_power_bloc_diplomacy$ Accepté"
+ztr_merge_power_bloc_diplomacy_proposal_accepted_desc: "[TARGET_COUNTRY.GetName] a accepté notre proposition de $ztr_merge_power_bloc_diplomacy$."
+ztr_merge_power_bloc_diplomacy_proposal_declined_name: "$ztr_merge_power_bloc_diplomacy$ Refusé"
+ztr_merge_power_bloc_diplomacy_proposal_declined_desc: "[TARGET_COUNTRY.GetName] a rejeté notre proposition de $ztr_merge_power_bloc_diplomacy$."
+ztr_merge_power_bloc_diplomacy_proposal_third_party_accepted_name: "$ztr_merge_power_bloc_diplomacy$ Accordé"
+ztr_merge_power_bloc_diplomacy_proposal_third_party_accepted_desc: "$ztr_merge_power_bloc_diplomacy$ a été accordé à [TARGET_COUNTRY.GetName] par [INITIATOR_COUNTRY.GetName]."
+ztr_merge_power_bloc_diplomacy_proposal_third_party_declined_name: "$ztr_merge_power_bloc_diplomacy$ Rejeté"
+ztr_merge_power_bloc_diplomacy_proposal_third_party_declined_desc: "$ztr_merge_power_bloc_diplomacy$ a été rejeté à [TARGET_COUNTRY.GetName] par [INITIATOR_COUNTRY.GetName]."
+ztr_similar_type_of_government_tt: "Possède une [Concept('concept_ideology','$concept_ideology$')] similaire"
+HOSTILE_NUCLEAR_NEIGHBOUR: "#negative_value Voisin Nucléaire#! Hostile"

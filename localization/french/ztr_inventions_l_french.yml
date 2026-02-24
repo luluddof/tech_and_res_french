@@ -1,0 +1,633 @@
+﻿l_french:
+
+alloysworking: "Travail des alliages"
+alloysworking_desc: "Bronze, invar, fonte, laiton ? Tout ce que vous connaissez dans cette douce technologie 'minecraftienne'."
+bayer_process: "Production d'aluminium"
+bayer_process_desc: "Permet la production d'aluminium via le procédé Bayer. Extraction d'alumine de haute pureté à partir de la bauxite, fournissant une base cruciale pour le procédé Hall-Héroult et la création d'aluminium léger et résistant à la corrosion. De plus, la vaisselle en aluminium introduit un changement de paradigme avec son utilisation innovante de l'aluminium léger mais robuste, transformant notre expérience des objets du quotidien."
+synthetic_fibres: "Fibres synthétiques"
+synthetic_fibres_desc: "Les fibres synthétiques marquent une avancée majeure grâce à l'utilisation de matériaux avancés, offrant une résistance et une adaptabilité inégalées pour de nombreuses applications dans le textile et au-delà."
+cathode_tube: "Tube cathodique"
+cathode_tube_desc: "Un appareil doté d'un écran capable d'afficher du contenu vidéo accompagné de son ouvre de nombreuses nouvelles possibilités pour diffuser du contenu à la population."
+government_broadcasting: "Télévision nationale"
+government_broadcasting_desc: "La télévision nationale contrôlée ou organisée par le gouvernement est un outil puissant pour promouvoir l'agenda gouvernemental et influencer la population."
+international_travel: "Voyages internationaux"
+international_travel_desc: "Des avions conçus spécifiquement pour le transport sur de longues distances, avec un accent sur le confort et la sécurité des passagers."
+oil_distillation: "Distillation du pétrole"
+oil_distillation_desc: "Une raffinerie de pétrole permet désormais d'extraire des composants plus précieux du pétrole brut."
+modern_transport: "Transport moderne"
+modern_transport_desc: "Les voitures modernes typiques sont équipées d'un toit fixe et de phares intégrés à la carrosserie."
+synthetic_fraction: "Fraction synthétique"
+synthetic_fraction_desc: "Une méthode très désordonnée de création de carburant uniquement à partir de charbon."
+international_organizations: "Organisations internationales"
+international_organizations_desc: "Favoriser la coopération mondiale par la création et la gestion d'organismes internationaux promouvant la diplomatie et la collaboration."
+market_studies: "Études de marché"
+market_studies_desc: "Améliorer la compréhension économique et la prise de décision stratégique en investissant dans des études complètes des marchés nationaux et internationaux."
+cryptographic_communication: "Communication cryptographique"
+cryptographic_communication_desc: "Développer des techniques de chiffrement avancées pour sécuriser les informations sensibles et faciliter la communication confidentielle."
+secure_market_transactions: "Transactions de marché sécurisées"
+secure_market_transactions_desc: "Mettre en œuvre des mesures de sécurité de pointe pour protéger les transactions financières et la stabilité économique sur les marchés nationaux et internationaux."
+computability_theory: "Théorie de la calculabilité"
+computability_theory_desc: "Favoriser les avancées en informatique théorique pour explorer les limites et les possibilités du calcul."
+digital_computer: "Informatique numérique"
+digital_computer_desc: "Révolutionner le traitement de l'information et l'analyse des données en adoptant des technologies informatiques numériques de pointe."
+international_sporting_events: "Événements sportifs internationaux"
+international_sporting_events_desc: "Favoriser les échanges culturels et l'unité mondiale par l'organisation et la participation à des compétitions sportives internationales."
+rudimental_home_appliances: "Appareils rudimentaires"
+rudimental_home_appliances_desc: "Appareils ménagers rudimentaires pour votre maison familiale des années 40."
+basic_home_appliances: "Appareils de base"
+basic_home_appliances_desc: "Vous pouvez mettre cette technologie dans le frigo !"
+hydroponic_farming: "Culture hydroponique"
+hydroponic_farming_desc: "Méthode innovante de culture des plantes sans sol, utilisant des solutions nutritives pour augmenter le rendement agricole."
+green_revolution: "Révolution verte"
+green_revolution_desc: "Techniques avancées pour améliorer la production agricole grâce aux hybrides de semences, aux engrais et aux pesticides chimiques."
+vacuum_distillation: "Distillation sous vide"
+vacuum_distillation_desc: "La distillation sous vide est un procédé de raffinage qui sépare les composants du pétrole brut à des températures et pressions plus basses, réduisant la dégradation thermique et améliorant la qualité des produits."
+thermal_cracking: "Craquage thermique"
+thermal_cracking_desc: "Le craquage thermique est un procédé de raffinage qui utilise la chaleur et la pression pour décomposer de grosses molécules d'hydrocarbures en produits plus petits et plus précieux, comme l'essence et le diesel, améliorant ainsi l'efficacité du traitement du pétrole brut."
+enhanced_cracking_distillation: "Distillation à craquage amélioré"
+enhanced_cracking_distillation_desc: "La distillation à craquage amélioré est un procédé de raffinage qui combine des techniques avancées pour optimiser la séparation et la conversion du pétrole brut en produits de valeur, améliorant le rendement et l'efficacité."
+silicon: "Silicium"
+silicon_desc: "Débloque l'exploitation minière avancée des minerais avancés."
+semiconductor: "Semi-conducteur"
+semiconductor_desc: "Introduction de l'électronique à base de semi-conducteurs, ouvrant la voie aux circuits intégrés."
+integrated_circuits: "Circuits intégrés"
+integrated_circuits_desc: "Le monde ne deviendra jamais Fallout !"
+micro_processors: "Microprocesseur"
+micro_processors_desc: "Plus c'est petit, mieux c'est !"
+modern_tools: "Outils modernes"
+modern_tools_desc: "Débloque des outils avancés pour améliorer l'efficacité de la production."
+mechanical_arms: "Bras mécaniques"
+mechanical_arms_desc: "Un bras mécanique est un dispositif robotique qui imite le mouvement d'un bras humain, utilisé dans diverses applications telles que la fabrication, l'assemblage et la chirurgie."
+fuel_cell_tech: "Pile à combustible"
+fuel_cell_tech_desc: "Une pile à combustible est une cellule électrochimique qui convertit l'énergie chimique de l'hydrogène et d'un agent oxydant en électricité via des réactions d'oxydo-réduction."
+mechatronics: "Mécatronique industrielle"
+mechatronics_desc: "La mécatronique est un domaine de l'ingénierie qui se concentre sur la conception, la construction, l'exploitation et l'utilisation de robots et de microélectronique dans les milieux industriels, comme la fabrication et les chaînes d'assemblage."
+cnc_control: "Commande CNC"
+cnc_control_desc: "Le contrôle numérique par ordinateur (CNC) est une technologie qui utilise des ordinateurs pour contrôler des machines-outils, permettant des processus de fabrication précis et automatisés."
+supermarket: "Supermarché"
+supermarket_desc: "Un supermarché est un magasin en libre-service offrant une grande variété de produits alimentaires et ménagers, organisés en rayons et sections pour faciliter les achats."
+fast_food: "Restauration rapide"
+fast_food_desc: "La restauration rapide est un type d'alimentation produite en masse pour la revente commerciale, axée sur la rapidité du service et la commodité."
+home_delivery_networks: "Réseaux de livraison à domicile"
+home_delivery_networks_desc: "Les réseaux de livraison à domicile sont des systèmes qui facilitent le transport de biens directement chez les consommateurs, améliorant la commodité et l'accessibilité."
+laser: "Laser"
+laser_desc: "Un laser est un dispositif qui émet de la lumière par amplification optique basée sur l'émission stimulée de rayonnement électromagnétique."
+silent_cinema: "Cinéma muet"
+silent_cinema_desc: "Débloque le cinéma muet dans les académies d'art et les zones de divertissement."
+vikelas_streamliners_tech: "Chemins de fer profilés"
+vikelas_streamliners_tech_desc: "Un streamliner est un véhicule incorporant un profil aérodynamique pour réduire la résistance de l'air."
+bullet_train_tech: "Train à grande vitesse (Shinkansen)"
+bullet_train_tech_desc: "Aussi appelés premiers trains à grande vitesse."
+high_speed_rail_tech: "Lignes à grande vitesse"
+high_speed_rail_tech_desc: "Les lignes à grande vitesse (LGV) sont un type de réseau ferroviaire utilisant des trains beaucoup plus rapides que les trains traditionnels, grâce à un système intégré de matériel roulant spécialisé et de voies dédiées."
+selective_mineral_extraction: "Purification moderne"
+selective_mineral_extraction_desc: "Les techniques de purification moderne améliorent l'efficacité et la durabilité de la récupération des ressources, minimisant l'impact environnemental et maximisant le rendement. Ces méthodes utilisent des technologies avancées comme l'hydrométallurgie, la bio-lixiviation et l'extraction par solvant pour séparer les minéraux précieux des minerais, contribuant à une productivité plus élevée et à une extraction secondaire accrue."
+penicillin: "Pénicilline"
+penicillin_desc: "Production de masse de pénicilline pour un usage médical généralisé."
+vaccination_campaigns: "Campagnes de vaccination"
+vaccination_campaigns_desc: "Campagnes de santé publique organisées pour la vaccination."
+genetic_disease_screening: "Dépistage des maladies génétiques"
+genetic_disease_screening_desc: "Dépistage précoce des maladies héréditaires."
+advanced_medical_imaging: "Imagerie médicale avancée"
+advanced_medical_imaging_desc: "Développement de technologies d'imagerie médicale avancées (ex : scanners CT)."
+genetic_engineering: "Génie génétique"
+genetic_engineering_desc: "Techniques pionnières de modification génétique."
+mri_development: "Développement de l'IRM"
+mri_development_desc: "Imagerie par résonance magnétique pour des diagnostics avancés."
+acquafarm_systems: "Systèmes d'aquaculture"
+acquafarm_systems_desc: "Systèmes hydroponiques personnels et industriels développés dans les années 70, représentant une avancée dans l'automatisation des cultures hydroponiques."
+elastomers: "Élastomères"
+elastomers_desc: "Les élastomères sont une classe de polymères qui présentent des propriétés élastiques, leur permettant de s'étirer et de reprendre leur forme initiale. Ils sont largement utilisés dans diverses applications, notamment les pneus, les joints et les composants flexibles."
+direct_reduced_iron: "Fer spongieux"
+direct_reduced_iron_desc: "Le fer spongieux, ou plus formellement le fer réduit direct (DRI), est une méthode d'extraction du fer à partir du minerai de fer en utilisant du gaz naturel ou du charbon, produisant un fer de haute pureté adapté à la fabrication de l'acier avec plus de productivité et moins de pollution."
+advanced_electric_arc_processes: "Procédés avancés à arc électrique"
+advanced_electric_arc_processes_desc: "Les procédés avancés à arc électrique désignent des techniques modernes de fabrication de l'acier utilisant des fours à arc électrique (EAF) avec une efficacité accrue, moins d'émissions et une plus grande flexibilité. Ces procédés permettent le recyclage de la ferraille et l'utilisation du fer réduit direct (DRI), contribuant à une production d'acier plus durable et économe en énergie."
+hdpe: "PEHD"
+hdpe_desc: "Le polyéthylène haute densité (PEHD) est un polymère thermoplastique polyvalent et durable, connu pour sa résistance, sa résistance chimique et sa faible absorption d'humidité. Il est largement utilisé dans l'emballage, les contenants et les matériaux de construction."
+polyethylene: "Éthylène"
+polyethylene_desc: "Le polyéthylène, un polymère polyvalent et durable, révolutionne la fabrication moderne avec ses nombreuses applications dans l'emballage, les contenants et d'innombrables produits du quotidien, offrant une efficacité et une adaptabilité inégalées."
+nuclear_reactor: "Réacteur nucléaire Gen I"
+nuclear_reactor_desc: "Un matériau fissile est utilisé pour chauffer de l'eau et produire de l'électricité."
+second_nuclear_reactor: "Réacteur nucléaire Gen II"
+second_nuclear_reactor_desc: "Un réacteur nucléaire plus avancé, plus efficace, utilisant un autre type de matériau fissile pour produire de l'électricité."
+geothermal_energy: "Énergie géothermique"
+geothermal_energy_desc: "L'énergie géothermique exploite la chaleur de l'intérieur de la Terre pour la production d'électricité et le chauffage direct, offrant une source d'énergie durable et renouvelable."
+natural_gas_extraction: "Extraction de gaz naturel"
+natural_gas_extraction_desc: "L'extraction de gaz naturel implique la localisation et l'extraction du gaz naturel à partir de réservoirs souterrains, fournissant une alternative fossile plus propre pour la production d'énergie."
+gas_turbine: "Turbine à gaz"
+gas_turbine_desc: "Une turbine à gaz est un moteur à combustion qui convertit le gaz naturel ou d'autres carburants en énergie mécanique, couramment utilisée pour la production d'électricité et la propulsion aéronautique."
+gas_liquefaction: "Liquéfaction du gaz"
+gas_liquefaction_desc: "La liquéfaction du gaz est le processus de refroidissement et de compression du gaz naturel pour le convertir en état liquide, facilitant ainsi son stockage et son transport."
+user_interface: "Interface utilisateur"
+user_interface_desc: "L'interface utilisateur désigne les moyens par lesquels un utilisateur interagit avec un ordinateur ou une application logicielle, englobant les éléments de conception qui améliorent la convivialité et l'expérience utilisateur."
+personal_computer: "Ordinateur personnel"
+personal_computer_desc: "Un ordinateur personnel (PC) est un ordinateur polyvalent dont la taille, les capacités et le prix le rendent accessible à un usage individuel."
+tv_color: "Télévision couleur"
+tv_color_desc: "La télévision couleur est un système qui transmet et affiche des images en couleur, améliorant l'expérience visuelle et révolutionnant l'industrie du divertissement."
+computer: "Ordinateur"
+computer_desc: "Un ordinateur est un appareil électronique qui traite des données et effectue des calculs, permettant une large gamme d'applications dans divers domaines, notamment les affaires, la science et le divertissement."
+synthetic_rubber: "Caoutchouc synthétique"
+synthetic_rubber_desc: "Le caoutchouc synthétique est un élastomère fabriqué par polymérisation de monomères tels que l'isoprène, offrant une durabilité, une flexibilité et une résistance accrues à l'usure et aux facteurs environnementaux par rapport au caoutchouc naturel. Il est largement utilisé dans les pneus, les joints et les produits industriels."
+keynesian_economics: "Économie keynésienne"
+keynesian_economics_desc: "L'économie keynésienne est une théorie économique qui préconise l'intervention de l'État dans l'économie pour gérer la demande et promouvoir le plein emploi, en particulier lors des périodes de récession."
+financial_deregulation: "Déréglementation financière"
+financial_deregulation_desc: "La déréglementation financière désigne la réduction ou la suppression des restrictions gouvernementales sur les marchés et institutions financiers, permettant une plus grande concurrence et innovation dans le secteur financier."
+math_finance: "Finance mathématique"
+math_finance_desc: "La finance mathématique est un domaine qui applique des méthodes et modèles mathématiques pour analyser les marchés financiers, évaluer les risques et optimiser les stratégies d'investissement, comme le modèle de Black-Scholes."
+modern_statistics: "Statistiques modernes"
+modern_statistics_desc: "Les statistiques modernes sont la branche des mathématiques qui traite de la collecte, de l'analyse, de l'interprétation, de la présentation et de l'organisation des données, fournissant des outils pour prendre des décisions éclairées sur la base de preuves empiriques."
+multinational_corporations: "Entreprises multinationales"
+multinational_corporations_desc: "Les entreprises multinationales (EMN) sont de grandes sociétés opérant dans plusieurs pays, tirant parti des ressources et marchés mondiaux pour renforcer leur compétitivité et leur rentabilité."
+neoliberism: "Néolibéralisme"
+neoliberism_desc: "Le néolibéralisme est une idéologie économique et politique qui met l'accent sur les marchés libres, la déréglementation et une intervention limitée de l'État dans l'économie, promouvant l'entrepreneuriat individuel et la concurrence."
+networking_protocols: "Protocoles réseau"
+networking_protocols_desc: "Les protocoles réseau sont des règles et conventions standardisées qui régissent la communication et l'échange de données entre appareils sur un réseau, assurant l'interopérabilité et une transmission efficace des données. Exemple : TCP/IP ou FTP utilisés pour Arpanet, le 'précurseur' d'Internet."
+telecommunications: "Télécommunications"
+telecommunications_desc: "Les télécommunications désignent la transmission d'informations à distance par des moyens électroniques, permettant la communication via divers canaux comme le téléphone, la radio et la télévision."
+data_processing: "Traitement des données brutes"
+data_processing_desc: "Le traitement des données consiste à collecter, transformer (ETL) et analyser des données pour en extraire des informations utiles et soutenir la prise de décision dans divers domaines, dont les affaires, la science et la technologie."
+interactive_media: "Médias interactifs"
+interactive_media_desc: "Les médias interactifs désignent des contenus numériques permettant aux utilisateurs d'interagir avec le support, enrichissant l'expérience et la participation via diverses plateformes, comme les jeux vidéo."
+transnational_activism: "Activisme transnational"
+transnational_activism_desc: "L'activisme transnational regroupe les efforts d'individus et d'organisations pour traiter des enjeux mondiaux et promouvoir le changement social au-delà des frontières nationales, souvent par la collaboration et la solidarité."
+global_music: "Musique mondiale"
+global_music_desc: "La musique mondiale fait référence à la diversité et à l'interconnexion des traditions et genres musicaux du monde entier, influencés par les échanges culturels, les migrations et les avancées technologiques."
+global_stock_market: "Marché boursier mondial"
+global_stock_market_desc: "Le marché boursier mondial est un réseau de places boursières où les actions des sociétés cotées sont achetées et vendues, facilitant la levée de capitaux et les opportunités d'investissement à l'échelle internationale."
+globalization: "Mondialisation"
+globalization_desc: "La mondialisation est le processus d'interconnexion et d'interdépendance croissantes entre les pays, économies et cultures, porté par les avancées technologiques, le commerce et la communication."
+decolonization: "Décolonisation"
+decolonization_desc: "La décolonisation désigne le mouvement historique et politique par lequel les colonies ont obtenu leur indépendance des puissances coloniales, menant à la création de nations souveraines et à la fin de la domination impériale."
+anti_discrimination: "Lutte contre la discrimination"
+anti_discrimination_desc: "Un mouvement visant à éradiquer les inégalités systémiques fondées sur la race, le genre ou l'origine ethnique, aboutissant à des lois emblématiques sur les droits civiques et à des évolutions culturelles majeures."
+counterculture: "Contre-culture"
+counterculture_desc: "Le vaste mouvement d'indépendance à travers les colonies du monde entier, marquant un tournant vers l'autodétermination et la fin de la domination impériale."
+jazz_blues: "Jazz & Blues"
+jazz_blues_desc: "Genre musical né de l'expérience culturelle et sociale afro-américaine, caractérisé par des mélodies émotionnelles, l'improvisation et le rythme syncopé. Symbole d'une nouvelle ère culturelle et d'une rébellion croissante contre les normes traditionnelles."
+rock_and_roll: "Rock & Roll"
+rock_and_roll_desc: "Explosion culturelle musicale des années 50/60 combinant blues, gospel et country. Avec son rythme électrisant et son énergie brute, le rock & roll a transformé la jeunesse, défié les conventions sociales et inspiré une révolution musicale mondiale."
+neo_feminism: "Néo-féminisme"
+neo_feminism_desc: "Mouvement moderne élargissant les principes du féminisme classique, intégrant des questions intersectionnelles comme la race, la classe et l'orientation sexuelle. Il promeut l'égalité des genres dans des contextes complexes et interconnectés, abordant les structures de pouvoir historiques et contemporaines."
+internet: "Internet"
+internet_desc: "Internet est un réseau mondial d'ordinateurs et de serveurs interconnectés permettant l'échange d'informations et la communication via divers protocoles, révolutionnant l'accès et le partage des données."
+machine_learning: "Apprentissage automatique"
+machine_learning_desc: "L'apprentissage automatique est une branche de l'intelligence artificielle qui développe des algorithmes et modèles statistiques permettant aux ordinateurs d'apprendre à partir de données et de faire des prédictions, améliorant leurs performances sans programmation explicite."
+highway_systems: "Réseaux autoroutiers"
+highway_systems_desc: "Les réseaux autoroutiers sont des ensembles étendus de routes conçues pour la circulation rapide des véhicules, facilitant le transport efficace et la connectivité entre zones urbaines et rurales."
+cloud_computing: "Informatique en nuage"
+cloud_computing_desc: "L'informatique en nuage est une technologie permettant aux utilisateurs d'accéder à des données et applications stockées sur des serveurs distants via Internet, offrant flexibilité, évolutivité et économies d'infrastructure informatique."
+mechanized_infantry: "Infanterie mécanisée moderne"
+mechanized_infantry_desc: "L'infanterie mécanisée moderne désigne des unités d'infanterie équipées de véhicules blindés, améliorant leur mobilité et leur protection sur le champ de bataille."
+blitzkrieg: "Blitzkrieg"
+blitzkrieg_desc: "Le Blitzkrieg, ou 'guerre éclair', est une stratégie militaire misant sur des attaques rapides et coordonnées utilisant des forces combinées (infanterie, blindés, aviation) pour obtenir des victoires rapides."
+amphibious_warfare: "Guerre amphibie"
+amphibious_warfare_desc: "La guerre amphibie est une opération militaire impliquant l'assaut coordonné de forces terrestres et navales sur un territoire ennemi, utilisant des navires spécialisés et des tactiques pour établir une tête de pont, comme lors du débarquement de Normandie."
+modern_warplanes: "Avions de guerre modernes"
+modern_warplanes_desc: "Les avions de guerre modernes sont des aéronefs militaires avancés conçus pour divers rôles de combat, dont la supériorité aérienne, l'attaque au sol et la reconnaissance. Ils intègrent des technologies de pointe, la furtivité et des armes de précision."
+mechanized_infantry: "Infanterie mécanisée moderne"
+mechanized_infantry_desc: "L'infanterie mécanisée moderne fait référence à des unités d'infanterie équipées de véhicules blindés, améliorant la mobilité et la protection sur le champ de bataille."
+
+blitzkrieg: "Blitzkrieg"
+blitzkrieg_desc: "Le blitzkrieg, ou 'guerre éclair', est une stratégie militaire qui met l'accent sur des attaques rapides et coordonnées utilisant des forces combinées, incluant infanterie, blindés et soutien aérien, pour obtenir des victoires rapides."
+
+amphibious_warfare: "Guerre amphibie"
+amphibious_warfare_desc: "La guerre amphibie est une opération militaire impliquant l'assaut coordonné de forces terrestres et navales sur un territoire ennemi, utilisant des navires et des tactiques spécialisées pour établir une tête de pont, comme lors du débarquement de Normandie."
+
+modern_warplanes: "Avions de combat modernes"
+modern_warplanes_desc: "Les avions de combat modernes sont des appareils militaires avancés conçus pour divers rôles de combat, incluant supériorité aérienne, attaque au sol et reconnaissance. Ils intègrent des technologies de pointe, furtives et des armements de précision."
+
+air_support: "Soutien aérien"
+air_support_desc: "Améliore l'efficacité sur le champ de bataille en développant des stratégies de soutien aérien sophistiquées, combinant puissance de feu air-sol et coordination stratégique."
+
+rocketry: "Fuséologie"
+rocketry_desc: "Ouvre l'ère spatiale grâce aux percées en fuséologie, permettant le développement de fusées puissantes et polyvalentes pour des applications militaires et civiles."
+
+military_encryption: "Cryptographie militaire"
+military_encryption_desc: "La cryptographie militaire utilise des techniques cryptographiques avancées pour sécuriser les communications et données sensibles, assurant confidentialité et intégrité des opérations de défense, comme l'Enigma allemande pendant la Seconde Guerre mondiale."
+
+manhattan_project: "Projet Manhattan"
+manhattan_project_desc: "Le projet Manhattan était un projet secret de recherche et développement du gouvernement américain durant la Seconde Guerre mondiale, qui produisit les premières armes nucléaires, marquant un tournant décisif dans l'histoire militaire et la géopolitique mondiale."
+
+bombing: "Bombardement"
+bombing_desc: "Le bombardement est une stratégie militaire consistant à cibler l'infrastructure industrielle et civile d'un ennemi pour affaiblir sa capacité de guerre et son moral, souvent par des bombardements aériens."
+
+paratroopers: "Parachutistes"
+paratroopers_desc: "Les parachutistes sont des militaires spécialement entraînés à être déployés par parachute depuis des avions, permettant une insertion rapide dans les zones de combat et la capture d'objectifs clés derrière les lignes ennemies."
+
+atomic_bomb: "Bombe atomique"
+atomic_bomb_desc: "La bombe atomique est une arme explosive puissante dont la force destructrice provient de réactions nucléaires, notamment la fission, libérant une immense quantité d'énergie en peu de temps. Développée durant la Seconde Guerre mondiale, elle a profondément influencé la stratégie militaire et les relations internationales."
+
+main_battle_tank: "Char de bataille principal"
+main_battle_tank_desc: "Le char de bataille principal (MBT) est un véhicule de combat lourdement blindé et mobile, conçu pour les opérations en première ligne, combinant puissance de feu, protection et mobilité pour engager l'ennemi et dominer le champ de bataille."
+
+helicopters: "Hélicoptères"
+helicopters_desc: "Les hélicoptères sont des aéronefs polyvalents capables de décoller et d'atterrir verticalement, leur permettant d'opérer dans des espaces confinés et d'accomplir diverses missions, y compris transport, reconnaissance et soutien au combat."
+
+jet_aviation: "Aviation à réaction"
+jet_aviation_desc: "L'aviation à réaction fait référence à l'utilisation de moteurs à réaction dans les avions, révolutionnant le transport aérien et l'aviation militaire par l'augmentation de la vitesse, de l'altitude et de l'autonomie."
+
+composite_armor: "Blindage composite"
+composite_armor_desc: "Le blindage composite est un type de matériau de protection utilisé dans les véhicules et équipements militaires, combinant différents matériaux pour améliorer résistance, poids et protection contre les pénétrations."
+
+high_performance_apparel: "Tenues de combat haute performance"
+high_performance_apparel_desc: "Les tenues de combat haute performance sont des vêtements spécialisés conçus pour améliorer les capacités et la sécurité des militaires dans divers environnements. Elles intègrent des matériaux et technologies avancés pour durabilité, confort et protection."
+
+radar: "Radar"
+radar_desc: "Le radar est une technologie utilisant des ondes radio pour détecter et localiser des objets, comme avions ou navires, en mesurant le temps que mettent les ondes à revenir après avoir frappé la cible. Il est largement utilisé pour la surveillance, la navigation et la météorologie."
+
+guided_missiles: "Missiles guidés"
+guided_missiles_desc: "Les missiles guidés sont des armes de précision conçues pour frapper des cibles spécifiques avec grande exactitude, utilisant des systèmes de guidage et de propulsion avancés."
+
+satellites: "Satellites"
+satellites_desc: "Les satellites sont des objets artificiels placés en orbite autour de corps célestes, utilisés pour la communication, la navigation, la météorologie et la recherche scientifique."
+
+astronautics: "Astronautique"
+astronautics_desc: "Explorez l'espace grâce aux avancées en astronautique, incluant le développement de vaisseaux spatiaux, les technologies orbitales et la recherche interstellaire."
+
+laser_guided_weapons: "Armes guidées par laser"
+laser_guided_weapons_desc: "Les armes guidées par laser sont des munitions de précision utilisant un système de guidage laser pour frapper des cibles avec exactitude, améliorant l'efficacité militaire et réduisant les dommages collatéraux."
+
+supersonic_aviation: "Aviation supersonique"
+supersonic_aviation_desc: "L'aviation supersonique désigne la technologie et la conception d'avions capables de dépasser la vitesse du son, révolutionnant le transport aérien et les opérations militaires."
+
+awacs: "AWACS"
+awacs_desc: "Airborne Warning and Control System (AWACS) est un avion militaire équipé de radars et systèmes de surveillance avancés, fournissant conscience situationnelle en temps réel et capacités de commandement et contrôle pour les opérations aériennes."
+
+stealth_technology: "Technologie furtive"
+stealth_technology_desc: "La technologie furtive concerne la conception et les matériaux avancés utilisés dans les avions et véhicules militaires pour réduire la signature radar et infrarouge, améliorant la capacité à éviter la détection."
+
+naval_logistic_automation: "Automatisation logistique navale"
+naval_logistic_automation_desc: "L'automatisation logistique navale désigne l'utilisation de technologies avancées pour optimiser les opérations logistiques dans les forces navales, améliorant l'efficacité de la chaîne d'approvisionnement et la préparation opérationnelle."
+
+integrated_naval_air_tactics: "Tactiques navales et aériennes intégrées"
+integrated_naval_air_tactics_desc: "Les tactiques navales et aériennes intégrées se réfèrent à la stratégie et aux principes coordonnant l'emploi des forces aéronavales pour soutenir les opérations maritimes, améliorant l'efficacité au combat et le succès des missions."
+
+nuclear_submarine: "Sous-marin nucléaire"
+nuclear_submarine_desc: "Un sous-marin nucléaire est un type de sous-marin militaire propulsé par des réacteurs nucléaires, permettant des opérations sous-marines prolongées sans ravitaillement fréquent. Il peut transporter des missiles balistiques et effectuer des missions furtives."
+
+advanced_harbor_facilities: "Infrastructures portuaires avancées"
+advanced_harbor_facilities_desc: "Débloque des infrastructures portuaires modernes avec des grues avancées et des systèmes de gestion numériques, augmentant la capacité portuaire, l'efficacité des flux et réduisant les coûts de maintenance des convois."
+
+modern_naval_doctrine: "Doctrine navale moderne"
+modern_naval_doctrine_desc: "La doctrine navale moderne se réfère aux principes stratégiques et concepts opérationnels guidant l'emploi des forces navales dans la guerre contemporaine, mettant l'accent sur les opérations conjointes, la guerre centrée sur le réseau et la sécurité maritime."
+
+# NEW 1.0
+selective_mineral_extraction: "Purification moderne"
+selective_mineral_extraction_desc: "Les techniques de purification moderne améliorent l'efficacité et la durabilité de la récupération des ressources, minimisant l'impact environnemental et maximisant le rendement. Ces méthodes utilisent des technologies avancées comme l'hydrométallurgie, la bio-lixiviation et l'extraction par solvant pour séparer les minéraux précieux des minerais, contribuant à une productivité plus élevée et à une extraction secondaire accrue."
+modern_urban_planning: "Urbanisme moderne"
+modern_urban_planning_desc: "L'urbanisme moderne est le processus de conception et d'organisation des espaces urbains pour créer des environnements fonctionnels, durables et accessibles, en tenant compte des facteurs tels que le transport, l'utilisation des sols et les besoins communaux."
+sea_water_desalination: "Désalinisation de l'eau de mer"
+sea_water_desalination_desc: "La désalinisation de l'eau de mer est le processus de suppression du sel et des impuretés de l'eau de mer pour produire de l'eau douce, utilisant diverses technologies comme l'osmose inverse et la distillation. Cette méthode est cruciale pour fournir de l'eau potable dans les régions arides et celles avec des ressources en eau douce limitées."
+fast_modular_furniture: "Meubles modulaires rapides"
+fast_modular_furniture_desc: "Les meubles modulaires rapides révolutionnent l'industrie des meubles avec leur conception innovante, permettant un assemblage rapide et une personnalisation, s'adaptant aux modes de vie modernes et aux préférences. L'entreprise Ikea a été un pionnier dans ce domaine, offrant une large gamme de solutions de meubles modernes et fonctionnels qui peuvent être facilement adaptés à tout espace."
+photovoltaic_effect: "Effet photovoltaïque"
+photovoltaic_effect_desc: "L'effet photovoltaïque est le processus par lequel l'énergie solaire est convertie en énergie électrique en utilisant des matériaux semi-conducteurs, formant la base pour les cellules solaires et les systèmes photovoltaïques. Cette technologie permet l'exploitation de l'énergie renouvelable issue du soleil, contribuant à la production d'énergie électrique durable."
+wind_turbines: "Éoliennes"
+wind_turbines_desc: "Les éoliennes sont des dispositifs qui convertissent l'énergie cinétique du vent en énergie mécanique, qui peut ensuite être transformée en électricité. Elles jouent un rôle crucial dans la production d'énergie renouvelable, contribuant à une fourniture d'énergie plus durable et écologique."
+lithium_battery: "Batterie au lithium"
+lithium_battery_desc: "Les batteries au lithium sont des dispositifs d'énergie de stockage rechargeable qui utilisent des ions lithium pour transférer l'énergie entre l'anode et la cathode, offrant une densité d'énergie élevée, une durée de cycle longue et des caractéristiques légères. Ils sont largement utilisés dans les électroniques portables, les véhicules électriques et les systèmes d'énergie renouvelable."
+embedded_control_systems: "Systèmes de contrôle embarqués"
+embedded_control_systems_desc: "Les systèmes de contrôle embarqués sont des systèmes de calcul spécialisés conçus pour effectuer des fonctions dédiées au sein de systèmes mécaniques ou électriques plus importants, souvent avec des contraintes en temps réel. Ils sont largement utilisés dans diverses applications, notamment l'automobile, l'aérospatiale, les électroniques de consommation et l'automatisation industrielle."
+smart_energy_grid: "Grille énergétique intelligente"
+smart_energy_grid_desc: "Une grille énergétique intelligente est une grille électrique avancée qui utilise la technologie numérique pour surveiller et gérer la production, la distribution et la consommation de l'électricité en temps réel. Elle améliore l'efficacité, la fiabilité et la durabilité des systèmes d'énergie en intégrant des sources d'énergie renouvelables, des compteurs intelligents et des technologies de communication avancées."
+advanced_solar_panels: "Panneaux solaires avancés"
+advanced_solar_panels_desc: "Les panneaux solaires avancés sont des systèmes photovoltaïques à haute efficacité qui convertissent la lumière du soleil en électricité, utilisant des matériaux et des technologies de pointe pour maximiser la production d'énergie et minimiser l'impact environnemental. Ils jouent un rôle crucial dans la transition vers les sources d'énergie renouvelables et la production d'énergie durable."
+electric_vehicles: "Véhicules électriques"
+electric_vehicles_desc: "Les véhicules électriques (VE) sont des automobiles alimentées par des moteurs électriques et des batteries, offrant une alternative plus propre et plus durable aux véhicules à moteur thermique traditionnel. Ils contribuent à la réduction des émissions de gaz à effet de serre et à la réduction de la dépendance aux combustibles fossiles."
+rare_earths: "Rare Earths"
+rare_earths_desc: "Les terres rares sont un groupe de 17 éléments chimiquement similaires qui sont essentiels pour diverses applications de haute technologie, y compris les électroniques, l'énergie renouvelable et les matériaux avancés. Leurs propriétés uniques les rendent critiques pour les technologies modernes, mais leur extraction et leur traitement peuvent poser des défis environnementaux."
+rare_earths_advanced_purification: "Purification des terres rares"
+rare_earths_advanced_purification_desc: "Les techniques de purification des terres rares utilisent des technologies avancées comme l'hydrométallurgie, la bio-lixiviation et l'extraction par solvant pour séparer les minéraux précieux des minerais, contribuant à une productivité plus élevée et à une extraction secondaire accrue."
+optic_fibers: "Fibres optiques"
+optic_fibers_desc: "Les fibres optiques sont des filaments minces de verre ou de plastique qui transmettent des signaux lumineux sur de longues distances, permettant la communication à haut débit et la connectivité internet. Elles sont essentielles pour l'infrastructure télécoms et de réseau."
+coal_gasification: "Gazification du charbon"
+coal_gasification_desc: "La gazification du charbon est un processus qui convertit le charbon en gaz synthétique (syngas) en le faisant réagir avec de l'oxygène et de la vapeur à haute température. Ce syngas peut être utilisé pour la production d'électricité, la production chimique et comme une alternative fossile plus propre que les combustibles traditionnels."
+horizontal_drilling: "Forage horizontal"
+horizontal_drilling_desc: "Le forage horizontal est une technique qui consiste à forer des puits à un angle pour accéder plus efficacement aux réserves de pétrole et de gaz, permettant une production plus élevée et une réduction de l'impact de surface. Cette méthode, aujourd'hui, est couramment utilisée en conjonction avec la fracturation hydraulique pour améliorer l'extraction des ressources."
+hydraulic_fracturing: "Fracturation hydraulique"
+hydraulic_fracturing_desc: "La fracturation hydraulique, ou fracking, est une technique utilisée pour extraire le gaz naturel et le pétrole des formations rocheuses souterraines en injectant un fluide sous pression haute pour créer des fractures, permettant ainsi une récupération de ressources accrue. Cette méthode a révolutionné l'industrie énergétique mais a soulevé des préoccupations environnementales."
+hybrid_vehicles: "Véhicules hybrides"
+hybrid_vehicles_desc: "Les véhicules hybrides combinent un moteur thermique avec un moteur électrique, optimisant l'efficacité énergétique et réduisant les émissions. Ils représentent une technologie de transition vers les véhicules électriques complètement autonomes, offrant aux conducteurs les avantages des deux sources d'énergie."
+smart_vehicles: "Véhicules intelligents"
+smart_vehicles_desc: "Les véhicules intelligents sont équipés de technologies et de systèmes avancés qui améliorent la sécurité, la connectivité et l'automatisation, permettant des fonctionnalités telles que le contrôle adaptatif de la vitesse, l'aide au maintien de la trajectoire et la communication véhicule-à-véhicule. Ils représentent un pas significatif vers la conduite autonome et une amélioration de l'efficacité du transport."
+electric_vehicles: "Véhicules électriques"
+electric_vehicles_desc: "Les véhicules électriques (EVs) sont des automobiles alimentées par des moteurs électriques et des batteries, offrant une alternative plus propre et plus durable aux véhicules à moteur thermique traditionnel. Ils contribuent à la réduction des émissions de gaz à effet de serre et à la réduction de la dépendance aux combustibles fossiles."
+parallel_computing_architecture: "Architectures de calcul parallèle"
+parallel_computing_architecture_desc: "L'architecture de calcul parallèle fait référence à la conception et à l'organisation des systèmes informatiques qui peuvent effectuer plusieurs calculs simultanément, améliorant ainsi la puissance de traitement et l'efficacité pour les tâches complexes comme les simulations scientifiques, l'analyse de données et l'apprentissage automatique. Exemple d'architecture parallèle sont les processeurs multicœurs ou les unités de traitement graphique (GPU) utilisés dans les ordinateurs modernes."
+high_definition_television: "Moniteurs haute définition"
+high_definition_television_desc: "Un moniteur haute définition est une technologie d'affichage qui offre une résolution et une qualité d'image améliorée par rapport aux moniteurs standard, permettant des images et des détails plus clairs et plus détaillés dans diverses applications, y compris la télévision, le divertissement et les écrans d'ordinateur."
+smart_television: "Télévisions intelligentes"
+smart_television_desc: "Une télévision intelligente est une télévision numérique qui intègre la connectivité internet et des fonctionnalités interactives, permettant aux utilisateurs d'accéder aux services de streaming, des applications et du contenu en ligne directement sur leurs écrans de télévision."
+mobile_devices: "Appareils mobiles"
+mobile_devices_desc: "Pendant les années 90, les appareils mobiles ont révolutionné la communication et l'informatique en permettant l'accès portable à l'information et à la connectivité, ouvrant la voie pour les smartphones et les tablettes."
+smartphones: "Smartphones"
+smartphones_desc: "Les smartphones sont des appareils mobiles avancés qui combinent la fonctionnalité d'un téléphone avec des capacités de calcul, permettant l'accès à internet, des applications et des fonctionnalités multimédia dans une forme compacte."
+advanced_personal_computer: "Ordinateur personnel avancé"
+advanced_personal_computer_desc: "Les ordinateurs personnels avancés sont des appareils de calcul haute performance conçus pour un usage individuel, offrant une puissance de traitement accrue, des capacités graphiques et des options de stockage pour diverses applications, y compris les jeux, la création de contenu et les tâches professionnelles."
+information_systems_management: "Logiciels"
+information_systems_management_desc: "Les logiciels font référence à la collection de programmes, de données et d'instructions qui permettent aux ordinateurs et aux appareils de réaliser des tâches spécifiques. Ils englobent diverses catégories, y compris les logiciels système, les logiciels d'application et les langages de programmation, jouant un rôle crucial dans l'informatique moderne."
+operating_systems: "Systèmes d'exploitation"
+operating_systems_desc: "Les systèmes d'exploitation sont des logiciels qui gèrent les ressources matérielles et logicielles des ordinateurs, offrant une interface utilisateur et permettant l'exécution d'applications. Ils servent de fondation pour tous les appareils de calcul, des ordinateurs personnels aux serveurs et aux appareils mobiles."
+software_development_paradigms: "Paradigmes de développement logiciel"
+software_development_paradigms_desc: "Les paradigmes de développement logiciel sont des approches et des méthodologies utilisées dans le design, le développement et la maintenance des applications logicielles. Ils englobent diverses pratiques, telles que l'agile, le waterfall et le DevOps, pour améliorer la collaboration, l'efficacité et la qualité en ingénierie logicielle."
+videogames: "Jeux vidéo"
+videogames_desc: "Les jeux vidéo sont des expériences interactives de divertissement numérique qui engage les joueurs par le gameplay, l'histoire et les graphiques immersifs. Ils englobent divers genres et plateformes, des jeux de console et de PC aux applications mobiles, façonnant la culture de divertissement moderne."
+app_economy: "Économie des applications"
+app_economy_desc: "L'économie des applications fait référence au système économique qui entoure le développement, la distribution et la consommation des applications mobiles, soutenu par la prolifération des smartphones et des tablettes. Elle a transformé les industries, créé de nouveaux modèles d'affaires et généré des revenus significatifs via les ventes d'applications et les achats en-app, et la publicité."
+social_media: "Médias sociaux"
+social_media_desc: "Les médias sociaux font référence aux plateformes et applications en ligne qui permettent aux utilisateurs de créer, partager et interagir avec le contenu et les autres, favorisant la communication, la collaboration et l'engagement communautaire."
+kraft_recovery_process: "Processus de récupération de la pâte"
+kraft_recovery_process_desc: "Le processus de récupération de la pâte est un processus chimique utilisé dans l'industrie de la pâte et du papier pour récupérer des produits chimiques et de l'énergie à partir des copeaux de bois lors du processus de pulpage. Il implique le cuisson des copeaux de bois avec un mélange d'hydroxyde de sodium et de sulfure de sodium, résultant dans la production de pâte et la régénération des produits de cuisson."
+offset_printing: "Impression offset"
+offset_printing_desc: "L'impression offset est une technique d'impression largement utilisée qui transfère l'encre d'un plateau à une éponge de caoutchouc et puis sur la surface d'impression, permettant la production de masse de matériaux imprimés de haute qualité et efficace comme les livres, les magazines et les emballages."
+advanced_mining: "Exploitation minière avancée"
+advanced_mining_desc: "Les techniques d'exploitation minière avancées font référence aux méthodes et technologies modernes utilisées dans l'extraction des minéraux et des ressources de la Terre, y compris l'automatisation, le contrôle à distance, la robotique et l'analyse de données. Ces avancées améliorent l'efficacité, la sécurité et la durabilité dans les opérations d'exploitation minière."
+
+# NEW 1.1
+funded_research_projects: "Projets de recherche financés"
+funded_research_projects_desc: "Les projets de recherche financés sont des initiatives soutenues par des ressources financières pour mener des recherches scientifiques, des avancées technologiques ou des études sociales. Ces projets impliquent souvent une collaboration entre des institutions académiques, des agences gouvernementales et des organisations privées pour aborder des défis complexes et stimuler l'innovation à une échelle plus grande d'efficacité."
+cognitive_sciences: "Sciences cognitives"
+cognitive_sciences_desc: "Les sciences cognitives sont un champ interdisciplinaire qui étudie l'esprit et ses processus, y compris la perception, la mémoire, la raisonnement et la langue. Il combine des insights de la psychologie, de la neuroscience, de la linguistique, de la philosophie et de l'informatique pour comprendre comment l'esprit fonctionne et comment il peut être modélisé ou simulé."
+computerized_research_networking: "Réseautage de recherche informatique"
+computerized_research_networking_desc: "Le réseautage de recherche informatique fait référence à l'utilisation de technologies numériques et de plateformes pour faciliter la collaboration, le partage des données et la communication parmi les chercheurs et les institutions. Elle permet l'échange efficace d'informations, de ressources et d'expertise, favorisant ainsi l'innovation et l'accélération de la découverte scientifique dans divers domaines."
+neuroscience: "Neuroscience"
+neuroscience_desc: "La neuroscience est l'étude scientifique du système nerveux, englobant la structure, la fonction, le développement et la pathologie du cerveau et du système nerveux."
+
+# NEW 1.2
+modern_cosmetics: "Cosmétiques modernes"
+modern_cosmetics_desc: "Les cosmétiques modernes englobent une large gamme de produits de beauté et de soins personnels qui améliorent l'apparence, la propreté et le bien-être général. Ces produits incluent les cosmétiques, la cosmétique, le maquillage, le soin des cheveux et les produits de parfum, souvent formulés avec des ingrédients avancés et des technologies pour fournir des résultats efficaces tout en promouvant l'expression et la confiance."
+synthetic_cosmetics: "Cosmétiques synthétiques"
+synthetic_cosmetics_desc: "Les produits de beauté et de soins personnels formulés avec des ingrédients chimiquement conçus, conçus pour améliorer l'apparence et les performances. Ces produits incluent souvent des formulations avancées qui fournissent des effets durables, une texture améliorée et une efficacité accrue par rapport aux cosmétiques traditionnels."
+alkaline_battery: "Batterie alcaline"
+alkaline_battery_desc: "Les batteries alcalines sont un type de batterie primaire qui utilise un électrolyte alcalin, offrant une densité d'énergie plus élevée et une durée de vie plus longue par rapport aux batteries au zinc-carbon. Ils sont couramment utilisés dans les appareils domestiques et les électroniques portables."
+quartz_glass: "Verre de quartz"
+quartz_glass_desc: "Le verre de quartz est une forme de dioxyde de silicium (SiO2) de haute pureté, non cristallin, connu pour ses excellentes propriétés optiques, sa stabilité thermique et sa résistance chimique. Il est largement utilisé dans les applications telles que l'optique, l'électronique et l'équipement de laboratoire en raison de sa capacité à transmettre la lumière ultraviolette (UV) et à résister à des températures élevées."
+proto_digital_devices: "Appareils numériques proto"
+proto_digital_devices_desc: "Les premiers appareils numériques nés pendant les années 70, combinant les technologies analogiques et numériques pour effectuer des tâches de calcul de base. Ces appareils ont posé la base pour le développement de l'électronique numérique moderne, ouvrant la voie pour la révolution personnelle de l'ordinateur et l'ère numérique."
+third_nuclear_reactor: "Réacteur nucléaire Gen III"
+third_nuclear_reactor_desc: "Après Chernobyl, l'industrie nucléaire a fait des progrès significatifs en matière de sécurité et d'efficacité, aboutissant au développement des réacteurs nucléaires de troisième génération. Ces réacteurs intègrent des fonctionnalités de sécurité améliorées, une technologie de combustible avancée et une efficacité opérationnelle améliorée, rendant un option plus fiable et durable pour la production d'électricité nucléaire."
+iot_driven_manufacturing: "Fabrication IoT-Driven"
+iot_driven_manufacturing_desc: "La fabrication IoT-Driven fait référence à l'intégration de technologies Internet of Things (IoT) dans les processus de fabrication, permettant le monitoring en temps réel, la collecte de données et l'analyse pour optimiser l'efficacité de la production, réduire le temps d'arrêt et améliorer la qualité des produits. Cette approche exploite les dispositifs connectés, les capteurs et l'analyse de données pour créer des usines intelligentes qui peuvent s'adapter aux demandes changeantes et améliorer les performances opérationnelles globales."
+cobots: "Robots collaboratifs"
+cobots_desc: "Les robots collaboratifs, ou robots collaboratifs, sont conçus pour travailler côte à côte avec les humains dans des espaces partagés, capitalisant sur les meilleures fonctionnalités de l'IoT et de la robotique. Ils améliorent la productivité et la sécurité en automatisant les tâches répétitives tout en permettant aux opérateurs humains de se concentrer sur des activités plus complexes et créatives."
+ambientalism: "Écologisme"
+ambientalism_desc: "L'écologisme est un mouvement social et politique qui s'oppose à la protection de l'environnement naturel et à la promotion des pratiques durables. Il cherche à aborder les problèmes tels que la pollution, le changement climatique et la perte de biodiversité par des efforts de conservation, des changements de politique et des campagnes de sensibilisation publique. L'écologisme met en évidence l'interdépendance des activités humaines et de l'environnement, promouvant une approche holistique de la responsabilité écologique et de la durabilité."
+
+# NOUVEAUTÉS 1.3
+socialdemocracy: "Social-démocratie"
+socialdemocracy_desc: "La social-démocratie est une idéologie politique qui prône un équilibre entre socialisme et capitalisme. Elle met l’accent sur la justice sociale, l’égalité économique et l’État-providence, tout en restant attachée aux principes démocratiques et à l’économie de marché. Les sociaux-démocrates cherchent à construire une société juste et inclusive grâce à une fiscalité progressive, des services publics solides et la protection des droits des travailleurs."
+
+e_government: "E-gouvernement"
+e_government_desc: "L’e-gouvernement désigne l’usage des technologies numériques et des plateformes en ligne pour améliorer la prestation des services publics, faciliter la participation citoyenne et rationaliser les processus administratifs. Il favorise une communication plus efficace entre l’État et les citoyens, en renforçant la transparence, l’accessibilité et la commodité dans l’administration publique."
+
+urban_sustainability: "Durabilité urbaine"
+urban_sustainability_desc: "La durabilité urbaine consiste à concevoir et gérer les villes de manière à répondre aux besoins actuels sans compromettre ceux des générations futures. Elle inclut la protection de l’environnement, l’équité sociale, la viabilité économique et une utilisation efficace des ressources. L’objectif est de créer des espaces urbains résilients, agréables à vivre et respectueux de l’environnement."
+
+big_data_analytics: "Analyse des Big Data"
+big_data_analytics_desc: "Avec l’essor d’Internet et du Cloud, la collecte et l’analyse de vastes ensembles de données sont devenues essentielles dans les affaires et la technologie. L’analyse des Big Data repose sur des algorithmes avancés et des techniques d’apprentissage automatique pour extraire des informations utiles, permettant aux organisations de prendre des décisions fondées sur les données, d’optimiser leurs opérations et d’identifier de nouvelles opportunités de croissance."
+
+neural_networks: "Réseaux de neurones"
+neural_networks_desc: "Les réseaux de neurones sont un sous-ensemble des algorithmes d’apprentissage automatique, inspirés du fonctionnement du cerveau humain. Ils reposent sur des nœuds interconnectés (neurones) capables de traiter et d’analyser des données, d’apprendre des motifs et de faire des prédictions. Cette technologie est au cœur de la reconnaissance d’images, du traitement du langage naturel et des systèmes autonomes, contribuant aux avancées majeures de l’intelligence artificielle."
+
+artificial_intelligence: "Intelligence artificielle"
+artificial_intelligence_desc: "Avec la montée en puissance des GPU, les réseaux de neurones sont devenus plus complexes et rapides à entraîner, ouvrant la voie aux premiers modèles génératifs. Contrairement aux anciens systèmes basés sur des règles, ces modèles sont capables de réaliser des tâches proches des fonctions cognitives humaines, comme l’apprentissage, la résolution de problèmes ou la création de contenu. Ils ne pensent pas réellement, mais prédisent en fonction de leurs données d’entraînement, produisant textes, images et contenus qui imitent l’humain."
+
+digital_governance: "Gouvernance numérique"
+digital_governance_desc: "La gouvernance numérique désigne l’utilisation des technologies digitales et des approches basées sur les données pour améliorer l’efficacité, la transparence et la responsabilité des institutions publiques. Elle comprend l’e-gouvernement, l’analyse de données et les plateformes numériques, dans le but d’améliorer la prestation des services publics, d’encourager la participation citoyenne et de rendre la politique plus réactive et inclusive."
+
+synthetic_pesticides: "Pesticides de synthèse"
+synthetic_pesticides_desc: "Les pesticides de synthèse sont des substances chimiques conçues pour contrôler les nuisibles, les mauvaises herbes et les maladies en agriculture. Plus ciblés et efficaces que les pesticides traditionnels, ils permettent d’améliorer les rendements et de protéger la sécurité alimentaire. Toutefois, leur usage soulève des inquiétudes liées aux risques sanitaires, à la contamination de l’environnement et au développement de résistances. Leur utilisation raisonnée et leur encadrement réglementaire sont donc essentiels."
+
+automated_industrial_robots: "Robots industriels automatisés"
+automated_industrial_robots_desc: "Dès les années 1970, les robots industriels programmables ont bouleversé la production en réalisant des tâches répétitives avec précision et efficacité. Utilisés dans l’automobile, l’électronique ou les biens de consommation, ils ont accru la productivité, réduit les coûts et amélioré la qualité. Assemblage, soudure, peinture, manutention : ces machines ont apporté flexibilité et adaptation aux chaînes de production modernes."
+
+space_rocketery: "Fuséologie spatiale"
+space_rocketery_desc: "Après l’invention des fusées durant la Seconde Guerre mondiale, leur usage pour l’exploration spatiale s’est imposé. La fuséologie spatiale concerne la conception, la fabrication et l’utilisation de fusées et engins spatiaux pour diverses missions. Le V-2 conçu par Wernher von Braun fut le premier engin à atteindre l’espace et à photographier la Terre depuis l’orbite."
+
+prefabricated_concrete_buildings: "Bâtiments préfabriqués en béton"
+prefabricated_concrete_buildings_desc: "Les bâtiments préfabriqués en béton utilisent des éléments moulés en usine puis assemblés sur site. Ce procédé réduit les délais et les coûts de construction tout en améliorant le contrôle qualité. Aux États-Unis, ils ont servi à bâtir des logements abordables et des écoles, tandis qu’en URSS, ils ont permis d’ériger d’immenses ensembles résidentiels et industriels. Aujourd’hui, ce mode constructif séduit par sa rapidité, sa durabilité et ses progrès esthétiques."
+
+naval_oil_propulsion: "Propulsion navale au pétrole"
+naval_oil_propulsion_desc: "L’adoption du pétrole comme carburant pour les navires de guerre a supplanté le charbon et révolutionné la marine. Cette transition a apporté plus de vitesse, d’autonomie et de flexibilité opérationnelle, tout en réduisant les contraintes logistiques grâce à des ravitaillements moins fréquents."
+
+rudimental_home_appliances: "Appareils électroménagers rudimentaires"
+rudimental_home_appliances_desc: "Les premiers appareils électroménagers des années 1940, simples et peu perfectionnés, marquent le début de la modernisation des foyers."
+
+cabled_wire: "Câbles électriques"
+cabled_wire_desc: "L’arrivée des câbles électriques a transformé la distribution d’énergie domestique et industrielle. Plus sûrs et plus efficaces, ils ont permis l’essor massif de l’électricité, de l’éclairage à l’alimentation des appareils ménagers."
+
+advanced_wire: "Câbles avancés"
+advanced_wire_desc: "Les câbles électriques avancés, dotés de meilleures performances de conduction et de fiabilité, ont renforcé les infrastructures modernes de transport et de distribution d’énergie. Ils répondent aux besoins croissants en efficacité et en sécurité, dans les réseaux comme dans les appareils électroniques."
+
+modular_shipbuilding: "Construction navale modulaire"
+modular_shipbuilding_desc: "Avec le soudage à l’arc, la construction navale modulaire s’est imposée comme une révolution. Elle consiste à fabriquer séparément des sections de navires avant de les assembler. Ce procédé accélère la production, améliore la qualité et offre une grande flexibilité, permettant de livrer plus vite et plus efficacement les bâtiments navals."
+
+semi_automatic_rifle: "Fusil semi-automatique"
+semi_automatic_rifle_desc: "Les fusils semi-automatiques rechargent automatiquement après chaque tir, mais nécessitent une pression sur la détente à chaque coup. Plus rapides que les fusils manuels et plus précis que les automatiques, ils se sont largement répandus dès les années 1920 avec des modèles comme le M1 Garand ou l’AVS-36, marquant profondément la Seconde Guerre mondiale."
+
+assault_rifles: "Fusil d’assaut"
+assault_rifles_desc: "Les fusils d’assaut, armes polyvalentes de calibre intermédiaire à tir sélectif et chargeur amovible, sont devenus les armes de service standard dans les armées modernes. Du Sturmgewehr 44 à l’AK-47 et au M16, ils incarnent la puissance de feu et l’adaptabilité du soldat contemporain."
+
+precision_ammunition: "Munitions modernes"
+precision_ammunition_desc: "Les munitions modernes se distinguent par une meilleure précision, une fiabilité accrue et des matériaux avancés (acier, polymères, revêtements). Les progrès dans les poudres propulsives et les cartouches ont augmenté la vitesse initiale tout en réduisant le recul."
+
+cannon_launched_guided_projectiles: "Projectiles guidés tirés de canon"
+cannon_launched_guided_projectiles_desc: "Ces munitions intègrent des systèmes de guidage (GPS, laser, inertiel) pour améliorer radicalement la précision de l’artillerie. Tirés depuis des canons classiques, des exemples comme l’Excalibur permettent de frapper des cibles éloignées avec une efficacité inégalée."
+
+bauxite_processing: "Procédé Wöhler-Deville"
+bauxite_processing_desc: "Au XIXe siècle, le traitement de la bauxite reposait sur le procédé Wöhler-Deville, consistant à la réduire avec du carbone dans un four à haute température pour obtenir de l’alumine, prélude aux techniques modernes."
+
+bayer_process: "Procédé Bayer"
+bayer_process_desc: "Le procédé Bayer permet d’extraire une alumine pure de la bauxite, étape cruciale pour l’électrolyse Hall-Héroult qui produit l’aluminium. Léger, résistant et inoxydable, l’aluminium a transformé l’industrie et le quotidien, jusque dans les ustensiles ménagers."
+
+circular_economy: "Économie circulaire"
+circular_economy_desc: "L’économie circulaire vise à réduire le gaspillage et à maximiser la réutilisation, le recyclage et la régénération des ressources. Contrairement au modèle linéaire « extraire-produire-jeter », elle favorise la conception durable, la réparabilité et le recyclage, limitant l’impact environnemental et réduisant le recours à l’extraction minière."
+
+paper_recycling: "Recyclage du papier"
+paper_recycling_desc: "Le recyclage du papier consiste à collecter, trier et retraiter les papiers usagés pour en fabriquer de nouveaux. Cela permet de réduire la consommation de bois, de préserver les ressources naturelles et de limiter les déchets en décharge, tout en diminuant l’empreinte carbone de la production."
+
+plastic_recovery: "Recyclage des plastiques"
+plastic_recovery_desc: "Le plastique, omniprésent mais difficile à recycler, pose un défi majeur aux systèmes de gestion des déchets. Une grande partie finit dans les décharges ou les océans. Les efforts actuels visent à développer de nouvelles technologies de tri et de traitement, ainsi qu’à promouvoir des alternatives biodégradables."
+
+mass_entertainment: "Divertissement de masse"
+mass_entertainment_desc: "Dans les années 1960, les pays industrialisés ont vu émerger une nouvelle culture populaire portée par la bande dessinée, le manga, les dessins animés et les blockbusters. Ce divertissement de masse a façonné les normes sociales et offert une expérience partagée à grande échelle, reléguant peu à peu les formes traditionnelles comme l’opéra ou le théâtre."
+
+software_tech: "Logiciels"
+software_tech_desc: "Les logiciels regroupent programmes, données et instructions qui permettent aux ordinateurs et appareils d’exécuter des tâches spécifiques. Systèmes d’exploitation, applications et langages de programmation constituent la base du numérique moderne, jouant un rôle central dans la société et l’économie." 
+
+
+#NOUVEAU 1.4
+rocket_artillery: "Artillerie à roquettes"
+rocket_artillery_desc: "Les systèmes d’artillerie à roquettes utilisent des munitions propulsées par fusée pour délivrer des charges explosives sur de longues distances avec une grande précision. L’un des premiers exemples est le célèbre lance-roquettes russe Katyusha."
+rocketery: "Astronautique" #MIS À JOUR
+rocketery_desc: "Ouvrez l’ère spatiale grâce aux percées de l’astronautique, permettant le développement de fusées puissantes et polyvalentes pour des usages militaires comme civils." #MIS À JOUR
+international_travel: "Voyages internationaux" #MIS À JOUR
+international_travel_desc: "Après les années 1950, le transport aérien est devenu plus accessible et abordable, entraînant un essor du tourisme international et des échanges culturels." #MIS À JOUR
+molecular_biology: "Biologie moléculaire"
+molecular_biology_desc: "La biologie moléculaire est la branche de la biologie qui étudie les organismes vivants au niveau moléculaire, en se concentrant notamment sur les interactions entre les macromolécules, comme les protéines et les acides nucléiques (ADN et ARN). Le terme de biologie moléculaire remonte à 1938, forgé par Warren Weaver, directeur de la Fondation Rockefeller, qui croyait au développement de la biologie à l’échelle moléculaire grâce aux progrès réalisés dans des disciplines telles que la cristallographie aux rayons X."
+electronic_countermeasures: "Guerre électronique (ECM)"
+electronic_countermeasures_desc: "Les contre-mesures électroniques (ECM) regroupent les techniques destinées à réduire ou neutraliser l’efficacité des radars ennemis et autres systèmes de détection. Cela inclut le brouillage de signaux, la tromperie des systèmes radar ou encore l’usage de technologies furtives pour éviter la détection."
+icbms: "ICBM"
+icbms_desc: "Les missiles balistiques intercontinentaux (ICBM) sont des missiles à longue portée conçus pour délivrer des ogives nucléaires sur des cibles situées à travers les continents. Ils constituent un élément clé de la dissuasion stratégique moderne, capables de frapper avec rapidité et précision."
+anti_satellite_weapons: "Armes antisatellites (ASAT)"
+anti_satellite_weapons_desc: "Les armes antisatellites (ASAT) sont conçues pour neutraliser ou détruire des satellites à des fins militaires stratégiques. Elles peuvent être basées au sol, lancées depuis les airs ou déployées dans l’espace, et leur développement a suscité des inquiétudes sur la militarisation de l’espace."
+network_centric_warfare: "Guerre en réseau"
+network_centric_warfare_desc: "La guerre en réseau, également appelée opérations centrées sur le réseau, est une doctrine militaire qui vise à transformer l’avantage informationnel, permis en partie par les technologies numériques, en avantage stratégique grâce à l’interconnexion informatique des forces dispersées. Cette doctrine fut développée par le Département de la Défense des États-Unis dans les années 1990."
+military_uav: "Drones militaires (UAV)"
+military_uav_desc: "Les véhicules aériens sans pilote (UAV), communément appelés drones, furent développés pour des missions de reconnaissance et de surveillance. Ces systèmes pionniers ont ouvert la voie aux technologies avancées de drones utilisés dans les opérations militaires modernes."
+ai_warfare: "Guerre basée sur l’IA"
+ai_warfare_desc: "La guerre basée sur l’intelligence artificielle représente une avancée majeure, permettant des attaques coordonnées et des missions de surveillance menées par plusieurs drones opérant ensemble sans contrôle humain direct. Grâce aux progrès en intelligence artificielle et en apprentissage automatique, ces systèmes s’adaptent aux conditions changeantes du champ de bataille et exécutent des stratégies complexes de manière autonome."
+precision_strike_doctrine: "Doctrine de frappe de précision"
+precision_strike_doctrine_desc: "La doctrine de frappe de précision met l’accent sur l’usage de systèmes de ciblage et de guidage avancés pour mener des frappes hautement précises contre les forces ennemies et leurs infrastructures. Cette approche réduit les dommages collatéraux et améliore l’efficacité des opérations militaires."
+military_ugv: "Véhicules terrestres sans pilote (UGV)"
+military_ugv_desc: "Les véhicules terrestres sans pilote (UGV) sont des systèmes robotiques destinés à des applications militaires, incluant reconnaissance, logistique et soutien au combat. Ils peuvent être téléopérés ou autonomes, apportant des capacités précieuses sur le champ de bataille."
+electronic_warfare: "Guerre électronique"
+electronic_warfare_desc: "La guerre électronique devient particulièrement complexe lorsque de multiples contre-mesures sont employées simultanément, définissant ainsi de nouveaux systèmes militaires : contre-mesures électroniques (ECM), mesures de soutien électronique (ESM), attaque électronique (EA), et contre-contre-mesures électroniques (ECCM). Ces techniques visent à perturber, tromper ou neutraliser les systèmes électroniques ennemis, incluant radars, communications et systèmes de navigation. La guerre électronique joue un rôle crucial dans les opérations modernes en renforçant la connaissance de la situation, en protégeant les forces alliées et en affaiblissant celles de l’adversaire."
+directed_energy_weapons: "Armes à énergie dirigée"
+directed_energy_weapons_desc: "Les armes à énergie dirigée (DEW) utilisent une énergie concentrée, comme des lasers ou micro-ondes, pour endommager ou détruire des cibles. Elles offrent un potentiel de ciblage précis et de réduction des dommages collatéraux, en faisant une option prometteuse pour les opérations militaires modernes."
+cyber_warfare: "Cyberguerre"
+cyber_warfare_desc: "La cyberguerre consiste à utiliser des attaques numériques pour perturber les activités d’un État ou d’une organisation. Cela inclut le piratage, les fuites de données et d’autres formes d’attaques visant à compromettre l’intégrité, la confidentialité ou la disponibilité des systèmes d’information."
+
+high_pressure_grinding_rolls: "Broyeurs à rouleaux haute pression (HPGR)"
+high_pressure_grinding_rolls_desc: "Les broyeurs à rouleaux haute pression (HPGR) sont des équipements utilisés dans l’industrie minière et de traitement des minerais pour concasser et broyer le minerai. Ils appliquent une forte pression sur le matériau, ce qui rend le processus de comminution plus efficace que les méthodes traditionnelles."
+mine_precision_blasting: "Forage et dynamitage de précision"
+mine_precision_blasting_desc: "Les techniques de dynamitage de précision en exploitation minière utilisent des technologies avancées pour optimiser les explosions. En améliorant l’efficacité et la précision des tirs, ces méthodes augmentent le rendement de l’extraction tout en réduisant l’impact environnemental."
+wireless_broadband_networks: "Réseaux haut débit et sans fil"
+wireless_broadband_networks_desc: "Les réseaux haut débit et sans fil forment ensemble l’épine dorsale des communications numériques modernes. Ils s’appuient sur des technologies de transmission à haute capacité, comme la fibre optique et les systèmes sans fil avancés, pour offrir un accès Internet rapide et fiable. Des connexions domestiques avec routeurs Wi-Fi aux appareils mobiles connectés par générations de standards (1G à 5G), cette infrastructure intégrée permet une communication, un divertissement et des activités économiques fluides à l’échelle mondiale."
+mobile_phone: "Téléphone mobile"
+mobile_phone_desc: "Les premiers téléphones mobiles étaient de grands appareils encombrants, principalement utilisés pour la communication vocale, souvent surnommés 'téléphones briques'. Dans les années 1980, Motorola fut un pionnier avec des modèles comme le DynaTAC 8000X. Fonctionnant sur des réseaux analogiques, ils offraient peu de fonctionnalités comparés aux smartphones d’aujourd’hui. Dans les années 1990, l’arrivée des réseaux numériques permit des designs plus compacts, comme le Nokia 1011."
+mobile_devices: "Appareils mobiles"
+mobile_devices_desc: "Les appareils mobiles englobent une large gamme de dispositifs informatiques portables, tels que les smartphones, tablettes et ordinateurs portables. Ils sont devenus indispensables dans la vie moderne, offrant un accès à l’information, à la communication et au divertissement partout. Les progrès rapides de la technologie mobile ont apporté plus de puissance de calcul, une meilleure autonomie et un écosystème d’applications en constante expansion."
+advanced_water_filtration: "Épuration avancée de l’eau"
+advanced_water_filtration_desc: "Les technologies modernes d’épuration de l’eau utilisent des méthodes innovantes pour purifier et traiter l’eau, garantissant l’accès à une eau potable propre et sûre. Ces systèmes combinent souvent plusieurs étapes, telles que l’osmose inverse, le charbon actif et la désinfection UV, pour éliminer les contaminants et améliorer la qualité de l’eau."
+controlled_environment_agriculture: "Agriculture en environnement contrôlé"
+controlled_environment_agriculture_desc: "L’agriculture en environnement contrôlé (AEC) utilise la technologie pour optimiser les conditions de croissance des plantes dans des environnements fermés. Cela inclut l’agriculture en intérieur et l’hydroponie, permettant une production agricole toute l’année avec une consommation minimale de ressources."
+vertical_farming: "Agriculture verticale"
+vertical_farming_desc: "L’agriculture verticale est une pratique moderne consistant à cultiver des plantes en couches superposées dans des structures adaptées, en utilisant souvent les techniques de l’agriculture en environnement contrôlé (AEC). Cette méthode maximise l’utilisation de l’espace et réduit considérablement les besoins en terres et en eau par rapport à l’agriculture traditionnelle."
+civil_drones: "Drones civils"
+civil_drones_desc: "Les drones civils, également appelés véhicules aériens sans pilote (UAV), sont des aéronefs fonctionnant sans pilote à bord. Ils sont utilisés pour de nombreuses applications : photographie aérienne, agriculture, surveillance, ou encore livraison. Leur usage s’est fortement démocratisé dans les années 2010, grâce aux avancées technologiques et à la baisse des coûts de production."
+oxygen_steelmaking_process: "Procédé d’oxydation de l’acier"
+oxygen_steelmaking_process_desc: "Le procédé d’oxydation de l’acier, ou BOF (Basic Oxygen Furnace), également appelé procédé Linz-Donawitz, consiste à transformer la fonte liquide riche en carbone en acier. L’injection d’oxygène réduit la teneur en carbone et permet d’obtenir un acier faiblement carboné. On parle de procédé 'basic' en raison de l’ajout de flux basiques (oxyde de calcium ou dolomie) qui facilitent l’élimination des impuretés et protègent le revêtement du convertisseur."
+modern_city_transport: "Transports urbains modernes"
+modern_city_transport_desc: "Les transports urbains modernes englobent un large éventail de moyens de déplacement conçus pour assurer une mobilité efficace dans les villes : transports publics comme bus, tramways et métros, mais aussi infrastructures pour vélos et piétons."
+continuous_casting: "Coulée continue"
+continuous_casting_desc: "La coulée continue est un procédé utilisé dans l’industrie sidérurgique pour produire des brames, blooms ou billettes en solidifiant l’acier liquide dans un moule continu. Cette méthode améliore l’efficacité et réduit les pertes par rapport aux techniques de coulée traditionnelles."
+advanced_alloys: "Alliages avancés"
+advanced_alloys_desc: "Non, ces alliages inspirés de Stellaris ne vous permettront pas encore de construire une Corvette ou un vaisseau scientifique... mais ils s’en approchent presque ! Les alliages de titane, de lithium-aluminium, de nickel et autres alliages avancés sont légers, résistants et ont révolutionné des industries entières. De l’aéronautique à l’automobile, en passant par les dispositifs médicaux, ils se distinguent par leur excellent rapport résistance/poids, leur résistance à la corrosion et même leur biocompatibilité, ce qui les rend indispensables partout où durabilité et légèreté sont cruciales."
+modern_transport: "Véhicules modernes" #MIS À JOUR
+modern_transport_desc: "Après la Seconde Guerre mondiale, l’industrie automobile a connu une transformation majeure, menant au développement de véhicules modernes axés sur la sécurité, l’efficacité et la durabilité environnementale. Depuis les années 1960, ces véhicules intègrent des technologies avancées comme l’injection électronique, l’ABS (système de freinage antiblocage) et l’ESC (contrôle électronique de stabilité). Conçus pour répondre à des normes de sécurité strictes, ils sont dotés d’airbags et de systèmes de protection destinés à prévenir les accidents et à protéger les passagers." #MIS À JOUR
+synthetic_fraction: "Carburants synthétiques" #MIS À JOUR
+synthetic_fraction_desc: "Une méthode assez rudimentaire de production de carburant à partir du charbon." #MIS À JOUR
+freight_village: "Villages logistiques"
+freight_village_desc: "Les villages logistiques, également appelés ports secs ou interports, sont des hubs spécialisés facilitant le transfert de marchandises entre différents modes de transport, comme le rail et la route. En reliant les zones intérieures aux ports maritimes ou aéroports, ils jouent un rôle clé dans l’optimisation des chaînes logistiques et l’efficacité du transport de fret."
+
+on_demand_delivery: "Livraison à la demande"
+on_demand_delivery_desc: "La livraison à la demande désigne un modèle logistique qui permet aux consommateurs de recevoir des biens et services selon leur convenance, souvent dans un délai très court. Ce modèle est rendu possible grâce aux avancées technologiques, comme les applications mobiles et les systèmes de suivi en temps réel, et est devenu particulièrement populaire dans les zones urbaines."
+
+e_commerce: "E-Commerce"
+e_commerce_desc: "L’e-commerce désigne l’achat et la vente de biens et de services via internet. Il a transformé le paysage de la distribution, permettant aux entreprises d’atteindre une audience mondiale et aux consommateurs de faire leurs achats depuis chez eux. L’e-commerce regroupe différents modèles, tels que B2C, B2B et C2C, et repose sur des systèmes de paiement numériques et des réseaux logistiques pour assurer des transactions fluides."
+
+algorithmic_dispatch: "Répartition algorithmique"
+algorithmic_dispatch_desc: "Dans les réseaux sociaux, l’industrie, la logistique, les algorithmes jouent un rôle croissant dans l’optimisation des opérations et l’amélioration de l’efficacité. En analysant d’énormes volumes de données, ils peuvent prendre des décisions en temps réel, allouer les ressources et rationaliser les processus dans divers secteurs."
+
+polyester_synthesis: "Synthèse du polyester"
+polyester_synthesis_desc: "Le polyester (PET) est apparu un peu plus tard que d’autres fibres synthétiques, mais il s’est rapidement imposé grâce à sa durabilité, sa résistance aux plis et sa facilité d’entretien. Il est couramment utilisé dans les vêtements, l’ameublement, les applications industrielles ainsi que dans les bouteilles de boisson."
+
+precision_agriculture: "Agriculture de précision"
+precision_agriculture_desc: "L’agriculture de précision est un concept avancé de gestion agricole utilisant les technologies pour surveiller et optimiser les pratiques agricoles. Grâce au GPS, aux capteurs et à l’analyse de données, les agriculteurs peuvent prendre des décisions éclairées sur les semis, la fertilisation et la récolte, améliorant ainsi l’efficacité, réduisant l’impact environnemental et augmentant les rendements."
+
+heavy_machinery: "Machines lourdes"
+heavy_machinery_desc: "Les machines lourdes désignent les engins puissants utilisés dans de nombreux secteurs, notamment la construction, l’exploitation minière et l’agriculture. Conçues pour réaliser des tâches nécessitant une grande force et une grande précision — comme creuser, soulever ou transporter des matériaux lourds — elles ont révolutionné l’industrie en augmentant l’efficacité, en réduisant les coûts de main-d’œuvre et en améliorant la sécurité."
+
+neoimperialism: "Néo-impérialisme"
+neoimperialism_desc: "Le néo-impérialisme renvoie à l’extension du pouvoir et de l’influence par la domination économique, politique et culturelle plutôt que par la conquête territoriale directe. Cette forme d’impérialisme s’est affirmée particulièrement dans la seconde moitié du XXe siècle, notamment par le néocolonialisme, où les anciennes puissances coloniales maintenaient leur emprise sur les nouveaux États indépendants via le commerce, les investissements et la diplomatie, ainsi que par la rivalité des superpuissances, marquée par les guerres par procuration, les alliances intercontinentales et la constitution de sphères d’influence."
+
+smart_appliances: "Appareils intelligents"
+smart_appliances_desc: "Les appareils intelligents sont des équipements domestiques connectés à internet et contrôlables à distance via smartphones ou assistants vocaux. Les premiers exemples incluent les téléviseurs, réfrigérateurs et thermostats intelligents, offrant plus de confort, d’efficacité énergétique et d’intégration avec d’autres systèmes domotiques. Ces appareils peuvent apprendre les préférences des utilisateurs, fournir des mises à jour en temps réel et même exécuter certaines tâches de manière autonome, devenant ainsi des éléments essentiels des maisons modernes connectées."
+
+autonomous_and_remote_ops_mining: "Exploitation minière autonome et à distance"
+autonomous_and_remote_ops_mining_desc: "L’exploitation minière autonome et à distance repose sur l’utilisation de technologies avancées telles que la robotique, les camions autonomes, l’IA et les systèmes de contrôle à distance pour réaliser des tâches sans intervention humaine directe. Cette approche améliore la sécurité, l’efficacité et la productivité, en permettant aux opérateurs de contrôler les équipements à distance, réduisant ainsi les risques d’accidents et améliorant la précision des opérations."
+
+################################
+
+##### Ancienne description MISE À JOUR #####
+silicon: "Silicium"
+silicon_desc: "Le silicium est un élément chimique de symbole Si et de numéro atomique 14. C’est un solide cristallin dur et cassant à l’éclat métallique gris-bleuté, appartenant à la famille des métalloïdes tétravalents et des semi-conducteurs. Deuxième élément le plus abondant de la croûte terrestre après l’oxygène, il est largement utilisé dans la production de dispositifs électroniques, de cellules solaires et de puces informatiques en raison de ses excellentes propriétés semi-conductrices."
+
+semiconductor: "Semi-conducteur"
+semiconductor_desc: "Mis à part le fait que le monde ne deviendra jamais Fallout, l’introduction de l’électronique basée sur les semi-conducteurs a ouvert la voie aux circuits intégrés. Les semi-conducteurs sont des matériaux dont la conductivité électrique se situe entre celle d’un conducteur et d’un isolant, ce qui les rend idéaux pour contrôler le courant électrique dans les appareils électroniques."
+
+integrated_circuits: "Circuits intégrés"
+integrated_circuits_desc: "Grâce à la technologie CMOS (Complementary Metal-Oxide-Semiconductor), les circuits intégrés (CI) sont devenus le fondement de l’électronique moderne. Les CI sont des circuits électroniques miniaturisés qui combinent plusieurs composants, tels que des transistors, des résistances et des condensateurs, sur une seule puce. Cette intégration permet une fonctionnalité accrue, une taille réduite et une consommation d’énergie moindre."
+
+micro_processors: "Microprocesseur"
+micro_processors_desc: "Plus c’est petit, mieux c’est ! Les microprocesseurs sont des circuits intégrés compacts qui servent d’unité centrale de traitement (CPU) d’un ordinateur ou d’un appareil électronique. Ils exécutent des instructions et effectuent des calculs, permettant le fonctionnement de diverses applications et systèmes."
+
+modern_tools: "Outils modernes"
+modern_tools_desc: "Les outils modernes désignent l’ensemble des équipements de haute précision produits après la Seconde Guerre mondiale, qui ont amélioré l’efficacité de la production dans de nombreuses industries. De la simple clé aux perceuses avancées, ces outils sont conçus pour accroître la productivité, la précision et la sécurité dans les processus de fabrication et de construction."
+
+exoskeleton_warfare: "Exosquelettes"
+exoskeleton_warfare_desc: "Les exosquelettes sont des systèmes robotiques portables qui renforcent les capacités physiques des soldats en offrant une force, une endurance et une protection accrues. Ils peuvent être motorisés ou non et sont conçus pour assister des tâches telles que le port de charges lourdes, l’amélioration de la mobilité et la réduction de la fatigue lors d’opérations prolongées. Les exosquelettes ont le potentiel de révolutionner le combat d’infanterie en augmentant les performances humaines et en réduisant les risques de blessure."
+
+mecha_engineering: "Ingénierie des mechas"
+mecha_engineering_desc: "Plus rapides, plus puissants, plus résistants et sans aucun humain à bord, les robots militaires sont devenus une nécessité dans la guerre avancée. L’ingénierie des mechas se concentre sur la conception et le développement de grands systèmes robotiques humanoïdes utilisables dans des applications militaires, industrielles et de secours. Ces mechas sont équipés de technologies avancées telles que l’IA, des capteurs et des armements, leur permettant d’accomplir des tâches complexes de manière autonome ou sous contrôle à distance. Le développement de l’ingénierie des mechas a le potentiel de transformer de nombreux secteurs en améliorant les capacités tout en réduisant les risques pour les opérateurs humains."
+
+################################
+
+# NOUVEAU 1.5
+
+pop_art: "Pop Art"
+pop_art_desc: "Le Pop Art est un mouvement artistique apparu au milieu du XXe siècle, caractérisé par son intérêt pour la culture populaire et les médias de masse. Il intègre souvent des images issues de la publicité, des bandes dessinées et des objets du quotidien, remettant en question les notions traditionnelles des beaux-arts. Le Pop Art est connu pour ses couleurs vives, son style graphique et son usage de l’ironie et de la satire pour commenter le consumérisme et la culture populaire."
+
+data_infrastructures: "Infrastructures de données"
+data_infrastructures_desc: "Les infrastructures de données sont devenues un élément central des économies modernes à la fin du XXe siècle, avec l’essor des technologies numériques et l’importance croissante des données dans de nombreux secteurs. Elles regroupent les systèmes physiques et virtuels qui soutiennent la collecte, le stockage, le traitement et la diffusion des données, permettant une gestion et une analyse efficaces et sécurisées."
+
+neoliberism: "Néolibéralisme" #UPDATED
+neoliberism_desc: "Le néolibéralisme est une idéologie économique et politique qui met l’accent sur les marchés libres, la déréglementation et une intervention limitée de l’État dans l’économie, en promouvant l’entrepreneuriat individuel et la concurrence : l’état de l’art du capitalisme moderne depuis les années 1970." #UPDATED
+
+machine_learning: "Intelligence artificielle" #UPDATED
+machine_learning_desc: "L’IA est apparue dès les années 1950, et ses applications allaient déjà de simples systèmes à règles basées sur des instructions conditionnelles à des algorithmes d’apprentissage automatique plus complexes, tels que la régression linéaire ou bayésienne, les perceptrons et les arbres de décision, capables d’analyser des données, de s’entraîner eux-mêmes et de faire des prédictions, malgré les limites technologiques de l’époque." #UPDATED
+
+neural_networks: "Réseaux neuronaux" #UPDATED
+neural_networks_desc: "Théorisés pour la première fois dans les années 1950, les réseaux neuronaux sont une famille de modèles d’apprentissage automatique inspirés du fonctionnement des neurones biologiques. Pendant des décennies, leur potentiel est resté limité, car les premières architectures ne pouvaient pas être entraînées efficacement au-delà de cas simples. Cela a changé en 1986 avec la popularisation de l’algorithme de rétropropagation, qui a permis d’ajuster efficacement les paramètres internes des réseaux multicouches. Cet algorithme a transformé les réseaux neuronaux d’une curiosité théorique en un outil pratique pour les théories du deep learning et les réseaux neuronaux convolutifs." #UPDATED
+
+artificial_intelligence: "IA générative" #UPDATED
+artificial_intelligence_desc: "L’IA générative désigne des systèmes capables de créer de nouveaux contenus qui imitent ou étendent la créativité humaine. Son essor a été alimenté par les avancées du deep learning, du calcul parallèle à grande échelle via les GPU et TPU, ainsi que par le développement d’architectures neuronales puissantes telles que les autoencodeurs variationnels, les réseaux antagonistes génératifs et les Transformers. Ces modèles peuvent non seulement reconnaître et analyser des motifs complexes dans les données, mais aussi générer du texte de haute qualité, des images réalistes, de l’audio synthétique et même des vidéos dynamiques. L’IA générative transforme de nombreux domaines tout en soulevant des questions cruciales sur l’authenticité, la propriété intellectuelle, l’emploi et l’impact sociétal plus large de machines capables de produire des artefacts convaincants et proches de l’humain." #UPDATED
+
+advanced_wire: "Câblage à isolation polymère" #UPDATED
+advanced_wire_desc: "L’adoption du PVC (polychlorure de vinyle) comme isolant pour les câbles a représenté une avancée majeure en ingénierie électrique. Les fils en PVC sont appréciés pour leur durabilité, leur flexibilité et leur résistance à la chaleur, à l’humidité et aux produits chimiques. En offrant une isolation fiable et une protection accrue, le PVC permet des connexions électriques plus sûres et plus durables. Aux côtés de l’isolation en polyéthylène (PE), le PVC demeure l’une des solutions les plus efficaces et économiques pour le câblage résidentiel, industriel et automobile." #UPDATED
+
+country_allow_superpower_mechanics_bool: "Activera les rangs de [Concept('concept_superpower','$concept_superpower$')]"
+country_allow_superpower_mechanics_bool_desc: "Détermine si ce pays peut accéder aux mécaniques des rangs de [Concept('concept_superpower','$concept_superpower$')]."
+
+country_allow_decolonization_mechanics_bool: "Activera les mécaniques de [Concept('concept_decolonization','$concept_decolonization$')]"
+country_allow_decolonization_mechanics_bool_desc: "Détermine si ce pays peut accéder aux mécaniques de [Concept('concept_decolonization','$concept_decolonization$')]."
+
+country_allow_int_org_participation_bool: "Activera la participation aux [Concept('concept_united_nations','Organisations internationales')] selon l’[Concept('concept_liberty_index','$concept_liberty_index$')]"
+country_allow_int_org_participation_bool_desc: "Détermine si ce pays peut rejoindre des [Concept('concept_united_nations','$int_org$')] telles que la Société des Nations ou les [Concept('concept_united_nations','$concept_united_nations$')]."
+
+country_allow_intercontinental_nuclear_strike_bool: "Activera la capacité de frappe nucléaire intercontinentale"
+country_allow_intercontinental_nuclear_strike_bool_desc: "Détermine si ce pays peut développer et déployer des missiles balistiques intercontinentaux (ICBM) pour des frappes nucléaires."
+
+# Extraction minière (Bool)
+country_allow_everywhere_bauxite_mining_bool: "Les gisements de [Concept('concept_good','Bauxite')] seront visibles sur la carte"
+country_allow_everywhere_bauxite_mining_bool_desc: "Détermine si ce pays peut exploiter des gisements de [Concept('concept_bauxite','$concept_bauxite$')] partout sur la carte, indépendamment de leur occurrence naturelle."
+
+country_allow_everywhere_advanced_ores_mining_bool: "Les gisements de [Concept('concept_good','Minerais avancés')] seront visibles sur la carte"
+country_allow_everywhere_advanced_ores_mining_bool_desc: "Détermine si ce pays peut exploiter des gisements de [Concept('concept_advanced_ores','$concept_advanced_ores$')] partout sur la carte, indépendamment de leur occurrence naturelle."
+
+country_allow_everywhere_uranium_mining_bool: "Les gisements de [Concept('concept_good','Uranium')] seront visibles sur la carte"
+country_allow_everywhere_uranium_mining_bool_desc: "Détermine si ce pays peut extraire des gisements de [Concept('concept_uranium','$concept_uranium$')] partout sur la carte, indépendamment de leur occurrence naturelle."
+
+country_allow_everywhere_gas_extraction_bool: "Les réserves de [Concept('concept_good','Gaz')] seront visibles sur la carte"
+country_allow_everywhere_gas_extraction_bool_desc: "Détermine si ce pays peut extraire des gisements de [Concept('concept_gas','$concept_gas$')] partout sur la carte, indépendamment de leur occurrence naturelle."
+
+country_allow_everywhere_rare_earths_mining_bool: "Les gisements de [Concept('concept_good','Terres rares')] seront visibles sur la carte"
+country_allow_everywhere_rare_earths_mining_bool_desc: "Détermine si ce pays peut extraire des gisements de [Concept('concept_rare_earths','$concept_rare_earths$')] partout sur la carte, indépendamment de leur occurrence naturelle."
+
+cryptographic_communication: "Communication cryptographique"
+cryptographic_communication_desc: "Après une utilisation notable durant la Seconde Guerre mondiale, les techniques de communication cryptographique ont considérablement évolué et sont aujourd’hui largement utilisées dans de nombreuses applications civiles afin de mieux sécuriser les informations sensibles et de faciliter les communications confidentielles."
+
+increase_nuclear_strike_power_bool_tt: "Va #v augmenter#! votre #negative_value puissance de frappe nucléaire#! d’une certaine valeur."
+increase_nuclear_strike_defence_bool_tt: "Va #v augmenter#! votre #blue_value défense contre les frappes nucléaires#! d’une certaine valeur."
+country_disable_greener_grass_campaign_bool_tt: "Va #r désactiver#! le [concept_decree] « Campagne de l’herbe plus verte », la population ne souhaitant plus migrer vers les zones rurales."

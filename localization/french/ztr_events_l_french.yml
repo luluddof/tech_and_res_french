@@ -1,0 +1,571 @@
+﻿l_french:
+
+ france_pop.1.t: "Stagnation démographique du 19e siècle"
+ france_pop.1.d: "La France fut le premier grand pays européen à connaître la transition démographique : déjà à la fin de la première moitié du 19e siècle, un déclin des taux de natalité fut observé en raison de l'urbanisation, des changements culturels, de la disponibilité de contraceptifs rudimentaires, d'une plus grande éducation féminine et des politiques d'héritage. Cependant, la mortalité a également diminué grâce à l'amélioration de l'hygiène et des conditions de santé, la diffusion des vaccinations et l'urbanisation progressive."
+ france_pop.1.a: "Nous connaissons une stagnation de notre population, mais nous sommes toujours le pays le plus peuplé d'Europe."
+ france_pop.2.a: "Enfin"
+
+ france_pop.2.t: "Résolution de la stagnation démographique"
+ france_pop.2.d: "Grâce à nos lois et politiques, la France a finalement surmonté la stagnation de sa population. La tendance démographique devient plus similaire à celle des autres pays européens, avec une stagnation des taux de natalité et une diminution des taux de mortalité."
+
+ brazil_pop.1.t: "Boom des favelas"
+ brazil_pop.1.d: "Avec l'interdiction de l'esclavage, la population du Brésil croît rapidement, avec la montée des favelas et la croissance des villes. Le pays connaît un boom démographique, avec une augmentation significative de la densité de population dans les zones urbaines."
+ brazil_pop.1.a: "Est-ce une bonne ou une mauvaise chose ?"
+
+ usa_economy.1.t: "Âge doré"
+ usa_economy.1.d: "L'Âge doré fut une période de croissance économique rapide et d'industrialisation aux États-Unis. Il vit la montée des grandes entreprises, l'innovation technologique et l'urbanisation. Les chemins de fer s'étendirent, les usines grandirent et une culture de consommation émergea. Malgré les inégalités sociales marquées et l'agitation ouvrière, les chômeurs pouvaient encore s'aventurer vers l'ouest pour chercher de nouvelles opportunités, contrairement à nos homologues européens."
+ usa_economy.1.a: "Est-ce le rêve américain ?"
+
+ japan_economy.1.t: "Modernisation Meiji"
+ japan_economy.1.d: "Comparé à ses voisins asiatiques, le Japon a subi une transformation remarquable, grâce à son système éducatif, au commerce ouvert et aux réformes Meiji. Le pays adopte rapidement la modernisation, adoptant les technologies et pratiques occidentales tout en préservant son identité culturelle unique comme personne ne l'a fait dans l'histoire. Cette période de grands espoirs mènera-t-elle à une nouvelle ère de prospérité et d'influence pour le Japon et l'Asie, ou mènera-t-elle à une surestimation de nous-mêmes ?"
+ japan_economy.1.a: "Nous mènerons l'Asie dans une nouvelle ère de co-prospérité guidée par la vision de notre Empereur."
+
+ arabia_unification.1.t: "Renaissance arabe"
+ arabia_unification.1.d: "Après des années... des siècles de division, la péninsule arabique est au bord de l'unification. Avec la demande croissante de pétrole et la montée du nationalisme, le temps est venu d'unir la péninsule arabique et de défendre nos intérêts économiques, religieux et militaires."
+ arabia_unification.1.a: "Nous serons le centre du monde arabe."
+
+ arabia_unification.2.t: "Annexion de Jabal Shammar"
+ arabia_unification.2.d: "Montrant notre supériorité et leadership bienveillant, l'Émirat de Jabal Shammar a accepté de rejoindre notre Union arabe, faisant progresser notre objectif d'unifier le centre de la péninsule arabique."
+ arabia_unification.2.a: "Les intérêts futurs dans le Croissant fertile sont maintenant plus possibles que jamais."
+
+ arabia_unification.3.t: "Annexion du Hedjaz"
+ arabia_unification.3.d: "Le Chérifat du Hedjaz, après des semaines de négociations, a accepté de rejoindre notre Union arabe, nous donnant le contrôle des villes saintes de La Mecque et Médine, et faisant progresser notre objectif d'unifier le centre de la péninsule arabique."
+ arabia_unification.3.a: "Avec les villes saintes de La Mecque et Médine sous notre contrôle"
+
+ irish_independence.1.t: "Échec de la question irlandaise." 
+ irish_independence.1.d: "Malgré des années de négociations et de tentatives pour résoudre la question irlandaise, l'Union anglo-irlandaise reste un problème controversé en Irlande. Les nationalistes irlandais exigent une plus grande autonomie et la reconnaissance de leur identité culturelle. Que ferons-nous ?"
+ irish_independence.1.a: "Nous devons trouver une solution pacifique, sauvant autant de territoire que possible."
+ irish_independence.1.b: "Ils peuvent être entièrement libres... en tant que dominion de la Grande-Bretagne !"
+ irish_independence.1.c: "Donnez-leur ce qu'ils veulent, nous n'avons pas besoin d'eux."
+ irish_independence.1.e: "Les bonnes manières ont échoué, maintenant ils doivent faire face à l'Empire britannique !"
+
+ irish_independence.2.t: "Union anglo-irlandaise consolidée" 
+ irish_independence.2.d: "L'Union anglo-irlandaise a été consolidée. Le gouvernement britannique a reconnu l'importance de maintenir unies les deux plus grandes îles de l'archipel britannique. L'union est sauvée !"
+ irish_independence.2.a: "Nous devons trouver une solution pacifique, sauvant autant de territoire que possible."
+
+ irish_independence.3.t: "Remontrances gaéliques"
+ irish_independence.3.d: "Les remontrances culturelles gaéliques ont été fréquentes ces semaines en Irlande, avec le peuple irlandais protestant contre la domination britannique et exigeant une plus grande autonomie de leur identité culturelle, même l'indépendance de notre Union. La Ligue gaélique irlandaise a été à l'avant-garde de ces protestations, plaidant pour la reconnaissance de la langue et de la culture irlandaises."
+ irish_independence.3.a: "Ils sont libres de protester, mais nous ne leur donnerons pas l'indépendance." 
+ irish_independence.3.b: "Essayez de les inhiber avec quelques pots-de-vin et de la propagande."
+
+ irish_independence.4.t: "Pacte anglo-irlandais"
+ irish_independence.4.d: "Nous avons trouvé un compromis avec les plus grands représentants irlandais, leur accordant une plus grande autonomie et la reconnaissance de leur identité culturelle. Le Pacte anglo-irlandais est une étape significative vers la paix et la réconciliation en Irlande, et une reconnaissance de l'importance de la diversité culturelle dans notre Royaume-Uni toujours uni."
+ irish_independence.4.a: "Nous maintenons notre promesse."
+ irish_independence.4.b: "Laissez-les croire en notre bienveillance."
+
+ irish_independence.5.t: "Dimanche sanglant"
+ irish_independence.5.d: "Aujourd'hui marque un jour sombre de notre histoire, alors que l'Armée britannique a ouvert le feu sur des civils irlandais non armés à Dublin, tuant et blessant beaucoup. Cet événement tragique a suscité l'indignation et la condamnation dans le monde entier, et a encore approfondi les divisions entre les communautés irlandaise et britannique. Le massacre du Dimanche sanglant est un rappel de la nécessité de la paix, de la réconciliation et du respect des droits de l'homme."
+ irish_independence.5.a: "C'est l'un des jours les plus sombres de notre histoire."
+
+ irish_independence.6.t: "Question d'Ulster"
+ irish_independence.6.d: "Même après des décennies, la question d'Ulster reste encore un problème controversé en Irlande, avec les unionistes protestants d'Irlande du Nord cherchant à maintenir leur identité britannique et s'opposant à tout mouvement vers l'indépendance irlandaise, et les nationalistes catholiques, cherchant à réunifier l'Irlande et mettre fin à la domination britannique sur l'île."
+ irish_independence.6.a: "L'accord du Vendredi saint est un compromis juste et égal entre les deux communautés d'Irlande du Nord."
+
+ irish_independence.7.t: "Accord du Vendredi saint"
+ irish_independence.7.d: "Le temps est venu, et la majorité catholique d'Irlande du Nord a demandé l'unification avec la République d'Irlande. En tant que membres importants de nombreuses organisations internationales, nous n'avons pas le pouvoir de négociation pour refuser cette demande."
+ irish_independence.7.a: "C'est l'accord."
+ irish_independence.7.b: "N'est-ce pas ? Nous sommes le Royaume-Uni."
+
+ ztr_un_event.1.t: "Formation des Nations Unies"
+ ztr_un_event.1.d: "Ni la Convention de Genève ni la Société des Nations n'ont pu empêcher l'éclatement des Grandes Guerres. Les Nations Unies sont une nouvelle tentative de créer une organisation mondiale qui empêchera les futurs conflits et promouvra la paix et la coopération entre les nations. L'ONU sera basée sur les principes d'égalité, de justice et de respect des droits de l'homme, incluant tous types de pays, même les autocratiques."
+ ztr_un_event.1.a: "Cette Organisation sera le vrai nouvel espoir pour un nouvel ordre mondial."
+
+ ztr_un_event.2.t: "Invitation des Nations Unies"
+ ztr_un_event.2.d: "Ni la Convention de Genève ni la Société des Nations n'ont réussi à empêcher l'éclatement de conflits mondiaux. Les Nations Unies représentent un effort renouvelé pour établir une organisation mondiale dédiée au maintien de la paix et à la promotion de la coopération internationale. Construite sur les principes d'égalité, de justice et de respect des droits de l'homme, l'ONU inclut toutes les nations, même les régimes autoritaires. Les 3 grandes puissances mondiales ont sécurisé des sièges permanents au Conseil de sécurité, exerçant un droit de veto sur ses décisions. Quelle position prendrons-nous ?"
+ ztr_un_event.2.a: "Nous devons faire partie de cette Organisation."
+ ztr_un_event.2.b: "Nous avons le droit d'être membres permanents du Conseil de sécurité."
+ ztr_un_event.2.c: "Nous n'avons pas besoin de cette Organisation inutile."
+
+ ztr_un_event.3.a: "Nous ne pouvons qu'accepter l'intervention de l'ONU."
+ ztr_un_event.3.b: "Nous ne permettrons pas à l'ONU d'intervenir dans nos affaires."
+ ztr_un_event.3.c: "Laissez-moi appeler mon ami membre permanent de l'ONU [SCOPE.sCountry('un_leader_with_good_relations').GetName] pour opposer son veto à cette résolution."
+ ztr_un_event.3.e: "Nous pouvons simplement utiliser notre pouvoir de veto pour bloquer cette résolution stupide."
+
+ ztr_un_event.3.t: "Intervention des Nations Unies"
+ ztr_un_event.3.d: "Ces derniers jours ont été un enfer de négociations, alors que [SCOPE.sCountry('attacked_country').GetName] a demandé l'intervention des Nations Unies pour arrêter le jeu diplomatique et traiter leurs griefs. En tant que membre de l'ONU, vous devez décider si vous soutenez l'intervention, risquant un contrecoup international, ou si vous vous y opposez, potentiellement escaladant les tensions et sapant la coopération mondiale. Quel chemin choisirez-vous ?"
+ ztr_un_event.4.t: "Intervention des Nations Unies réussie"
+ ztr_un_event.4.a: "L'ONU est utile pour une fois."
+
+ ztr_un_event.4.d: "Nos négociations avec l'ONU ont été réussies, et l'intervention a été approuvée. L'ONU prendra maintenant des mesures pour maintenir la paix et la stabilité dans la région. C'est une étape significative vers le renforcement du rôle de l'ONU en tant que gardien de la paix mondial et la promotion de la coopération internationale."
+ ztr_un_event.5.t: "Intervention des Nations Unies échouée"
+ ztr_un_event.5.d: "Nos négociations avec l'ONU ont échoué, et l'intervention a été rejetée. L'ONU ne prendra pas de mesures pour maintenir la paix et la stabilité dans la région."
+ ztr_un_event.5.a: "C'est un revers pour le rôle de l'ONU en tant que gardien de la paix mondial."
+
+
+
+# NEW 1.2
+
+ germany_pop.1.t: "Croissance démographique allemande"
+ germany_pop.1.d: "Tout au long du 19e siècle, les terres allemandes ont connu une poussée remarquable de population. Une combinaison d'amélioration des rendements agricoles, d'avancées en médecine et hygiène, et d'un niveau d'éducation relativement élevé a favorisé les conditions pour une expansion démographique rapide. Contrairement à d'autres parties de l'Europe ravagées par la famine, la maladie ou l'instabilité politique, les États allemands étaient de plus en plus capables de soutenir des familles plus grandes et des taux de mortalité plus bas. Cette croissance explosive aurait des effets profonds sur les marchés du travail, l'urbanisation et la puissance industrielle montante de l'Allemagne."
+ germany_pop.1.a: "Un changement démographique avec des conséquences profondes."
+
+
+# NEW 1.3
+
+ brazil_pop.2.t: "Démographie post-indépendance"
+ brazil_pop.2.d: "Bien que l'[Concept('concept_slavery','$concept_slavery$')] soit encore légal, le Brésil a vu sa population augmenter dans les décennies suivant la déclaration d'indépendance de 1822. L'augmentation des taux de natalité parmi les personnes libres de couleur et de descendance mixte, le flux constant d'esclaves affranchis, et les premières vagues d'immigrants européens—attirés par de nouvelles opportunités commerciales et l'expansion des frontières du café—s'ajoutent tous aux rangs de la population libre. En même temps, les tentatives d'interdiction de la traite atlantique des esclaves forcent les propriétaires de plantations à favoriser la reproduction naturelle parmi les esclaves, augmentant encore le taux de natalité global. L'amélioration de la stabilité politique, les modestes avancées de santé publique pour les personnes libres, et la colonisation des frontières créent ensemble un élan démographique qui préfigure le boom beaucoup plus important à venir après l'émancipation complète."
+ brazil_pop.2.a: "Les tentatives d'interdiction n'arrêteront pas notre mode de vie."
+ brazil_pop.2.b: "L'avenir du Brésil est entre nos mains."
+
+ british_raj_annexation_custom_tooltip: "Le Raj britannique sera consolidé"
+ ztr_india.1.t: "Le joyau de la couronne"
+ ztr_india.1.d: "Après des décennies de règne [Concept('concept_colony','$concept_colonial$')], les rajahs indiens ont cédé leur souveraineté au [SCOPE.sCountry('bic_independence').GetName], avec le [SCOPE.sCountry('bic_gbr_scope').GetName] comme souverain. Avec plus de 75% de la population de l'empire, sa consolidation sera le symbole du pouvoir et de l'influence de l'Empire [SCOPE.sCountry('bic_gbr_scope').GetAdjective] en Asie, ou le soi-disant 'Joyau de la Couronne'."
+ ztr_india.1.a: "Nous sommes au zénith de notre puissance"
+
+ durrand_line_event.1: "La ligne [SCOPE.sCharacter('durand_scope').GetLastName]"
+ durrand_line_event.1.t: "La ligne [SCOPE.sCharacter('durand_scope').GetLastName]"
+ durrand_line_event.1.d: "Des délégués du [SCOPE.sCountry('afg_rus_scope').GetRuler.GetPrimaryRoleTitle] de [SCOPE.sCountry('afg_rus_scope').GetName], des conseillers militaires de [SCOPE.sCountry('afg_gbr_scope').GetName], et le vice-roi [SCOPE.sCountry('afg_bic_scope').GetRuler.GetFullName] sont arrivés à la cour du [SCOPE.sCountry('afg_afg_scope').GetRuler.GetPrimaryRoleTitle] [SCOPE.sCountry('afg_afg_scope').GetRuler.GetFullName]."
+ 
+ durrand_line_event.1.f: "La ligne [SCOPE.sCharacter('durand_scope').GetLastName] sera établie comme frontière internationale entre l'Émirat de [SCOPE.sCountry('afg_afg_scope').GetName] et l'Empire indien [SCOPE.sCountry('afg_gbr_scope').GetAdjective]- comme convenu par le [SCOPE.sCharacter('durand_scope').GetPrimaryRoleTitle] [SCOPE.sCharacter('durand_scope').GetFullName] et le [SCOPE.sCountry('afg_afg_scope').GetRuler.GetPrimaryRoleTitle] [SCOPE.sCountry('afg_afg_scope').GetRuler.GetFullName], afin de fixer la limite de leurs sphères d'influence respectives et d'améliorer les relations diplomatiques et le commerce."
+ 
+ durrand_line_event.1.a: "À une paix durable entre l'Empire [SCOPE.sCountry('afg_gbr_scope').GetAdjective], [SCOPE.sCountry('afg_rus_scope').GetName], et l'Émirat de [SCOPE.sCountry('afg_afg_scope').GetName]."
+
+ ztr_india.2.t: "La demande d'indépendance du Raj britannique"
+ ztr_india.2.d: "Après des décennies de règne [Concept('concept_colony','$concept_colonial$')], la population de l'Inde s'est lassée du règne du [SCOPE.sCountry('bic_independence').GetName] et exige l'indépendance. L'avenir de l'Inde est incertain, et avec lui celui de notre Empire. Allons-nous leur accorder l'indépendance, ou allons-nous essayer de maintenir notre règne sur le sous-continent ?"
+ ztr_india.2.a: "Nous leur accorderons l'indépendance, nous ne pouvons pas détruire notre économie pour une cause perdue."
+ ztr_india.2.b: "Nous ne leur accorderons pas l'indépendance."
+
+ ztr_india.3.t: "La réponse britannique"
+ ztr_india.3.d: "Le [SCOPE.sCountry('bic_gbr_scope').GetName] a reçu notre demande d'indépendance du [SCOPE.sCountry('bic_independence').GetName], et a accepté de nous accorder l'indépendance, sachant probablement qu'ils perdront comme lors de la guerre d'indépendance américaine. Maintenant, l'avenir de l'Inde est entre nos mains, et nous devons nous préparer à gouverner ce [Concept('concept_country','$concept_country$')] énorme et diversifié."
+ ztr_india.3.a: "C'était plus facile que je ne le pensais."
+
+ ztr_india.4.t: "La réponse britannique"
+ ztr_india.4.d: "Le [SCOPE.sCountry('bic_gbr_scope').GetName] a reçu notre demande d'indépendance du [SCOPE.sCountry('bic_independence').GetName], et a refusé de nous accorder l'indépendance"
+ ztr_india.4.a: "Nous devrons nous battre pour notre indépendance."
+
+ ztr_india.5.t: "Candidature pour l'unification indienne"
+ ztr_india.5.d: "Nous, le [SCOPE.sCountry('ztr_root_scope').GetName] nous sommes déclarés dirigeant d'une Inde unifiée, et nous cherchons à unifier les États indiens sous notre règne. L'avenir de l'Inde est incertain, et nous ne pouvons plus accepter une Inde divisée ou coloniale."
+ ztr_india.5.a: "Nous serons les meilleurs candidats d'une Inde unifiée, malgré ses différences religieuses."
+ decolonization_india_decision_custom_tt: "Les États indiens en bonnes relations se joindront à nous."
+
+colony_pop.1.t: "Changement agricole colonial"
+colony_pop.1.d: "Le changement agricole [Concept('concept_colony','$concept_colonial$')] est un processus qui a lieu en Indonésie depuis le 19e siècle, avec l'introduction de nouvelles cultures et techniques agricoles par les autorités [Concept('concept_colony','$concept_colonial$')]es [SCOPE.sCountry('overlord_scope').GetAdjective]. Ce changement a conduit à une augmentation significative de la productivité agricole et a transformé l'économie [SCOPE.sCountry('root_scope').GetAdjective]."
+colony_pop.1.a: "Nous moderniserons notre agriculture."
+
+ztr_austrian_german_partition_treaty.1.t: "Traité de Munich"
+ztr_austrian_german_partition_treaty.1.d: "À l'aube du nouveau siècle, avec une ferveur nationaliste toujours agitée mais non récompensée, [SCOPE.sCountry('ztr_austria_treaty_scope').GetName] nous invite à Munich pour un dialogue formel visant à régler la Question allemande par une démarcation claire des sphères. L'ordre peut être gagné, mais seulement en mettant de côté le rêve d'une seule Allemagne."
+ztr_austrian_german_partition_treaty.1.a: "Refuser le plan [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective], gardant la Question allemande non résolue."
+ztr_austrian_german_partition_treaty.1.b: "Accepter le schéma de Vienne : le Sud à [SCOPE.sCountry('ztr_austria_treaty_scope').GetName], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.1.c: "Nous avons la position pour proposer un arrangement égal : reconnaître une Confédération allemande du Sud sous protection [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+
+ztr_austrian_german_partition_treaty.2.t: "Traité de Munich"
+ztr_austrian_german_partition_treaty.2.d: "À l'aube du nouveau siècle, avec une ferveur nationaliste toujours agitée mais non récompensée, [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] nous invite à Munich pour un dialogue formel visant à régler la Question allemande par une démarcation claire des sphères. L'ordre peut être gagné, mais seulement en mettant de côté le rêve d'une seule Allemagne."
+ztr_austrian_german_partition_treaty.2.a: "Refuser le plan [SCOPE.sCountry('ztr_prussia_treaty_scope').GetAdjective], gardant la Question allemande non résolue."
+ztr_austrian_german_partition_treaty.2.b: "Accepter le schéma de Berlin : reconnaître une Confédération allemande du Sud sous égide [SCOPE.sCountry('ztr_prussia_treaty_scope').GetAdjective], la Bavière à [SCOPE.sCountry('ztr_austria_treaty_scope').GetName], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.2.c: "Nous avons la position pour proposer un arrangement égal : reconnaître une Confédération allemande du Sud sous protection [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.2.e: "[SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] sous-estime notre position en Allemagne du Sud : le Sud à [SCOPE.sCountry('ztr_austria_treaty_scope').GetName], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+
+ztr_austrian_german_partition_treaty.3.t: "Traité de Munich refusé"
+ztr_austrian_german_partition_treaty.3.prussia: "Malgré nos bonnes intentions, [SCOPE.sCountry('ztr_austria_treaty_scope').GetName] a rejeté notre proposition, entravant nos efforts pour stabiliser l'Allemagne."
+ztr_austrian_german_partition_treaty.3.austria: "Malgré nos bonnes intentions, [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] a rejeté notre proposition, entravant nos efforts pour stabiliser l'Allemagne."
+ztr_austrian_german_partition_treaty.3.a: "Au moins, le rêve d'une Allemagne unie est toujours intact."
+
+ztr_austrian_german_partition_treaty.4.t: "Contre-offre du traité de Munich"
+ztr_austrian_german_partition_treaty.4.prussia: "[SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] nous propose une offre, qui consiste à reconnaître la Confédération allemande du Sud sous protection [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.4.austria: "[SCOPE.sCountry('ztr_austria_treaty_scope').GetName] nous propose une offre, qui consiste à reconnaître la Confédération allemande du Sud sous protection [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective], tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.4.strongaustria: "[SCOPE.sCountry('ztr_austria_treaty_scope').GetName] nous propose une offre, qui consiste à reconnaître le contrôle [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective] sur l'Allemagne du Sud, tandis que [SCOPE.sCountry('ztr_prussia_treaty_scope').GetName] prend le Nord et tout le Rhin."
+ztr_austrian_german_partition_treaty.4.a: "Nous ne pouvons pas accepter de telles demandes absurdes."
+ztr_austrian_german_partition_treaty.4.b: "Nous avons trouvé un terrain d'entente avec cette proposition [SCOPE.sCountry('ztr_prussia_treaty_scope').GetAdjective]."
+ztr_austrian_german_partition_treaty.4.c: "Nous avons trouvé un terrain d'entente avec cette proposition [SCOPE.sCountry('ztr_austria_treaty_scope').GetAdjective]."
+ztr_austrian_german_partition_treaty.4.e: "Nous devons accepter cette proposition, car c'est le seul moyen de stabiliser l'Allemagne et d'éviter un carnage entre les États allemands."
+
+ztr_super_germany.1.t: "Question des territoires non allemands"
+ztr_super_germany.1.d: "Depuis des années, depuis la formation du [SCOPE.sCountry('ztr_super_germany_scope').GetName], désormais une puissance mondiale, les populations du sud et de l’est de notre empire réclament une autonomie légèrement accrue, afin de préserver leur identité en échange de leur loyauté et d’une plus grande centralisation de notre contrôle sur le Lebensraum allemand. Cela pourrait être un moyen de créer une sphère d’influence efficace, en évitant les frictions culturelles entre les populations locales non allemandes et notre autorité centrale."
+ztr_super_germany.1.a: "Accorder une plus grande autonomie à tous les territoires non allemands."
+ztr_super_germany.1.b: "Nous conserverons au moins notre contrôle direct sur l’Italie du Nord."
+ztr_super_germany.1.c: "Renforcer l’autorité centrale et réprimer les revendications régionales, le [SCOPE.sCountry('ztr_super_germany_scope').GetName] est invincible."
+
+ztr_super_germany.2.t: "Question des territoires non allemands"
+ztr_super_germany.2.d: "Depuis des années, depuis la formation du [SCOPE.sCountry('ztr_super_germany_scope').GetName], désormais une puissance mondiale, les populations du sud et de l’est de notre empire réclament une autonomie légèrement accrue, afin de préserver leur identité en échange de leur loyauté et d’une plus grande centralisation de notre contrôle sur le Lebensraum allemand. Cela pourrait être un moyen de créer une sphère d’influence efficace, en évitant les frictions culturelles entre les populations locales non allemandes et notre autorité centrale."
+ztr_super_germany.2.a: "Accorder une plus grande autonomie à tous les territoires non allemands."
+ztr_super_germany.2.b: "Nous conserverons au moins notre contrôle direct sur l’Italie du Nord."
+ztr_super_germany.2.c: "Renforcer l’autorité centrale et réprimer les revendications régionales, le [SCOPE.sCountry('ztr_super_germany_scope').GetName] est invincible."
+
+ztr_healthcare.1.t: "Médecine du début du XIXe siècle"
+ztr_healthcare.1.d: "La science médicale progresse considérablement : de nouveaux traitements, une meilleure hygiène et la théorie des germes révolutionnent la façon dont les sociétés affrontent les maladies. Le système hospitalier moderne commence à émerger, et les standards professionnels s’améliorent radicalement."
+ztr_healthcare.1.a: "Adopter les pratiques médicales modernes."
+
+ztr_healthcare.2.t: "Médecine de la fin du XIXe siècle"
+ztr_healthcare.2.d: "La fin du XIXe siècle voit la consolidation des connaissances médicales et l’établissement de standards professionnels. Les hôpitaux deviennent mieux organisés et l’importance de l’hygiène et de la santé publique est reconnue."
+ztr_healthcare.2.a: "Soutenir la croissance des institutions médicales modernes."
+
+ztr_healthcare.3.t: "Médecine du début du XXe siècle"
+ztr_healthcare.3.d: "Des découvertes telles que les antibiotiques, les vaccins et l’essor des campagnes de santé publique améliorent considérablement l’espérance de vie. La médecine scientifique devient désormais centrale dans la gouvernance et la vie quotidienne."
+ztr_healthcare.3.a: "Adopter les avancées médicales de la Révolution industrielle."
+
+ztr_healthcare.4.t: "Médecine du milieu du XXe siècle"
+ztr_healthcare.4.d: "Le milieu du XXe siècle voit l’essor de nouvelles technologies médicales et de stratégies de soins préventifs, comme les programmes de vaccination à grande échelle et l’amélioration des soins maternels."
+ztr_healthcare.4.a: "Investir dans la recherche médicale de pointe."
+
+ztr_healthcare.5.t: "Médecine de la fin du XXe siècle"
+ztr_healthcare.5.d: "La technologie et la recherche accélèrent le progrès médical : les techniques d’imagerie, les greffes d’organes et les biotechnologies se généralisent. Les systèmes de santé s’étendent et la gestion des maladies chroniques devient une priorité."
+ztr_healthcare.5.a: "Moderniser notre infrastructure de santé."
+
+# NOUVEAU 1.3
+france_pop_tt: "[COUNTRY.GetName] commencera dans un [Concept('concept_demographic_stages','$concept_demographic_stage$')] avancé."
+
+# NOUVEAU 1.4
+# Événement de mise à jour économique
+
+ztr_economic_update.1.t: "Mise à jour économique"
+ztr_economic_update.1.d: "Selon la richesse, il sera moins ou plus coûteux de construire de nouveaux bâtiments et unités militaires, et la croissance ou le déclin démographique sera plus ou moins marqué."
+ztr_economic_update.1.a: "Je joue pour m’enrichir, non ?"
+
+ztr_economic_update.2.t: "Mise à jour économique"
+ztr_economic_update.2.d: "Après une croissance soutenue, nous sommes désormais classés comme pays à faible développement, entrant dans la première révolution industrielle."
+ztr_economic_update.2.a: "Transition — encore en construction, mais ne faites pas attention à la poussière."
+
+ztr_economic_update.3.t: "Mise à jour économique"
+ztr_economic_update.3.d: "En poursuivant nos progrès, nous avons atteint le stade de pays en développement, similaire aux nations connaissant une expansion industrielle rapide à la fin du XIXᵉ siècle. La première révolution industrielle est accomplie."
+ztr_economic_update.3.a: "Fièrement coincés entre 'on gère ça' et 'au secours'."
+
+ztr_economic_update.4.t: "Mise à jour économique"
+ztr_economic_update.4.d: "Grâce à des années de modernisation et d'investissements dans les infrastructures, nous sommes désormais un pays semi-développé, comparable aux économies occidentales au début du XXᵉ siècle, entrant dans la seconde révolution industrielle."
+ztr_economic_update.4.a: "Comme un chef-d'œuvre auquel il manque le dernier coup de pinceau."
+
+ztr_economic_update.5.t: "Mise à jour économique"
+ztr_economic_update.5.d: "Après une industrialisation et des réformes sociales étendues, nous sommes un pays partiellement développé, comparable aux économies avancées de la Belle Époque. Pour rester compétitifs sur la scène mondiale, nous devons continuer d’innover et d’investir dans l’avenir, en évitant le piège des revenus intermédiaires."
+ztr_economic_update.5.a: "Voici, civilisation… maintenant entièrement assemblée."
+
+ztr_economic_update.6.t: "Mise à jour économique"
+ztr_economic_update.6.d: "Nos avancées rapides nous ont propulsés parmi les nations développées, montrant notre puissance économique et notre innovation."
+ztr_economic_update.6.a: "Enfin, nous pouvons arrêter de faire semblant d’être 'émergents' plus 'développés'."
+
+ztr_economic_update.7.t: "Mise à jour économique"
+ztr_economic_update.7.d: "Notre accélération économique sans précédent nous place parmi les nations développées avancées, rivalisant en richesse avec les puissances mondiales de l’après-Seconde Guerre mondiale."
+ztr_economic_update.7.a: "Apparemment, 'développé' était trop banal."
+
+ztr_economic_update.8.t: "Mise à jour économique"
+ztr_economic_update.8.d: "Grâce à des politiques visionnaires et à l'innovation, nous avons accédé au rang des nations hyper-développées, établissant de nouvelles normes de productivité et de qualité de vie."
+ztr_economic_update.8.a: "Bienvenue dans le futur, où le ciel n’est pas la limite : c’est juste le début."
+
+ztr_economic_update.9.t: "Mise à jour économique"
+ztr_economic_update.9.d: "Notre économie a atteint des sommets inégalés, nous valant le prestigieux titre de nation ultra-développée, rivalisant en richesse avec les pays les plus aisés du XXIᵉ siècle."
+ztr_economic_update.9.a: "Encore un tour…"
+
+ztr_economic_update.10.t: "Mise à jour économique"
+ztr_economic_update.10.d: "Notre économie a perdu un peu de dynamique, nous faisant redescendre au rang de pays hyper-développé."
+ztr_economic_update.10.a: "Nous sommes toujours parmi les meilleurs, non ?"
+
+ztr_economic_update.11.t: "Mise à jour économique"
+ztr_economic_update.11.d: "Notre économie rencontre des difficultés, nous ramenant dans la catégorie des pays développés avancés."
+ztr_economic_update.11.a: "Il est temps de se regrouper et de réfléchir."
+
+ztr_economic_update.12.t: "Mise à jour économique"
+ztr_economic_update.12.d: "Notre économie connaît des difficultés importantes, entraînant un déclin vers le niveau des pays développés."
+ztr_economic_update.12.a: "Un revers temporaire, nous rebondirons."
+
+ztr_economic_update.13.t: "Mise à jour économique"
+ztr_economic_update.13.d: "Après une longue stagnation économique, nous sommes tombés du statut de pays développé, rappelant les pays à revenus intermédiaires luttant pour s’adapter aux changements technologiques."
+ztr_economic_update.13.a: "Sommes-nous piégés dans le piège des revenus intermédiaires ?"
+
+ztr_economic_update.14.t: "Mise à jour économique"
+ztr_economic_update.14.d: "Après une période de récession, nous sommes désormais classés comme pays semi-développé."
+ztr_economic_update.14.a: "Nous avons eu une mauvaise période, mais nous redeviendrons grands !"
+
+ztr_economic_update.15.t: "Mise à jour économique"
+ztr_economic_update.15.d: "Le déclin continu nous a ramenés au rang de pays en développement."
+ztr_economic_update.15.a: "Nous rebondirons assez pour pouvoir encore nous vanter—un peu."
+
+ztr_economic_update.16.t: "Mise à jour économique"
+ztr_economic_update.16.d: "Notre économie s’est fortement contractée, nous ramenant au statut de pays à faible développement."
+ztr_economic_update.16.a: "Le cadeau de la récession qui continue de rétrograder."
+
+ztr_economic_update.17.t: "Mise à jour économique"
+ztr_economic_update.17.d: "Face aux difficultés croissantes, nous sommes retombés dans le rang des pays pauvres, avec des niveaux de vie comparables aux sociétés pré-industrielles."
+ztr_economic_update.17.a: "Champion du minimalisme, une faillite à la fois."
+
+# Texte de contexte pour l’ONU
+ztr_un_event.1.f: "Ainsi, l’Assemblée générale proclame la présente Déclaration universelle des droits de l’homme comme norme commune de réalisation pour tous les peuples et toutes les nations, afin que chaque individu et chaque organe de la société, gardant constamment cette Déclaration à l’esprit, s’efforce, par l’enseignement et l’éducation, de promouvoir le respect de ces droits et libertés et, par des mesures progressives, nationales et internationales, d’assurer leur reconnaissance et leur observation universelles et effectives, tant parmi les peuples des États membres qu’au sein des territoires sous leur juridiction."
+
+# Superpuissance
+ztr_superpower.1.t: "Un Nouvel Ordre Mondial"
+ztr_superpower.1.d: "Après des décennies de rivalités et de conflits entre grandes puissances, un nouveau monde émerge, dominé par deux superpuissances. Grâce à notre puissance économique, militaire et diplomatique, nous avons émergé comme l’une des deux puissances globales dominantes, influençant le cours de l’histoire et le destin des nations. Le monde sera divisé en deux sphères d’influence, avec nos alliés et partenaires alignés dans une nouvelle Guerre Froide."
+ztr_superpower.1.a: "Nous sommes les dirigeants du monde, notre monde."
+
+ztr_superpower.2.t: "Perte de statut"
+ztr_superpower.2.d: "Nos efforts incroyables ne suffisent plus à maintenir notre statut de superpuissance. Notre économie peine, notre armée est surchargée, et notre influence diplomatique diminue. Nous ne pouvons plus rivaliser avec l’autre superpuissance et perdons notre position de leader mondial. Le monde change, et nous devons nous adapter pour survivre."
+ztr_superpower.2.a: "Nous ne sommes plus une superpuissance."
+
+# Union européenne
+ztr_eu_event.1.t: "Fondation de l'Union européenne"
+ztr_eu_event.1.d: "Le traité de Maastricht a été signé, marquant un tournant dans l’histoire européenne. Ce qui était autrefois la Communauté économique européenne évolue désormais vers un projet plus ambitieux : l'Union européenne. Avec des institutions communes, des politiques partagées et une vision d’intégration, cet accord jette les bases d’une nouvelle ère de coopération entre nations souveraines."
+ztr_eu_event.1.f: "Par ce traité, les Hautes Parties contractantes établissent entre elles une Union européenne, ci-après appelée 'l’Union'. Ce traité marque une nouvelle étape dans le processus de création d’une union toujours plus étroite entre les peuples d’Europe, dans laquelle les décisions sont prises au plus près du citoyen. L’Union s’appuiera sur les Communautés européennes, complétées par les politiques et formes de coopération établies par le présent traité. Sa tâche sera d’organiser, de manière cohérente et solidaire, les relations entre les États membres et entre leurs peuples."
+ztr_eu_event.1.a: "Europe unie, plus fortes ensemble."
+
+ztr_eu_event.2.t: "Adhésion à l'Union européenne"
+ztr_eu_event.2.d: "Le traité de Maastricht ouvre la voie à notre adhésion à l’Union européenne, transformant l’ancienne Communauté économique européenne en un bloc politique et économique plus solide. L’adhésion nécessitera des ajustements législatifs et institutionnels, mais promet prospérité et unité avec nos voisins européens."
+ztr_eu_event.2.a: "Nous nous tiendrons aux côtés de l'Union européenne."
+ztr_eu_event.2.b: "C’est trop, nous ne renoncerons pas à notre souveraineté."
+
+
+# NOUVEAU 1.5
+
+new_zealand_formation.1.t: "La question néo-zélandaise"
+new_zealand_formation.1.d: "[SCOPE.sCountry('ztr_australian_cession_overlord').GetName] nous a proposé la formation d'une Nouvelle-Zélande unifiée, fusionnant les îles du Nord et du Sud en un seul pays. Les raisons semblent être économiques, car une Nouvelle-Zélande unifiée serait plus compétitive sur le marché mondial, et sociales, car la Nouvelle-Zélande contient une population maorie importante. Comment devons-nous réagir ?"
+new_zealand_formation.1.a: "Nous accepterons la proposition [SCOPE.sCountry('ztr_australian_cession_overlord').GetAdjective]."
+new_zealand_formation.1.b: "Nous ne pouvons pas accepter de perdre notre contrôle sur une île du Pacifique, même si notre suzerain ne l'apprécierait pas."
+
+new_zealand_formation.2.t: "La question néo-zélandaise"
+new_zealand_formation.2.d: "[SCOPE.sCountry('ztr_australian_cession_subject').GetName] a étrangement refusé de former une Nouvelle-Zélande unifiée. Devons-nous prendre ce refus comme un signe de désobéissance et prendre des mesures pour imposer notre volonté, ou devons-nous les laisser faire ?"
+new_zealand_formation.2.a: "Se battre avec notre colonie pour deux îles plus proches de l'Antarctique que de nos routes commerciales n'en vaut pas la peine."
+new_zealand_formation.2.b: "Nous imposerons notre volonté, nous ne pouvons pas les laisser désobéir à la Couronne."
+
+middle_east.1.t: "Crise du Canal de Suez"
+middle_east.1.d: "Depuis sa construction, le Canal de Suez est une artère vitale pour le commerce mondial, reliant la Mer Méditerranée à la Mer Rouge et raccourcissant considérablement les routes maritimes entre l'Europe et l'Asie. Cependant, son importance stratégique en a également fait un point focal des tensions géopolitiques. [SCOPE.sCountry('ztr_arabian_country_scope').GetName], en tant que puissance arabe de la région, a le droit de contrôler le canal, actuellement sous le contrôle de [SCOPE.sCountry('ztr_european_colonial_power_scope').GetName]. Nous n'avons probablement pas le pouvoir de nous opposer à cette demande, mais nous pouvons essayer de négocier ou de trouver de l'aide auprès de nos alliés."
+middle_east.1.a: "Nous pouvons offrir de l'argent, précisément 6 millions de livres. S'ils refusent, nous devrons nous battre pour cela."
+middle_east.1.b: "Nous devrions éviter cette guerre, nous ne pouvons pas détruire notre nation pour un simple canal."
+
+middle_east.2.t: "Crise du Canal de Suez"
+middle_east.2.d: "[SCOPE.sCountry('ztr_arabian_country_scope').GetName] a demandé le contrôle du Canal de Suez, actuellement sous notre contrôle. Du point de vue des [Concept('concept_united_nations','$concept_united_nations$')], nous n'avons pas le pouvoir de nous opposer à cette demande, mais nous pouvons essayer de négocier ou prendre le risque. Leur offre pacifique est de nous payer 90 millions de livres, mais si nous refusons, ils veulent prendre le canal par la force."
+middle_east.2.a: "90 millions !? Nous acceptons !"
+middle_east.2.b: "Nous pouvons trouver un terrain d'entente, en leur donnant un contrôle économique permanent sur le canal."
+middle_east.2.c: "Le Canal de Suez n'a pas de prix, ils nous combattront pour l'obtenir."
+
+middle_east_suez_canal_tt: "Le Canal de Suez fera désormais partie de [SCOPE.sCountry('ztr_arabian_country_scope').GetName]"
+
+ztr_middle_east.3.t: "L'idée d'une patrie juive"
+ztr_middle_east.3.d: "La question d'une patrie juive en Palestine a atteint l'agenda des grandes puissances et des [Concept('concept_united_nations','$concept_united_nations$')]. Les communautés juives à travers l'Europe ont exprimé un intérêt croissant pour l'établissement de leur propre État, et la discussion internationale s'est orientée vers la possibilité de créer une telle entité politique. Leur destin est entre nos puissantes mains."
+ztr_middle_east.3.a: "Autoriser l'établissement d'Israël"
+ztr_middle_east.3.b: "Rejeter la proposition"
+ztr_middle_east.3.c: "Déférer la question à [SCOPE.sCountry('ztr_palestine_controller_scope').GetName], car la Palestine est sous leur contrôle"
+ztr_middle_east.3.e: "Présenter l'offre à [SCOPE.sCountry('ztr_palestine_controller_scope').GetName], ils devraient accepter"
+ztr_middle_east.3.f: "Demander l'approbation de [SCOPE.sCountry('ztr_palestine_controller_overlord_scope').GetName]"
+ztr_middle_east.3.g: "S'attendre à l'approbation de [SCOPE.sCountry('ztr_palestine_controller_overlord_scope').GetName]"
+
+ztr_middle_east.4.t: "La proposition d'une patrie juive"
+ztr_middle_east.4.d: "Une initiative internationale, menée par [SCOPE.sCountry('ztr_official_israel_formation_proposer').GetName], a été avancée pour établir une patrie juive en Palestine. La proposition nécessite la cession de territoire à un nouvel État, avec l'attente d'une reconnaissance internationale. L'acceptation réaliserait le plan, tandis que le refus risque de nuire aux relations avec d'autres puissances occidentales."
+ztr_middle_east.4.a: "Israël doit être établi, comme un avant-poste de l'influence occidentale au Moyen-Orient"
+ztr_middle_east.4.b: "Cette proposition est inacceptable, nous devons la rejeter"
+
+ztr_middle_east.5.t: "Exigence d'une patrie juive"
+ztr_middle_east.5.d: "Les puissances occidentales, menées par [SCOPE.sCountry('ztr_official_israel_formation_proposer').GetName], nous ont exigé l'établissement d'un État juif en Palestine. Se conformer transférerait l'autorité sur le territoire désigné. Le rejet provoquerait probablement une confrontation avec la coalition de puissances soutenant l'initiative."
+ztr_middle_east.5.a: "Se conformer à l'exigence, malgré des siècles de domination et de sociétés islamiques dans la région"
+ztr_middle_east.5.b: "Accepter cette exigence scandaleuse est une humiliation déclarée pour le monde arabe, nous nous battrons avec honneur contre l'Occident"
+
+ztr_middle_east.6.t: "Migration sioniste"
+ztr_middle_east.6.d: "Suite à l'établissement de [SCOPE.sCountry('ztr_israel_scope').GetName], un mouvement de communautés juives a commencé. Beaucoup cherchent à quitter notre pays et à se réinstaller dans le nouvel État [SCOPE.sCountry('ztr_israel_scope').GetAdjective] en Palestine. Cette migration devrait modifier les équilibres démographiques ici et au Levant, avec des conséquences sociales et politiques inattendues."
+ztr_middle_east.6.a: "Leur patrie les appelle, laissons-les partir"
+
+ztr_strike_ultimatum.t: "La Grève : Un Ultimatum"
+ztr_strike_ultimatum.d: "La #v Grève#! en cours paralyse [ROOT.GetCountry.GetName] depuis bien trop longtemps. La production s'est arrêtée dans de nombreux États, et les dommages économiques s'accumulent. Les [SCOPE.gsInterestGroup('union_ig_scope').GetName] refusent de renvoyer les travailleurs sans concessions importantes. Notre patience, la magnanimité des [SCOPE.gsInterestGroup('industrialist_ig_scope').GetName], et les coffres de la nation sont épuisés. Le temps de la négociation est terminé ; une décision doit être prise."
+ztr_strike_ultimatum_accept.option: "Bien, nous concéderons [SCOPE.sLaw('ztr_strike_law_promised').GetName]."
+ztr_strike_ultimatum_give_concession.option: "Nous leur accorderons [SCOPE.sLaw('ztr_strike_law_concession').GetName], mais pas plus."
+ztr_strike_ultimatum_non_violent.option: "Utiliser la pression légale et financière pour briser la grève : après cela, les grèves ne seront plus totalement légales."
+ztr_strike_ultimatum_crush.option: "Briser les piquets de grève. Par la force, si nécessaire."
+ztr_strike_ultimatum_crush_fascists_and_strikebreakers.option: "Déchaîner les hommes armés [SCOPE.sPoliticalMovement('fascist_movement_scope').GetName] et remplacer les grévistes par des briseurs de grève."
+ztr_strike_ultimatum_emergency_law.option: "Cette agitation prolongée est intolérable. Après cela, nous allons réduire les #v Capacités#! des [SCOPE.gsInterestGroup('union_ig_scope').GetName]."
+
+anschluss.t: "Anschluss"
+anschluss_dictatorship.d: "[SCOPE.sCountry('ztr_germany_scope').GetRuler.GetFullName], chef de la #v Dictature#! [SCOPE.sCountry('ztr_germany_scope').GetAdjective], a exprimé à plusieurs reprises son désir d'unifier tous les peuples de langue allemande sous sa domination. L'effondrement de l'empire [ROOT.GetCountry.GetAdjective] a fait surgir l'opportunité d'atteindre enfin cet objectif, en annexant notre pays. Si nous refusons, nous risquons d'être envahis par [SCOPE.sCountry('ztr_germany_scope').GetName]."
+anschluss_vienna.d: "[SCOPE.sCountry('ztr_germany_scope').GetName] contrôle Vienne depuis des années, faisant perdre à [ROOT.GetCountry.GetName] le cœur même de son existence. Devons-nous accepter cette opportunité et redevenir partie de l'histoire du peuple allemand ?"
+anschluss_accept.option: "Nous accepterons l'intégration avec [SCOPE.sCountry('ztr_germany_scope').GetName]."
+anschluss_refuse.option: "Nous ne pouvons pas accepter l'offre de leur régime extrémiste."
+
+anschluss_accepted.t: "Anschluss Accepté"
+anschluss_accepted.d: "L'Autriche fait officiellement partie de notre grande nation, augmentant la centralisation de tous les peuples #v de langue#! [SCOPE.sCountry('ztr_germany_scope').GetAdjective] sous une seule domination. Nous devons célébrer ce moment historique."
+anschluss_accepted.option: "Nous devons assurer la stabilité en Europe Centrale."
+anschluss_accepted_reich.option: "Longue vie au Reich [SCOPE.sCountry('ztr_germany_scope').GetAdjective] !"
+
+# Liberty Index Rankings
+
+liberty_index.t: "Classements de l'[Concept('concept_liberty_index','$concept_liberty_index$')]"
+liberty_index_rankings.d: "#v CLASSEMENT PAR PIB#!\n\n Démocraties @liberty_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_gdp_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_gdp_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_gdp_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_gdp_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_gdp_rank_5_type')]\n\n Autocraties @autocracy_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_gdp_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_gdp_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_gdp_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_gdp_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_gdp_rank_5_type')]\n\n#v CLASSEMENT PAR INDICE#!\n\n Démocraties @liberty_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_index_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_index_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_index_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_index_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_liberty_index_rank_5_type')]\n\n Autocraties @autocracy_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_index_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_index_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_index_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_index_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_autocracy_index_rank_5_type')]"
+liberty_index_rankings.option: "Nous sommes fiers de notre position !"
+
+# GDP Rankings (Classements par PIB)
+
+ztr_liberty_gdp_rank_1_loc: "1. [ROOT.Var('ztr_liberty_gdp_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_gdp_rank_1_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_gdp_rank_2_loc: "\n2. [ROOT.Var('ztr_liberty_gdp_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_gdp_rank_2_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_gdp_rank_3_loc: "\n3. [ROOT.Var('ztr_liberty_gdp_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_gdp_rank_3_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_gdp_rank_4_loc: "\n4. [ROOT.Var('ztr_liberty_gdp_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_gdp_rank_4_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_gdp_rank_5_loc: "\n5. [ROOT.Var('ztr_liberty_gdp_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_gdp_rank_5_var').GetVariable('liberty_index_var').GetValue|0]"
+
+ztr_autocracy_gdp_rank_1_loc: "1. [ROOT.Var('ztr_autocracy_gdp_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_gdp_rank_1_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_gdp_rank_2_loc: "\n2. [ROOT.Var('ztr_autocracy_gdp_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_gdp_rank_2_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_gdp_rank_3_loc: "\n3. [ROOT.Var('ztr_autocracy_gdp_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_gdp_rank_3_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_gdp_rank_4_loc: "\n4. [ROOT.Var('ztr_autocracy_gdp_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_gdp_rank_4_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_gdp_rank_5_loc: "\n5. [ROOT.Var('ztr_autocracy_gdp_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_gdp_rank_5_var').GetVariable('liberty_index_var').GetValue|0]"
+
+# Liberty Index Rankings (Classements par Indice de Liberté)
+
+ztr_liberty_index_rank_1_loc: "1. [ROOT.Var('ztr_liberty_index_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_index_rank_1_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_index_rank_2_loc: "\n2. [ROOT.Var('ztr_liberty_index_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_index_rank_2_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_index_rank_3_loc: "\n3. [ROOT.Var('ztr_liberty_index_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_index_rank_3_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_index_rank_4_loc: "\n4. [ROOT.Var('ztr_liberty_index_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_index_rank_4_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_liberty_index_rank_5_loc: "\n5. [ROOT.Var('ztr_liberty_index_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_liberty_index_rank_5_var').GetVariable('liberty_index_var').GetValue|0]"
+
+ztr_autocracy_index_rank_1_loc: "1. [ROOT.Var('ztr_autocracy_index_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_index_rank_1_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_index_rank_2_loc: "\n2. [ROOT.Var('ztr_autocracy_index_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_index_rank_2_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_index_rank_3_loc: "\n3. [ROOT.Var('ztr_autocracy_index_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_index_rank_3_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_index_rank_4_loc: "\n4. [ROOT.Var('ztr_autocracy_index_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_index_rank_4_var').GetVariable('liberty_index_var').GetValue|0]"
+ztr_autocracy_index_rank_5_loc: "\n5. [ROOT.Var('ztr_autocracy_index_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_autocracy_index_rank_5_var').GetVariable('liberty_index_var').GetValue|0]"
+
+# Equality Index Rankings
+
+equality_index.t: "Classements de l'Indice d'Égalité"
+equality_index_rankings.d: "#v CLASSEMENT PAR PIB#!\n\n Pays Socialistes @equality_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_gdp_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_gdp_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_gdp_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_gdp_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_gdp_rank_5_type')]\n\n Pays Individualistes @individualist_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_gdp_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_gdp_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_gdp_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_gdp_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_gdp_rank_5_type')]\n\n#v CLASSEMENT PAR INDICE#!\n\n Pays Socialistes @equality_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_index_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_index_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_index_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_index_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_socialist_index_rank_5_type')]\n\n Pays Individualistes @individualist_index!\n[SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_index_rank_1_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_index_rank_2_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_index_rank_3_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_index_rank_4_type')][SCOPE.GetRootScope.GetCountry.GetCustom('ztr_individualist_index_rank_5_type')]"
+equality_index_rankings.option: "Nous sommes fiers de notre position !"
+
+# GDP Rankings (Classements par PIB)
+
+ztr_socialist_gdp_rank_1_loc: "1. [ROOT.Var('ztr_socialist_gdp_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_gdp_rank_1_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_gdp_rank_2_loc: "\n2. [ROOT.Var('ztr_socialist_gdp_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_gdp_rank_2_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_gdp_rank_3_loc: "\n3. [ROOT.Var('ztr_socialist_gdp_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_gdp_rank_3_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_gdp_rank_4_loc: "\n4. [ROOT.Var('ztr_socialist_gdp_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_gdp_rank_4_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_gdp_rank_5_loc: "\n5. [ROOT.Var('ztr_socialist_gdp_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_gdp_rank_5_var').GetVariable('equality_index_var').GetValue|0]"
+
+ztr_individualist_gdp_rank_1_loc: "1. [ROOT.Var('ztr_individualist_gdp_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_gdp_rank_1_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_gdp_rank_2_loc: "\n2. [ROOT.Var('ztr_individualist_gdp_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_gdp_rank_2_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_gdp_rank_3_loc: "\n3. [ROOT.Var('ztr_individualist_gdp_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_gdp_rank_3_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_gdp_rank_4_loc: "\n4. [ROOT.Var('ztr_individualist_gdp_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_gdp_rank_4_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_gdp_rank_5_loc: "\n5. [ROOT.Var('ztr_individualist_gdp_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_gdp_rank_5_var').GetVariable('equality_index_var').GetValue|0]"
+
+# Equality Index Rankings (Classements par Indice d'Égalité)
+
+ztr_socialist_index_rank_1_loc: "1. [ROOT.Var('ztr_socialist_index_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_index_rank_1_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_index_rank_2_loc: "\n2. [ROOT.Var('ztr_socialist_index_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_index_rank_2_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_index_rank_3_loc: "\n3. [ROOT.Var('ztr_socialist_index_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_index_rank_3_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_index_rank_4_loc: "\n4. [ROOT.Var('ztr_socialist_index_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_index_rank_4_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_socialist_index_rank_5_loc: "\n5. [ROOT.Var('ztr_socialist_index_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_socialist_index_rank_5_var').GetVariable('equality_index_var').GetValue|0]"
+
+ztr_individualist_index_rank_1_loc: "1. [ROOT.Var('ztr_individualist_index_rank_1_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_index_rank_1_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_index_rank_2_loc: "\n2. [ROOT.Var('ztr_individualist_index_rank_2_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_index_rank_2_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_index_rank_3_loc: "\n3. [ROOT.Var('ztr_individualist_index_rank_3_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_index_rank_3_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_index_rank_4_loc: "\n4. [ROOT.Var('ztr_individualist_index_rank_4_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_index_rank_4_var').GetVariable('equality_index_var').GetValue|0]"
+ztr_individualist_index_rank_5_loc: "\n5. [ROOT.Var('ztr_individualist_index_rank_5_var').GetCountry.GetName]: [ROOT.Var('ztr_individualist_index_rank_5_var').GetVariable('equality_index_var').GetValue|0]"
+
+ztr_russian_revolution_polish_unrest.t: "Agitation Polonaise"
+ztr_russian_revolution_polish_unrest.d: "Les vents du changement soufflent à travers la Pologne [ROOT.GetCountry.GetAdjective]. Les sentiments nationalistes, qui couvaient sous la surface depuis longtemps, ont éclaté en manifestations ouvertes. Le peuple exige une plus grande reconnaissance et autonomie, défiant notre domination sur la région."
+ztr_russian_revolution_polish_unrest_suppressed.option: "Nous devons restaurer l'ordre. Réprimer cette agitation."
+ztr_russian_revolution_polish_unrest_appeased.option: "Peut-être que certaines concessions les calmeront."
+
+ztr_russian_revolution_order_positive_tt: "Cela #positive_value Augmentera#! l'ordre dans l'Empire."
+ztr_russian_revolution_order_negative_tt: "Cela #negative_value Diminuera#! l'ordre dans l'Empire."
+ztr_russian_revolution_poland_is_created_tt: "La #blue_value Pologne#! sera créée."
+
+ztr_russian_revolution_polish_ultimatum.t: "L'Ultimatum Polonais"
+ztr_russian_revolution_polish_ultimatum.d: "L'agitation en Pologne a dégénéré. Les dirigeants nationalistes ont lancé un ultimatum audacieux, exigeant une action immédiate concernant leur statut. Ils cherchent l'autonomie, ou peut-être même l'indépendance totale. Le refus signifiera presque certainement la guerre, mais céder le contrôle de ces terres vitales est une pilule amère à avaler."
+ztr_russian_revolution_polish_ultimatum.f: "Un télégramme codé est arrivé du Gouverneur général à Varsovie. Il dit simplement : 'La direction polonaise exige la souveraineté immédiate. Ils ont mobilisé leurs milices. Ils voient dans notre agitation interne leur opportunité. Un refus, disent-ils clairement, est une déclaration de guerre. L'ordre de Votre Majesté Impériale est requis d'urgence. Nous ne pouvons tarder.'"
+ztr_russian_revolution_polish_ultimatum_reject.option: "C'est un scandale ! Nous ne serons pas menacés. Préparons-nous à la guerre."
+ztr_russian_revolution_polish_ultimatum_accept.option: "Leur accorder l'autonomie en tant qu'État fantoche. C'est un compromis nécessaire."
+ztr_russian_revolution_polish_ultimatum_independence.option: "Laissons-les partir. La Pologne ne vaut pas le sang de nos soldats."
+
+ztr_russian_revolution_minorities_unrest.t: "Agitation parmi les Minorités"
+ztr_russian_revolution_minorities_unrest.d: "Notre vaste empire englobe de nombreux peuples, qui ne partagent pas tous notre culture ou notre langue. De la Baltique au Caucase, des murmures de mécontentement grandissent. Sans une politique d'inclusion, ces groupes divers se sentent aliénés et opprimés, alimentant l'instabilité dans nos terres non-russes."
+ztr_russian_revolution_minorities_unrest.option: "C'est un développement inquiétant."
+ztr_russian_revolution_minorities_unrest.f: "Des provinces baltes aux montagnes du Caucase, les rapports de nos gouverneurs régionaux deviennent de plus en plus alarmants. Les assemblées locales parlent de préservation culturelle, mais leurs mots portent la marque aiguë du séparatisme. Ce n'est pas une dissidence isolée ; c'est un échec systémique à intégrer les divers peuples de notre Empire. Ils se sentent ignorés et non représentés, un sentiment dangereux que les agitateurs ne sont que trop désireux d'exploiter."
+
+ztr_russian_revolution_peasant_unrest.t: "Agitation Paysanne"
+ztr_russian_revolution_peasant_unrest.d: "Le socle de notre société, la paysannerie, se fissure. Liés par les chaînes du [Concept('concept_serfdom','$concept_serfdom$')], leurs vies sont faites de labeur et de difficultés. Les [SCOPE.gsInterestGroup('russia_peasants_scope').GetName] deviennent de plus en plus agités, exigeant la liberté et la terre. Leur colère sourde menace la stabilité même de la campagne."
+ztr_russian_revolution_peasant_unrest.option: "Nous devons répondre à leurs préoccupations."
+ztr_russian_revolution_peasant_unrest.f: "Votre Excellence, les maréchaux provinciaux de la noblesse rapportent que la paysannerie est dans un état de quasi-révolte ouverte. Ils refusent leurs obligations, et il y a des rapports crédibles de saisies de terres organisées et d'attaques de manoirs. Les [SCOPE.gsInterestGroup('russia_peasants_scope').GetName] attisent ce feu, prêchant que la terre appartient à ceux qui la travaillent. L'ordre traditionnel dans la campagne s'effondre."
+
+ztr_russian_revolution_serfdom_outlawed.t: "Abolition du Servage"
+ztr_russian_revolution_serfdom_outlawed.d: "Alors que l'ancienne institution du [Concept('concept_serfdom','$concept_serfdom$')] a finalement été abolie. Des millions de nos paysans sont maintenant libres, libérés de la terre à laquelle ils étaient liés. Cette grande réforme, défendue par les [SCOPE.gsInterestGroup('russia_peasants_scope').GetName], promet de remodeler notre société et notre économie. Cela aidera sûrement à maintenir l'ordre à [ROOT.GetCountry.GetName]."
+ztr_russian_revolution_serfdom_outlawed.option: "Une nouvelle ère de liberté !"
+ztr_russian_revolution_serfdom_outlawed.f: "Par Manifeste Impérial, l'ancienne et lourde institution du servage est par la présente abolie. C'est une étape capitale, une mesure nécessaire pour moderniser notre grande nation et soulager les souffrances du peuple. Les [SCOPE.gsInterestGroup('russia_peasants_scope').GetName] ont salué cela comme une victoire de la justice. Qu'il soit su qu'un nouveau chapitre de l'histoire [ROOT.GetCountry.GetAdjective] commence aujourd'hui, un chapitre de liberté et de progrès sous la bienveillante direction du Tsar."
+
+ztr_russian_revolution_liberals_not_with_us.t: "L'Opposition Libérale"
+ztr_russian_revolution_liberals_not_with_us.d: "La domination [Concept('concept_autocracy','Autocratique')] des #v Tsars#! en [ROOT.GetCountry.GetName] a longtemps été une caractéristique déterminante de son paysage politique. Cependant, les pressions de la modernisation, de l'agitation sociale et l'influence de nouvelles idéologies remettent en question les fondements de ce système absolutiste. Alors que les appels à la réforme deviennent plus forts et plus organisés, la question se pose : le régime tsariste peut-il s'adapter à l'évolution de l'époque, ou est-il destiné à tomber face aux forces de changement qui balayent l'empire ?\nDans ce contexte, les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] s'avèrent être un bloc difficile. Bien qu'ils désirent la modernisation, leur vision pour [ROOT.GetCountry.GetName] s'oppose à la nôtre, car ils plaident pour des libertés que nous ne sommes pas disposés à accorder."
+ztr_russian_revolution_liberals_not_with_us.option: "Leur vision n'est pas la nôtre, mais nous pouvons nous arranger avec eux."
+ztr_russian_revolution_liberals_not_with_us.f: "Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] sont un paradoxe frustrant. Ils parlent le langage du progrès, prônant des usines, des chemins de fer et des lois modernes. Pourtant, dans le même souffle, ils exigent des parlements et des libertés qui mineraient fatalement l'autorité même nécessaire pour mettre en œuvre de telles réformes. Ils considèrent notre autocratie comme l'obstacle, ne comprenant pas qu'elle est le seul rempart contre le chaos."
+
+ztr_russian_revolution_strange_proletariat.t:"Un Étrange Prolétariat"
+ztr_russian_revolution_strange_proletariat.d:"Une nouvelle classe émerge en [ROOT.GetCountry.GetName] : le #v prolétariat industriel#!. Bien que petit et né de racines paysannes, il fait preuve d'une ferveur et d'une conscience de classe différentes de celles de l'#v Europe de l'Ouest#!. Alors que #v Marx#! imaginait une révolution communiste naissant d'une classe ouvrière mûre et nombreuse, la nôtre est encore jeune mais déjà agitée et consciente. Les [SCOPE.gsInterestGroup('russia_bolsheviks_scope').GetName] les rallient, et les idées radicales se propagent comme une traînée de poudre. Cet éveil, dans un pays de paysans, pourrait remodeler l'empire lui-même."
+ztr_russian_revolution_strange_proletariat.option:"Une force étrange et ardente se lève à [ROOT.GetCountry.GetName]."
+ztr_russian_revolution_strange_proletariat.f: "Ministre, les rapports de nos centres industriels sont troublants. Les nouveaux ouvriers d'usine, tirés directement des villages, ne se comportent pas comme prévu. Ils s'organisent avec une rapidité alarmante. Contrairement au prolétariat de l'Ouest, le nôtre est petit mais singulièrement volatile, détaché de ses traditions rurales et très réceptif aux idéologies les plus extrêmes. Les [SCOPE.gsInterestGroup('russia_bolsheviks_scope').GetName] canalisent cette énergie, transformant les griefs industriels en une menace politique directe contre l'État."
+
+ztr_russian_revolution_intelligentsia_ambiguity.t: "Les Exigences de l'Intelligentsia"
+ztr_russian_revolution_intelligentsia_ambiguity.d: "Les [SCOPE.gsInterestGroup('russia_intelligentsia_scope').GetName] nous ont approchés avec une série d'exigences. Ils ne se soucient pas de souligner que la majorité de leur groupe d'intérêt a une meilleure opinion des #negative_value Communistes#! que de l'autorité monarchique, car ils cherchent un financement accru pour l'[concept('concept_literacy','Éducation')], des investissements dans la [concept('concept_innovation','Recherche')] et un assouplissement général de la censure et des chaînes du traditionalisme pour permettre le libre échange des idées."
+ztr_russian_revolution_intelligentsia_ambiguity.option: "Leurs demandes sont énormes, mais raisonnables pour la situation [ROOT.GetCountry.GetAdjective]. Financer leurs efforts."
+ztr_russian_revolution_intelligentsia_ambiguity_refuse.option: "Nous ne pouvons nous permettre ces luxes, ni entretenir de bonnes relations avec ces #negative_value Communistes#!."
+ztr_russian_revolution_intelligentsia_ambiguity.f: "La pétition des [SCOPE.gsInterestGroup('russia_intelligentsia_scope').GetName] présente un marché clair. Ils demandent des fonds publics pour construire des écoles et des laboratoires, et que la plume du censeur soit allégée. Ils affirment que c'est le seul chemin vers un [ROOT.GetCountry.GetName] moderne et puissant. Pourtant, nous devons nous demander : ces nouvelles universités produiront-elles des ingénieurs et des scientifiques loyaux, ou deviendront-elles des foyers pour les radicaux mêmes qui cherchent à déchirer notre empire ? Ils offrent une clé vers l'avenir, mais elle pourrait aussi ouvrir la Boîte de Pandore."
+
+ztr_russian_revolution_treaty_liberals.t: "Un Pacte avec les Libéraux"
+ztr_russian_revolution_treaty_liberals.d: "Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] ont offert une voie de coopération. Ils sont disposés à soutenir le gouvernement et à modérer leurs ambitions politiques en échange de concessions économiques significatives et d'un engagement clair envers la modernisation nationale. Ce 'traité' pourrait garantir la stabilité et le progrès, mais il nous lie à leur programme économique."
+ztr_russian_revolution_treaty_liberals_accept.option: "Accepter le traité. La modernisation est primordiale."
+ztr_russian_revolution_treaty_liberals_refuse.option: "Nous ne serons pas tenus en otage par leurs exigences."
+ztr_russian_revolution_liberals_will_defend_status_quo_tt: "Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] #positive_value Soutiendront#! le statu quo."
+ztr_russian_revolution_liberals_will_refuse_forever_status_quo_tt: "Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] #negative_value S'opposeront#! au statu quo."
+ztr_russian_revolution_treaty_liberals.f: "Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] ont tendu une branche d'olivier, bien que lourde de conditions. Ils proposent un « Traité de Modernisation ». En substance, ils garantiront leur soutien politique et utiliseront leur influence pour stabiliser l'économie, *si* nous nous engageons pleinement dans leur programme économique. Cela signifie donner la priorité au développement industriel et aux réformes du marché avant toute autre chose. C'est une alliance de circonstance, liant notre destin au leur."
+
+ztr_russian_revolution_petition.t: "La Pétition des Industriels"
+ztr_russian_revolution_petition.d: "Les [SCOPE.gsInterestGroup('government_petition_ig').GetName] ont formellement pétitionné le gouvernement. Invoquant la nécessité de progrès économique, ils exigent que nous promulguions [SCOPE.sLaw('government_petition_law').GetName]. Ils ont également suggéré [SCOPE.sLaw('government_petition_law_2').GetName] comme alternative, mais leur message est clair : les lois actuelles entravent le potentiel industriel de la nation."
+ztr_russian_revolution_petition.f: "Au Conseil des Ministres Estimé, Nous, les représentants du [SCOPE.gsInterestGroup('government_petition_ig').GetName],..."
+
+ztr_russian_revolution_duma_role.t: "Le Rôle de la Douma"
+ztr_russian_revolution_duma_role.d: "À mesure que les négociations de traité progressent, le rôle de la #v Douma#! devient de plus en plus important. Elle est perçue comme un médiateur potentiel entre le gouvernement et les divers groupes d'intérêt en lice pour le pouvoir. Les Libéraux Purs la voient comme une plateforme pour faire avancer leur programme, tandis que les Industriels la considèrent comme un moyen de légitimer leurs réformes économiques. L'influence de la Douma pourrait façonner l'avenir du paysage politique [ROOT.GetCountry.GetAdjective], et sauver l'Empire d'une agitation supplémentaire."
+ztr_russian_revolution_duma_role.option: "La Douma doit jouer un rôle central dans notre gouvernance."
+ztr_russian_revolution_duma_role_reject.option: "Cette libéralisation du pouvoir est dangereuse. Nous devons limiter l'influence de la Douma."
+ztr_russian_revolution_liberals_will_be_displeased_tt: "Nous risquons de perdre à nouveau le soutien des #golden_value Libéraux#!."
+
+ztr_duma_low_strata_question.t: "La Question des Basses Couches"
+ztr_duma_low_strata_question.d: "La #v Douma#! débat de la 'Question des Basses Couches', un sujet controversé concernant le niveau de vie des classes inférieures en [ROOT.GetCountry.GetName]. Aider les pauvres pourrait apaiser les tensions sociales et réduire l'influence des [SCOPE.gsInterestGroup('russia_bolsheviks_scope').GetName], mais nous sommes surpris de constater des divisions parmi les #v Libéraux#! eux-mêmes, et que seule une petite minorité des [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] souhaite aider les classes inférieures."
+ztr_duma_low_strata_question_refuse.option: "Ils ont raison, la modernisation des moyens de production est plus importante."
+ztr_duma_low_strata_question_accept.option: "Nous devons améliorer la vie des pauvres pour assurer la stabilité et une demande de consommation plus élevée."
+
+ztr_duma_workers_rights_question.t: "La Question des Droits des Travailleurs"
+ztr_duma_workers_rights_question.d: "La #v Douma#! débat de la 'Question des Droits des Travailleurs', un sujet qui divise concernant les lois du travail et les protections pour les ouvriers industriels en [ROOT.GetCountry.GetName]. Alors que certains y voient une étape nécessaire pour améliorer les conditions et réduire l'agitation, d'autres craignent que cela n'entrave la croissance industrielle et ne perturbe l'équilibre délicat du pouvoir entre la classe ouvrière et les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName]."
+ztr_duma_workers_rights_question_refuse.option: "Nous ne pouvons pas nous permettre d'aliéner les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName]."
+ztr_duma_workers_rights_question_accept.option: "Protéger les droits des travailleurs est essentiel pour l'#v Ordre#!, promulguer immédiatement [SCOPE.sLaw('russia_no_workers_rights_law_scope').GetName]."
+
+ztr_russian_revolution_liberals_stop_supporting_us.t: "Les Libéraux Retirent leur Soutien"
+ztr_russian_revolution_liberals_stop_supporting_us.d: "Après les dernières disputes, les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] ont décidé de retirer leur soutien au gouvernement. Ils sont déçus par notre refus de soutenir leur programme et nous considèrent comme un obstacle à la modernisation [ROOT.GetCountry.GetAdjective]. Cette perte de soutien pourrait avoir des implications significatives pour notre capacité à gouverner efficacement et à maintenir l'#v Ordre#! dans l'empire."
+ztr_russian_revolution_liberals_stop_supporting_us.option: "C'est un revers, mais nous pouvons tout gérer sans eux, n'est-ce pas ?"
+
+ztr_russian_revolution_leader_for_soviet.t: "Un Chef pour les Soviets"
+ztr_russian_revolution_leader_for_soviet.d: "Les [SCOPE.gsInterestGroup('russia_bolsheviks_scope').GetName] sont à la recherche d'un leader charismatique pour les guider à travers ces temps turbulents. Ils ont besoin de quelqu'un capable d'unir les différentes factions au sein de leurs rangs, telles que les Bolcheviks, les Mencheviks et les Socialistes-Révolutionnaires de Gauche, de choisir l'une de ces idéologies et de présenter un défi à l'ordre existant en [ROOT.GetCountry.GetName]. Trouver un tel leader pourrait considérablement renforcer leur influence et leur capacité à mobiliser les masses.\n\nDans quelques mois, un #v Congrès des Soviets#! aura lieu."
+ztr_russian_revolution_leader_for_soviet_lenin.option: "Pensent-ils que le #negative_value Bolchevik#! [SCOPE.sCharacter('soviet_leader_character_scope').GetFullName] est l'homme de la situation ?"
+ztr_russian_revolution_leader_for_soviet.option: "Croient-ils que [SCOPE.sCharacter('soviet_leader_character_scope').GetFullName] possède toutes les qualités dont nous avons besoin ?"
+
+ztr_russian_revolution_first_soviet_congress.t: "Le Premier Congrès des Soviets"
+ztr_russian_revolution_first_soviet_congress.d: "Le #v Premier Congrès des Soviets#! s'est réuni, rassemblant des représentants de divers conseils d'ouvriers, de soldats et de paysans à travers [ROOT.GetCountry.GetName]. Cette assemblée, menée par les [SCOPE.gsInterestGroup('russia_bolsheviks_scope').GetName] et [SCOPE.sCharacter('soviet_leader_character_scope').GetFullName], est un moment que nous devons observer de près. Le congrès donnera probablement le ton des futures actions et stratégies des Soviets, remettant potentiellement en question la structure gouvernementale existante."
+ztr_russian_revolution_first_soviet_congress.f: "Camarades, Aujourd'hui marque un moment historique alors que nous nous réunissons pour le Premier Congrès des Soviets de [ROOT.GetCountry.GetName]. Nous représentons les voix des ouvriers, des soldats et des paysans qui ont longtemps été marginalisés et opprimés sous le régime actuel. Notre congrès est un témoignage de notre force collective et de notre détermination à façonner un nouvel avenir pour notre nation. Nous devons unir nos diverses factions, y compris les Bolcheviks, les Mencheviks et les Socialistes-Révolutionnaires de Gauche, pour forger une voie commune."
+ztr_first_soviet_congress_bolshevik.option: "Les #negative_value Bolcheviks#! ont pris la tête de ce congrès."
+ztr_russian_communist_bolshevik_ideology_potential_tt: "Les #negative_value Bolcheviks#! dirigeront une potentielle #v Révolution Russe#! @equality_index!."
+ztr_first_soviet_congress_menshevik.option: "Les #v Mencheviks#! semblent avoir gagné du terrain."
+ztr_russian_communist_menshevik_ideology_potential_tt: "Les #v Mencheviks#! dirigeront une potentielle #v Révolution Russe#! @equality_index!."
+ztr_first_soviet_congress_left_sr.option: "Les #gold_value Socialistes Agraires#! se font sentir dans ce congrès."
+ztr_russian_communist_left_sr_ideology_potential_tt: "Les #gold_value Socialistes Agraires#! dirigeront une potentielle #v Révolution Russe#! @equality_index!."
+
+ztr_russia_status_quo_path_wins.t: "Le Statu Quo Prévaut"
+ztr_russia_status_quo_path_wins.d: "Les forces de la stabilité et de la tradition ont triomphé en [ROOT.GetCountry.GetName]. Le #v régime Tsariste# et ses partisans ont réussi à naviguer dans les eaux troubles du nouveau monde, maintenant leur emprise sur le pouvoir. Les divers groupes d'intérêt ont trouvé un moyen de coexister au sein du cadre existant, privilégiant l'unité nationale aux changements radicaux. Cette victoire pour le statu quo garantit que [ROOT.GetCountry.GetName] continuera sur sa voie actuelle, préservant son rôle de plus grand empire du monde."
+ztr_russia_status_quo_path_wins_liberals.d: "Les forces de la stabilité ont triomphé en [ROOT.GetCountry.GetName]. Le #v régime Tsariste# et ses partisans ont réussi à naviguer dans les eaux troubles du nouveau monde, maintenant leur emprise sur le pouvoir et entamant une voie de #v Modernisation#!. Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] se sont battus avec acharnement à la Douma pour faire avancer les réformes, et bien qu'ils n'aient pas atteint tous leurs objectifs, ils ont obtenu une place à la table. Cette victoire pour le statu quo garantit que [ROOT.GetCountry.GetName] continuera sur sa voie actuelle, préservant son rôle de plus grand empire du monde."
+ztr_russia_status_quo_path_wins.f: "Concitoyens de [ROOT.GetCountry.GetName], Aujourd'hui, nous célébrons un triomphe de la stabilité et de la tradition. Face à des défis sans précédent et des pressions pour le changement, notre grande nation est restée ferme. Le régime Tsariste, soutenu par des groupes d'intérêt loyaux et une population unie, a réussi à préserver les fondations de notre empire. Nous avons choisi l'unité plutôt que la division, la continuité plutôt que le bouleversement. Cette victoire pour le statu quo garantit que [ROOT.GetCountry.GetName] continuera de prospérer en tant qu'empire le plus grand et le plus puissant du monde."
+ztr_russian_status_quo_path_wins.option: "Longue vie au #v Tsar#! [SCOPE.sCharacter('russia_tsar_scope').GetFullName] et à l'Empire !"
+ztr_russian_status_quo_path_wins_liberals.option: "Longue vie au #v Tsar#! [SCOPE.sCharacter('russia_tsar_scope').GetFullName], et à une nouvelle ère de réformes."
+russian_monarchy_can_survive_tt: "La #v Monarchie#! a #positive_value Vaincu#! la Révolution."
+russian_modernization_keep_going_tt: "La #v Monarchie#! et les #v Libéraux#! ont #positive_value Vaincu#! la Révolution en [ROOT.GetCountry.GetName]."
+
+# =========================
+# Liberal Revolution Concessions (ztr_russian_revolution.2)
+# =========================
+ztr_russian_revolution_liberals_wins.t: "Une Victoire Libérale"
+ztr_russian_revolution_liberals_wins.d: "Après des semaines de grèves, de pétitions et de manifestations de masse, les factions libérales ont saisi l'initiative à travers [ROOT.GetCountry.GetName]. Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] présentent un programme de limites constitutionnelles, de libertés civiles et de modernisation accélérée. Des nobles influents et des leaders industriels signalent discrètement leur soutien. Tous les regards se tournent vers le trône : [SCOPE.sCharacter('russia_tsar_scope').GetFullName] va-t-il se retirer pour permettre un ordre constitutionnel, ou résister et risquer une conflagration plus large ?"
+ztr_russian_revolution_liberals_wins.f: "Les rapports de la capitale décrivent une mer de tricolores flottant au-dessus de vastes foules. Des avocats en redingote marchent aux côtés de contremaîtres d'usine et d'étudiants ; la rhétorique est prudente, presque courtoise, mais chargée d'intention. 'Nous ne voulons pas détruire l'État', déclare un orateur, 'nous voulons le civiliser.' Les fenêtres du palais restent closes. À l'intérieur, l'air est lourd d'encre, de cire et d'indécision."
+
+ztr_russian_revolution_liberals_wins_abdication.option: "Au nom de l'#v Ordre#!, le Tsar abdiquera et un gouvernement constitutionnel sera formé."
+ztr_russian_revolution_liberals_wins_abdication_refused.option: "Refuser l'abdication. La couronne ne cède pas."
+
+# =========================
+# Communist Revolution Concessions (ztr_russian_revolution.3)
+# =========================
+ztr_russian_revolution_communists_wins.t: "Une Victoire Communiste"
+
+# Conditional descriptions (as per event's first_valid block)
+ztr_russian_revolution_menshivik_wins.d: "Au sein des Soviets, les Mencheviks ont pris la tête. Favorisant de larges coalitions et une transition par étapes, ils appellent à un gouvernement socialiste démocratique fondé sur la représentation de masse. [SCOPE.sCharacter('russia_communists_leader_scope').GetFullName] demande instamment des élections immédiates à une assemblée constituante, des protections légales pour les syndicats et l'abdication de [SCOPE.sCharacter('russia_tsar_scope').GetFullName]. Les [SCOPE.gsInterestGroup('russia_liberals_scope').GetName] et les conseils urbains signalent un soutien prudent."
+ztr_russian_revolution_agro_socialist_wins.d: "Des villages et des villes de marché provient une vague montante de pouvoir Socialiste Agraire. Leur programme est austère et simple : la terre à celui qui la travaille, du crédit pour la commune et des Soviets locaux pour superviser la production. [SCOPE.sCharacter('russia_communists_leader_scope').GetFullName] s'engage à dissoudre l'ordre des propriétaires fonciers et à redistribuer les domaines sans délai. Pour dégager la voie, ils exigent l'abdication de [SCOPE.sCharacter('russia_tsar_scope').GetFullName] et la création d'un gouvernement révolutionnaire soutenu par les paysans."
+ztr_russian_revolution_bolshevik_wins.d: "Les Bolcheviks ont saisi l'initiative dans les usines et les casernes. Leurs slogans sont sans compromis : #v Tout le Pouvoir aux Soviets#!, fin de la répression et contrôle immédiat de l'industrie et de la terre. [SCOPE.sCharacter('russia_communists_leader_scope').GetFullName] exige l'abdication de [SCOPE.sCharacter('russia_tsar_scope').GetFullName], la dissolution des anciennes institutions et la formation d'un conseil révolutionnaire pour gouverner au nom des ouvriers et des paysans."
+
+ztr_russian_revolution_communists_wins.f: "Des bannières rouges envahissent les avenues tandis que les sirènes d'usine hurlent comme des trompettes impatientes. Des délégués des usines et des garnisons se réunissent dans des salles enfumées, comptabilisant les mandats griffonnés au crayon. Les discours sont plus courts maintenant, les exigences plus vives. Quelque part, un télégraphe grésille : 'Soviets reconnus. Autorité contestée. Dans l'attente de votre décision.'"
+
+ztr_russian_revolution_communists_wins_abdication.option: "Abdiquer. Transférer le pouvoir aux Soviets et à leur conseil des ministres."
+# The refusal option reuses the liberals' key (as per the event script)
+# ztr_russian_revolution_liberals_wins_abdication_refused.option already defined above and will display here as well.
+
+usa_west_coast_purchase.t: "Offre de la Côte Ouest"
+usa_west_coast_purchase.d: "[SCOPE.sCountry('usa_scope').GetName] a exprimé son intérêt pour l'achat de nos territoires occidentaux. Ils croient que l'acquisition de ces terres renforcera leur position stratégique et leur potentiel économique. Bien que cette offre soit #v inattendue#!, elle présente une opportunité de renforcer nos relations avec [SCOPE.sCountry('usa_scope').GetName] et potentiellement d'obtenir de précieuses ressources en retour."
+usa_west_coast_purchase.f: "Une proposition formelle est arrivée de [SCOPE.sCountry('usa_scope').GetName]. Leurs diplomates décrivent une vision de prospérité partagée, soulignant les avantages mutuels du transfert de nos territoires occidentaux sous leur contrôle. Ils mettent en évidence le développement économique qu'ils prévoient d'entreprendre, promettant des investissements dans les infrastructures et des opportunités commerciales accrues. L'offre est généreuse, mais elle soulève également des questions sur nos intérêts stratégiques à long terme dans la région."
+usa_west_coast_purchase_accept.option: "Offre ou Guerre, ils les prendront dans tous les cas."
+usa_west_coast_purchase_refuse.option: "Ce sont des terres [ROOT.GetCountry.GetAdjective], nous ne pouvons pas les vendre à ces barbares."

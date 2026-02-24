@@ -1,0 +1,247 @@
+﻿l_french:
+
+#Oil/Gas Companies
+company_bg: "British Petroleum"
+company_total: "TotalEnergies"
+company_eni: "Ente Nazionale Idrocarburi (ENI)"
+company_gazprom: "Gazprom"
+company_sinopec: "Sinopec"
+company_petrobas: "Petrobras"
+company_saudi_aramco: "Saudi Aramco"
+
+# Hygiene & Cosmetics Companies
+generic_company_basic_cosmetics_dynamic_name_tag_plural: "Cosmétiques"
+generic_company_basic_cosmetics_dynamic_name_tag_singular: "Beauté"
+company_oreal: "L'Oréal"
+company_shiseido: "Shiseido"
+company_revlon: "Revlon"
+company_unilever: "Unilever"
+company_beiersdorf: "Beiersdorf"
+
+# Fashion Companies
+company_louis_vuitton: "Louis Vuitton"
+company_hermes: "Hermès"
+company_prada: "Prada"
+company_gucci: "Gucci"
+company_burberry: "Burberry"
+company_levi_strauss: "Levi's"
+company_nike: "Nike"
+company_adidas: "Adidas"
+company_hm: "H&M"
+company_inditex: "Inditex"
+company_shein: "Shein"
+company_primark: "Primark"
+
+# Videogame Companies
+company_nintendo: "Nintendo"
+company_atari: "Atari"
+company_sega: "Sega"
+company_valve: "Valve"
+company_electronic_arts: "Electronic Arts"
+company_codemasters: "Codemasters"
+company_ubisoft: "Ubisoft"
+company_cd_projekt: "CD Projekt"
+company_krafton: "Krafton"
+company_paradox_interactive: "Paradox Interactive"
+
+# Airline Companies
+curtiss_company_basic_air_travel_dynamic_name_tag_plural: "Compagnies aériennes"
+curtiss_company_basic_air_travel_dynamic_name_tag_singular: "Voyage aérien"
+curtiss_company_KLM: "KLM Royal Dutch Airlines"
+curtiss_company_DLR: "Lufthansa"
+curtiss_company_imperial_airways: "British Airways"
+curtiss_company_air_france: "Air France"
+curtiss_company_swissair: "Swissair"
+company_pan_american_airways: "Pan American Airways"
+company_turk_hava_yollari_turkish: "Türk Hava Yollari (Turkish Airlines)"
+company_emirates_airline: "Emirates Airlines"
+company_air_china: "Air China"
+company_boeing: "Boeing"
+company_airbus: "Airbus"
+company_embraer: "Embraer"
+company_bombardier: "Bombardier"
+company_comac: "Comac"
+
+# Music & Instruments Companies
+elgar_company_basic_instruments_dynamic_name_tag_singular: "Musique"
+elgar_company_basic_instruments_dynamic_name_tag_plural: "Instruments"
+elgar_company_steinway: "Steinway & Sons"
+company_basic_records_and_films: "Disques"
+company_basic_records_and_films_dynamic_name_tag_singular: "Disque"
+company_basic_records_and_films_dynamic_name_tag_plural: "Disques"
+company_yamaha: "Yamaha"
+company_columbia_records: "Columbia Records"
+company_societe_pathe_freres: "Société Pathé Frères"
+company_warner_bros_records: "Warner Bros. Records"
+company_universal_records: "Decca Records (Universal)"
+company_tokyo_tsushin_kogyo_sony: "Tokyo Tsushin Kogyo (Sony)"
+
+# Mining & Resources Companies
+company_uranium_advancedores_mining_dynamic_name_tag_plural: "Matériaux stratégiques"
+company_uranium_advancedores_mining_dynamic_name_tag_singular: "Exploitation minière stratégique"
+company_kazatomprom: "Kazatomprom"
+company_compagnie_generale_des_matieres_nucleaires: "Compagnie Générale des Matières Nucléaires (Orano)"
+company_cameco: "CAMECO"
+company_union_miniere_du_haut_katanga: "Union Minière du Haut-Katanga"
+company_bhp: "Broken Hill Propretary Company"
+company_rosatom: "Rosatom"
+company_Glencore: "Glencore"
+company_southern_copper_corp: "Southern Copper Corporation"
+company_rio_tinto: "Rio Tinto"
+company_china_rare_earth_group: "China Rare Earth Group"
+
+# Big Tech Companies
+generic_company_basic_tech_dynamic_name_tag_plural: "Électronique"
+generic_company_basic_tech_dynamic_name_tag_singular: "Tech"
+company_apple: "Apple"
+company_samsung: "Samsung"
+company_olivetti: "Olivetti"
+company_microsoft: "Microsoft"
+company_intel: "Intel"
+company_asml: "ASML"
+company_tsmc: "TSMC"
+company_sap: "SAP"
+company_xiaomi: "Xiaomi"
+
+# Furniture/Home Appliances Companies
+company_ikea: "IKEA"
+company_whirlpool: "Whirlpool"
+company_haier: "Haier"
+
+###############################################################################
+
+# Hygiene & Cosmetics Goods
+prestige_good_loreal_cosmetics: "Cosmétiques L'Oréal"
+prestige_good_shiseido_cosmetics: "Cosmétiques Shiseido"
+prestige_good_revlon_cosmetics: "Cosmétiques Revlon"
+prestige_good_unilever_soap: "Savon Dove"
+prestige_good_beiersdorf_cosmetics: "Cosmétiques Nivea"
+
+# Fashion Goods
+prestige_good_dior_perfumes: "Parfums Dior"
+prestige_good_burberry_coats: "Manteaux Burberry"
+prestige_good_levis_denim: "Denim Levi's"
+prestige_good_nike_shoes: "Tenues Nike"
+prestige_good_adidas_shoes: "Tenues Adidas"
+prestige_good_fast_fashion_clothes: "Mode rapide"
+prestige_good_cosmetics: "Cosmétiques de marque"
+prestige_good_french_fashion: "Mode française"
+prestige_good_italian_fashion: "Mode italienne"
+
+# Oil & Gas Goods
+prestige_good_saudi_aramco_oil: "Pétrole OPEP"
+prestige_good_gazprom_natural_gas: "Gaz russe"
+
+# Videogame Goods
+prestige_good_nintendo_consoles: "Jeux vidéo Nintendo"
+prestige_good_atari_consoles: "Jeux vidéo Atari"
+prestige_good_sony_consoles: "Jeux vidéo Sony" #Per uniformare con Nintendo e Atari
+
+# Electrics Goods
+prestige_good_apple_iphones: "Téléphones Apple"
+prestige_good_nokia_phones: "Téléphones Nokia"
+prestige_good_apple_mac: "Ordinateurs Apple"
+prestige_good_olivetti_teleprinters: "Ordinateurs Olivetti"
+prestige_good_microsoft_windows: "Microsoft Windows"
+prestige_good_asml_euv_lithography_machines: "Machines de lithographie EUV"
+prestige_good_intel_processors: "Processeurs Intel"
+prestige_good_wafers: "Wafers de haute qualité"
+prestige_good_smartphones: "Téléphones de marque" #Per uniformare con Samsung e Xiaomi
+
+# Prestige goods
+prestige_good_generic_records_and_films: "Disques et films de haute qualité"
+prestige_good_generic_instruments: "Instruments de haute qualité"
+prestige_good_generic_prints: "Livres et journaux de haute qualité"
+
+# Flight Goods
+prestige_good_generic_flights: "Vols de luxe"
+prestige_good_boeing_aircraft: "Avions Boeing"
+prestige_good_airbus_aircraft: "Avions Airbus"
+
+# Mining Goods
+prestige_good_australian_coal: "Charbon australien"
+prestige_high_quality_uranium: "Uranium concentré"
+
+# Furniture/Home Appliances Goods
+prestige_good_ikea_furniture: "Meubles modulaires"
+
+# NEW 1.3
+
+# Tech Companies
+company_huawei: "Huawei"
+
+# Furniture/Home Appliances Goods
+company_electrolux: "Electrolux"
+company_haier: "Haier"
+company_whirlpool: "Whirlpool"
+company_bosch: "Bosch"
+company_lg: "LG"
+company_arcelik: "Arçelik"
+company_indesit: "Indesit"
+company_defy: "Defy Appliances"
+company_mabe: "Mabe"
+company_fagor: "Fagor"
+
+# Automotive Companies
+company_tesla: "Tesla"
+company_general_motors: "General Motors"
+company_toyota: "Toyota"
+company_honda: "Honda"
+company_byd: "BYD"
+company_mahindra: "Mahindra & Mahindra"
+company_hyundai: "Hyundai"
+company_mercedes_benz: "Mercedes-Benz"
+company_volkswagen: "Volkswagen"
+company_bmw: "BMW"
+company_dacia: "Dacia"
+company_ferrari: "Ferrari"
+company_peugeot: "Peugeot"
+company_renault: "Renault"
+company_skoda: "Škoda"
+company_rolls_royce: "Rolls-Royce"
+company_volvo: "Volvo"
+company_lada: "Lada"
+
+# Automotive Goods
+prestige_good_asia_automobiles: "Automobiles asiatiques"
+
+# Hygiene & Cosmetics Goods
+prestige_good_hygiene_cosmetics: "Cosmétiques d'hygiène" # Unified Beiersdorf and Unilever cosmetics
+
+# Media Companies
+company_hitotsubashi: "Hitotsubashi (Shueisha, Shogakukan, Kodansha)"
+company_toei: "Toei Company"
+company_studio_ghibli: "Studio Ghibli"
+company_penguin_group: "Penguin Group"
+company_hachette_livre: "Hachette Livre"
+company_bertelsmann: "Bertelsmann"
+company_bbc: "BBC"
+company_fininvest: "Fininvest"
+company_televisa: "Grupo Televisa"
+company_bccl: "The Times Group"
+company_disney: "Walt Disney Company"
+
+# Prints Goods
+prestige_good_japanese_anime_manga: "Anime et manga japonais"
+
+# NOUVEAU 1.4
+
+company_amazon: "Amazon"
+company_alibaba: "Alibaba Group"
+
+company_basic_pharmaceuticals_dynamic_name_tag_plural: "Produits pharmaceutiques"
+company_basic_pharmaceuticals_dynamic_name_tag_singular: "Soins de santé"
+
+# NOUVEAU 1.5
+
+company_hoffmann_la_roche: "Hoffmann-La Roche"
+company_novartis: "Novartis"
+company_glaxosmithkline: "GlaxoSmithKline"
+company_johnson_and_johnson: "Johnson & Johnson"
+company_sanofi: "Sanofi"
+company_bayer: "Bayer"
+company_takeda_pharmaceutical: "Takeda Pharmaceuticals"
+company_astrazeneca: "AstraZeneca"
+company_teva_pharmaceutical: "Teva Pharmaceuticals"
+company_csl_behring: "CSL Behring"
+company_novo_nordisk: "Novo Nordisk"

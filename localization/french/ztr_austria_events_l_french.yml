@@ -1,0 +1,102 @@
+﻿l_french:
+
+austrian_empire_collapse.1.t: "Effondrement de l'Empire autrichien"
+austrian_empire_collapse.1.d: "L'Empire autrichien, après des siècles de domination en Europe centrale, est en état de crise. L'équilibre fragile de notre empire s'est effondré. Avec la Hongrie et la Bohême déclarant leur indépendance, le cœur même de l'Empire gît en ruines. Vienne est paralysée entre le tonnerre de la guerre et le silence de la dissolution. L'ancien ordre est en train de mourir—ira-t-il se battre, ou sera-t-il enterré avec dignité ?"
+austrian_empire_collapse.1.a: "Nous devons d'abord reprendre [SCOPE.sCountry('collapse_hungary_scope').GetName] !"
+austrian_empire_collapse.1.a: "Nous devons d'abord reprendre [SCOPE.sCountry('collapse_czech_scope').GetName] !"
+austrian_empire_collapse.1.b:  "Les combattre tous les deux !"
+austrian_empire_collapse.1.c:  "Les écraser tous !"
+austrian_empire_collapse.1.e:  "Accepter la nouvelle réalité."
+
+austrian_empire_collapse.2.t:  "Unité de l'Empire autrichien restaurée"
+austrian_empire_collapse.2.d:  "Contre toute attente, l'Empire a tenu. En équilibrant habilement diplomatie et force décisive, la crise a été évitée. Les anciens liens reforgés, un nouveau sentiment de but impérial s'élève des cendres de l'agitation. L'Autriche perdure, et maintenant pour toujours !"
+austrian_empire_collapse.2.a:  "Vive l'Autriche et [ROOT.GetCountry.GetRuler] !"
+
+austrian_empire_collapse.3.t:  "Magyar contre Allemand"
+austrian_empire_collapse.3.d:  "Le tissu ethnique délicat de l'Empire commence à se déchirer alors que les représentants hongrois exigent que le magyar soit reconnu sur un pied d'égalité avec l'allemand dans les affaires d'État. Pour certains, c'est une menace à la cohésion impériale ; pour d'autres, une revendication juste longtemps ignorée."
+austrian_empire_collapse.3.a:  "Allemand—ou rien !"
+austrian_empire_collapse.3.b:  "Reconnaître le magyar dans l'administration régionale."
+
+austrian_empire_collapse.4.t:  "Révoltes hongroises"
+austrian_empire_collapse.4.d:  "Le mécontentement qui couvait en Hongrie a éclaté en révolte ouverte. Les milices nationalistes occupent les villes, perturbent les chemins de fer et lèvent des bannières d'indépendance. Les garnisons impériales sont assiégées, attendant les ordres d'une capitale hésitante."
+austrian_empire_collapse.4.a:  "Envoyer l'armée !"
+austrian_empire_collapse.4.b:  "Offrir des réformes et l'autonomie."
+
+austrian_empire_collapse.5.t:  "Égalité des droits pour les Hongrois"
+austrian_empire_collapse.5.d:  "Ayant obtenu précédemment un certain degré de reconnaissance, la délégation hongroise presse maintenant pour une pleine égalité sous la loi impériale. Leurs exigences résonnent à travers les nombreux peuples de l'Empire—soit Vienne cède, soit la pression peut devenir intolérable."
+austrian_empire_collapse.5.a:  "Les privilèges restent tels qu'ils sont !"
+austrian_empire_collapse.5.b:  "Accorder l'égalité à la Hongrie."
+
+austrian_empire_collapse.6.t:  "L'indépendance de la Hongrie"
+austrian_empire_collapse.6.d:  "Sans résolution en vue, la Hongrie a déclaré son indépendance complète, rompant les liens avec Vienne. Cet acte audacieux a ébranlé les fondements de la légitimité impériale, établissant un précédent dangereux pour d'autres. L'Autriche restaurera-t-elle sa revendication, ou acceptera-t-elle sa fragmentation ?"
+austrian_empire_collapse.6.a:  "Réprimer la rébellion !"
+austrian_empire_collapse.6.b:  "Les écraser—nous les avons assez gâtés !"
+austrian_empire_collapse.6.c:  "Laisser la Hongrie partir."
+
+austrian_empire_collapse.7.t:  "Trieste, port de Mitteleuropa"
+austrian_empire_collapse.7.d:  "Trieste, ou Trieste en italien, la porte d'entrée vers l'Adriatique depuis Mitteleuropa, est vue par les planificateurs impériaux comme la clé pour maintenir la pertinence économique et navale de l'Autriche. La transformer en phare de l'industrie et de la puissance maritime peut assurer la survie de l'Empire—si les ressources peuvent être épargnées."
+austrian_empire_collapse.7.a:  "Investir et fortifier le port."
+austrian_empire_collapse.7.b:  "Nous ne pouvons pas nous permettre un tel luxe."
+
+austrian_empire_collapse.8.t:  "L'Italie s'agite"
+austrian_empire_collapse.8.d:  "Les vents du nationalisme s'agitent en Lombardie-Vénétie. Inspirés par le mouvement d'unification italienne, les dirigeants locaux chuchotent la rébellion. Les tensions montent, et le drapeau impérial est accueilli plus avec ressentiment qu'avec loyauté dans les rues pavées de Milan et Venise."
+austrian_empire_collapse.8.a:  "Déployer l'armée !"
+austrian_empire_collapse.8.b:  "Offrir des réformes et l'autonomie."
+austrian_empire_collapse.8.c:  "Retourner les provinces à [SCOPE.sCountry('stirs_italy_scope').GetName]."
+
+austrian_empire_collapse.9.t:  "Galicie, grenier de l'Empire"
+austrian_empire_collapse.9.d:  "La Galicie nourrit l'Empire—mais à un prix terrible, surtout maintenant que l'agriculture des régions occidentales s'industrialise rapidement. La fiscalité impériale broie les paysans dans la pauvreté tandis que leur grain remplit les tables viennoises. Leur patience s'amincit, et certains parlent déjà d'autonomie—ou pire."
+austrian_empire_collapse.9.a:  "Presser la Galicie plus fort."
+austrian_empire_collapse.9.b:  "Subventionner l'agriculture galicienne."
+
+austrian_empire_collapse.10.t: "Exigences tchèques pour l'égalité"
+austrian_empire_collapse.10.d: "Enhardis par l'affirmation de la Hongrie, l'intelligentsia et la bourgeoisie tchèques exigent maintenant l'égalité civile et politique. Longtemps traités comme un peuple subordonné, ils cherchent une nouvelle place dans un Empire réimaginé, plus juste—ou en dehors de celui-ci."
+austrian_empire_collapse.10.a: "Les privilèges ne seront pas étendus"
+austrian_empire_collapse.10.b: "Accorder l'égalité civile aux Tchèques"
+
+austrian_empire_collapse.11.t: "La question slovaque"
+austrian_empire_collapse.11.d: "Les Slovaques, pris entre l'influence tchèque et hongroise montante, commencent à affirmer leur propre identité. Prague et Budapest revendiquent leur loyauté, tandis que Vienne craint que cette nouvelle ligne de faille puisse déclencher une autre vague de bouleversements."
+austrian_empire_collapse.11.a: "Favoriser les Tchèques"
+austrian_empire_collapse.11.b: "Favoriser les Hongrois"
+
+austrian_empire_collapse.12.t: "L'indépendance de la Tchécoslovaquie"
+austrian_empire_collapse.12.d: "Dans un mouvement audacieux, Prague a déclaré une république tchécoslovaque souveraine. L'emprise de l'Empire sur ses provinces slaves vacille, alors que les révolutionnaires rallient le soutien et que les puissances étrangères surveillent attentivement le prochain mouvement de l'Autriche."
+austrian_empire_collapse.12.a: "Réprimer la rébellion !"
+austrian_empire_collapse.12.b: "Punir les rebelles—ils avaient leurs droits !"
+austrian_empire_collapse.12.c: "Reconnaître la Tchécoslovaquie"
+
+austrian_empire_collapse.13.t: "Murmures d'une union yougoslave"
+austrian_empire_collapse.13.d: "Des cafés de Ljubljana aux salles de classe de Sarajevo, les intellectuels slaves du sud parlent d'unité—d'un peuple yougoslave, lié par la langue et l'héritage. Pour certains, c'est un idéalisme utopique, pour d'autres une menace existentielle à la domination balkanique de l'Autriche."
+austrian_empire_collapse.13.a: "Censurer de telles idées dangereuses !"
+austrian_empire_collapse.13.b: "Permettre le débat ouvert"
+
+austrian_empire_collapse.14.t: "La question transylvanienne"
+austrian_empire_collapse.14.d: "La frontière des Carpates tremble d'agitation. Les nationalistes roumains agitent les cœurs du peuple de Transylvanie, revendiquant la région par l'histoire et le sang. Si leurs exigences restent sans réponse, l'Empire peut faire face à une autre fracture irréparable."
+austrian_empire_collapse.14.a: "Envoyer l'armée !"
+austrian_empire_collapse.14.b: "Accorder une large autonomie"
+austrian_empire_collapse.14.c: "Céder la Transylvanie à la Roumanie"
+
+austrian_empire_collapse.15.t: "La question polonaise"
+austrian_empire_collapse.15.d: "La ferveur nationaliste a éclaté une fois de plus en Galicie, où les activistes polonais dénoncent la négligence impériale et exigent l'union avec une Pologne indépendante. Alors que les tensions montent, Vienne fait face à un choix familier : écraser le mouvement avec l'acier, offrir l'autonomie, ou abandonner la Galicie entièrement."
+austrian_empire_collapse.15.a: "Envoyer l'armée !"
+austrian_empire_collapse.15.b: "Accorder une large autonomie"
+austrian_empire_collapse.15.c: "Céder la Galicie à [SCOPE.sCountry('polish_question_scope').GetName]"
+
+austrian_empire_collapse.16.t: "La proposition de Voïvodine"
+austrian_empire_collapse.16.d: "Le Royaume de Serbie a formellement demandé le contrôle de la région de Voïvodine, citant les liens ethniques et la mauvaise gestion impériale. Avec l'Empire affaibli et la région volatile, accorder la demande pourrait atténuer la crise—ou encourager d'autres à exiger la même chose."
+austrian_empire_collapse.16.a: "Accepter la demande de [SCOPE.sCountry('serbia_proposal_scope').GetName]"
+austrian_empire_collapse.16.b: "Rejeter la revendication"
+
+austrian_empire_collapse.17.t: "L'accord de Cracovie"
+austrian_empire_collapse.17.d: "Les diplomates polonais ont proposé l'annexion de Cracovie dans l'État polonais, offrant loyauté et coopération en retour. Bien que la Ville libre ait longtemps joui de l'autonomie sous protection impériale, les marées du nationalisme menacent de rendre de tels arrangements obsolètes."
+austrian_empire_collapse.17.a: "Soutenir l'annexion polonaise de [SCOPE.sCountry('krakow_agreement_scope').GetName]"
+austrian_empire_collapse.17.b: "Refuser l'offre et maintenir notre emprise"
+
+# NEW 1.5
+
+austrian_empire_collapse_minor_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] gagne une #tooltippable;positive_value;TOOLTIP:expedition_progress_explanation_tt progression mineure#!"
+austrian_empire_collapse_moderate_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] gagne une #tooltippable;positive_value;TOOLTIP:expedition_progress_explanation_tt progression#!"
+austrian_empire_collapse_great_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] gagne une grande #tooltippable;positive_value;TOOLTIP:expedition_progress_explanation_tt progression#!"
+austrian_empire_collapse_lose_minor_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] perd une #tooltippable;negative_value;TOOLTIP:expedition_peril_explanation_tt progression mineure#!"
+austrian_empire_collapse_lose_moderate_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] perd une #tooltippable;negative_value;TOOLTIP:expedition_peril_explanation_tt progression#!"
+austrian_empire_collapse_lose_great_progress_tt: "La situation de stabilité de l'Empire [ROOT.GetCountry.GetAdjective] perd une grande #tooltippable;negative_value;TOOLTIP:expedition_peril_explanation_tt progression#!"

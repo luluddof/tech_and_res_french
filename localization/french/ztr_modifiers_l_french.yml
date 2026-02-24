@@ -1,0 +1,316 @@
+l_french:
+
+# Televisions
+ 
+modifier_goods_output_televisions_add: "@television! Télévisions production par niveau"
+modifier_goods_output_televisions_add_desc: "La quantité de @television! Télévisions produite par les bâtiments"
+
+modifier_goods_input_televisions_add: "@television! Télévisions consommation par niveau"
+modifier_goods_input_televisions_add_desc: "La quantité de @television! Télévisions consommée par les bâtiments"
+
+# Aeroplanes
+
+modifier_goods_output_aeroplanes_add: "@aeroplanes! Avions de combat production par niveau"
+modifier_goods_output_aeroplanes_add_desc: "La quantité de @aeroplanes! Avions de combat produite par les bâtiments"
+
+modifier_goods_input_aeroplanes_add: "@aeroplanes! Avions de combat consommation par niveau"
+modifier_goods_input_aeroplanes_add_desc: "La quantité de @aeroplanes! Avions de combat consommée par les bâtiments"
+ 
+# Civil planes
+ 
+modifier_goods_output_civil_planes_add: "@civil_plane! Aéronefs civils production par niveau"
+modifier_goods_output_civil_planes_add_desc: "La quantité de @civil_plane! Avions produite par les bâtiments"
+
+modifier_goods_input_civil_planes_add: "@civil_plane! Aéronefs civils consommation par niveau"
+modifier_goods_input_civil_planes_add_desc: "La quantité de @civil_plane! Avions consommée par les bâtiments"
+ 
+# Bauxite
+
+modifier_goods_output_bauxite_add: "@bauxite! Bauxite production par niveau"
+modifier_goods_output_bauxite_add_desc: "La quantité de @bauxite! Bauxite produite par les bâtiments"
+
+modifier_goods_input_bauxite_add: "@bauxite! Bauxite consommation par niveau"
+modifier_goods_input_bauxite_add_desc: "La quantité de @bauxite! Bauxite consommée par les bâtiments"
+
+# Aluminium
+
+modifier_goods_output_aluminium_add: "@aluminium! Aluminium production par niveau"
+modifier_goods_output_aluminium_add_desc: "La quantité de @aluminium! Aluminium produite par les bâtiments"
+
+modifier_goods_input_aluminium_add: "@aluminium! Aluminium consommation par niveau"
+modifier_goods_input_aluminium_add_desc: "La quantité de @aluminium! Aluminium consommée par les bâtiments"
+
+# Copper
+
+modifier_goods_output_copper_add: "@copper! Cuivre production par niveau"
+modifier_goods_output_copper_add_desc: "La quantité de @copper! Cuivre produite par les bâtiments"
+
+modifier_goods_input_copper_add: "@copper! Cuivre consommation par niveau"
+modifier_goods_input_copper_add_desc: "La quantité de @copper! Cuivre consommée par les bâtiments"
+
+# Light Fuel
+
+modifier_goods_output_light_fuel_add: "@light_fuel! Carburant léger production par niveau"
+modifier_goods_output_light_fuel_add_desc: "La quantité de @light_fuel! Carburant léger produite par les bâtiments"
+
+modifier_goods_input_light_fuel_add: "@light_fuel! Carburant léger consommation par niveau"
+modifier_goods_input_light_fuel_add_desc: "La quantité de @light_fuel! Carburant léger consommée par les bâtiments"
+
+# Lubricant
+
+modifier_goods_output_lubricant_add: "@lubricant! Lubrifiant production par niveau"
+modifier_goods_output_lubricant_add_desc: "La quantité de @lubricant! Lubrifiant produite par les bâtiments"
+
+modifier_goods_input_lubricant_add: "@lubricant! Lubrifiant consommation par niveau"
+modifier_goods_input_lubricant_add_desc: "La quantité de @lubricant! Lubrifiant consommée par les bâtiments"
+
+#Heavy Fuel
+
+modifier_goods_output_heavy_fuel_add: "@heavy_fuel! Carburant lourd production par niveau"
+modifier_goods_output_heavy_fuel_add_desc: "La quantité de @heavy_fuel! Carburant lourd produite par les bâtiments"
+
+modifier_goods_input_heavy_fuel_add: "@heavy_fuel! Carburant lourd consommation par niveau"
+modifier_goods_input_heavy_fuel_add_desc: "La quantité de @heavy_fuel! Carburant lourd consommée par les bâtiments"
+
+# Copperwires
+
+modifier_goods_output_copperwires_add: "@copperwire! Fils de cuivre production par niveau"
+modifier_goods_output_copperwires_add_desc: "La quantité de @copperwire! Fils de cuivre produite par les bâtiments"
+
+modifier_goods_input_copperwires_add: "@copperwire! Fils de cuivre consommation par niveau"
+modifier_goods_input_copperwires_add_desc: "La quantité de @copperwire! Fils de cuivre consommée par les bâtiments"
+
+# Home Appliances
+
+modifier_goods_output_homeappliances_add: "@homeappliances! Appareils électroménagers production par niveau"
+modifier_goods_output_homeappliances_add_desc: "La quantité de @homeappliances! Appareils électroménagers produite par les bâtiments"
+
+modifier_goods_input_homeappliances_add: "@homeappliances! Appareils électroménagers consommation par niveau"
+modifier_goods_input_homeappliances_add_desc: "La quantité de @homeappliances! Appareils électroménagers consommée par les bâtiments"
+
+# plastics: "Plastics"
+
+modifier_goods_output_plastics_add: "@plastics! Plastiques production par niveau"
+modifier_goods_output_plastics_add_desc: "La quantité de @plastics! Plastiques produite par les bâtiments"
+
+modifier_goods_input_plastics_add: "@plastics! Plastiques consommation par niveau"
+modifier_goods_input_plastics_add_desc: "La quantité de @plastics! Plastiques consommée par les bâtiments"
+
+# batteries: " Batteries"
+
+modifier_goods_output_batteries_add: "@batteries! Batteries production par niveau"
+modifier_goods_output_batteries_add_desc: "La quantité de @batteries! Batteries produite par les bâtiments"
+
+modifier_goods_input_batteries_add: "@batteries! Batteries consommation par niveau"
+modifier_goods_input_batteries_add_desc: "La quantité de @batteries! Batteries consommée par les bâtiments"
+
+# electroniccomponents: "Electronic Components"
+
+modifier_goods_output_electroniccomponents_add: "@electroniccomponents! Composants électroniques production par niveau"
+modifier_goods_output_electroniccomponents_add_desc: "La quantité de @electroniccomponents! Composants électroniques produite par les bâtiments"
+
+modifier_goods_input_electroniccomponents_add: "@electroniccomponents! Composants électroniques consommation par niveau"
+modifier_goods_input_electroniccomponents_add_desc: "La quantité de @electroniccomponents! Composants électroniques consommée par les bâtiments"
+
+# processors: "Processors"
+
+modifier_goods_output_processors_add: "@processors! Processeurs production par niveau"
+modifier_goods_output_processors_add_desc: "La quantité de @processors! Processeurs produite par les bâtiments"
+
+modifier_goods_input_processors_add: "@processors! Processeurs consommation par niveau"
+modifier_goods_input_processors_add_desc: "La quantité de @processors! Processeurs consommée par les bâtiments"
+
+# commonores: "Common Ores"
+
+modifier_goods_output_commonores_add: "@commonores! Minerais communs production par niveau"
+modifier_goods_output_commonores_add_desc: "La quantité de @commonores! Minerais communs produite par les bâtiments"
+
+modifier_goods_input_commonores_add: "@commonores! Minerais communs consommation par niveau"
+modifier_goods_input_commonores_add_desc: "La quantité de @commonores! Minerais communs consommée par les bâtiments"
+
+# automobiles: "Vehicles"
+
+modifier_goods_output_automobiles_add: "@automobiles! Véhicules production par niveau"
+modifier_goods_output_automobiles_add_desc: "La quantité de @automobiles! Véhicules produite par les bâtiments"
+
+# advancedores: "Advanced Ores"
+
+modifier_goods_output_advancedores_add: "@advancedores! Minerais avancés production par niveau"
+modifier_goods_output_advancedores_add_desc: "La quantité de @advancedores! Minerais avancés produite par les bâtiments"
+
+modifier_goods_input_advancedores_add: "@advancedores! Minerais avancés consommation par niveau"
+modifier_goods_input_advancedores_add_desc: "La quantité de @advancedores! Minerais avancés consommée par les bâtiments"
+
+# air_travel: "Air Travel"
+
+modifier_goods_output_air_travel_add: "@air_travel! Voyage aérien production par niveau"
+modifier_goods_output_air_travel_add_desc: "La quantité de @air_travel! Voyage aérien produite par les bâtiments"
+
+modifier_goods_input_air_travel_add: "@air_travel! Voyage aérien consommation par niveau"
+modifier_goods_input_air_travel_add_desc: "La quantité de @air_travel! Voyage aérien consommée par les bâtiments"
+
+# alloys: "Alloys"
+
+modifier_goods_output_alloys_add: "@alloys! Alliages production par niveau"
+modifier_goods_output_alloys_add_desc: "La quantité de @alloys! Alliages produite par les bâtiments"
+
+modifier_goods_input_alloys_add: "@alloys! Alliages consommation par niveau"
+modifier_goods_input_alloys_add_desc: "La quantité de @alloys! Alliages consommée par les bâtiments"
+
+# water: "Water"
+
+modifier_goods_output_water_add: "@water! Eau production par niveau"
+modifier_goods_output_water_add_desc: "La quantité de @water! Eau produite par les bâtiments"
+
+modifier_goods_input_water_add: "@water! Eau consommation par niveau"
+modifier_goods_input_water_add_desc: "La quantité de @water! Eau consommée par les bâtiments"
+
+# fuel_cells: "Fuel Cells"
+
+modifier_goods_output_fuel_cells_add: "@fuel_cells! Piles à combustible production par niveau"
+modifier_goods_output_fuel_cells_add_desc: "La quantité de @fuel_cells! Piles à combustible produite par les bâtiments"
+
+modifier_goods_input_fuel_cells_add: "@fuel_cells! Piles à combustible consommation par niveau"
+modifier_goods_input_fuel_cells_add_desc: "La quantité de @fuel_cells! Piles à combustible consommée par les bâtiments"
+
+# pharmaceuticals: "Pharmaceuticals"
+
+modifier_goods_output_pharmaceuticals_add: "@pharmaceuticals! Produits pharmaceutiques production par niveau"
+modifier_goods_output_pharmaceuticals_add_desc: "La quantité de @pharmaceuticals! Produits pharmaceutiques produite par les bâtiments"
+
+modifier_goods_input_pharmaceuticals_add: "@pharmaceuticals! Produits pharmaceutiques consommation par niveau"
+modifier_goods_input_pharmaceuticals_add_desc: "La quantité de @pharmaceuticals! Produits pharmaceutiques consommée par les bâtiments"
+
+# computer: "Computers"
+
+modifier_goods_output_computer_add: "@computer! Ordinateurs production par niveau"
+modifier_goods_output_computer_add_desc: "La quantité de @computer! Ordinateurs produite par les bâtiments"
+
+modifier_goods_input_computer_add: "@computer! Ordinateurs consommation par niveau"
+modifier_goods_input_computer_add_desc: "La quantité de @computer! Ordinateurs consommée par les bâtiments"
+
+# robotics: "Robotics"
+
+modifier_goods_output_robotics_add: "@robotics! Robotique production par niveau"
+modifier_goods_output_robotics_add_desc: "La quantité de @robotics! Robotique produite par les bâtiments"
+
+modifier_goods_input_robotics_add: "@robotics! Robotique consommation par niveau"
+modifier_goods_input_robotics_add_desc: "La quantité de @robotics! Robotique consommée par les bâtiments"
+
+# gas: "Natural Gas"
+
+modifier_goods_output_gas_add: "@gas! Gaz naturel production par niveau"
+modifier_goods_output_gas_add_desc: "La quantité de @gas! Gaz naturel produite par les bâtiments"
+
+modifier_goods_input_gas_add: "@gas! Gaz naturel consommation par niveau"
+modifier_goods_input_gas_add_desc: "La quantité de @gas! Gaz naturel consommée par les bâtiments"
+
+# helicopters: "Helicopters"
+
+modifier_goods_output_helicopters_add: "@helicopters! Hélicoptères production par niveau"
+modifier_goods_output_helicopters_add_desc: "La quantité de @helicopters! Hélicoptères produite par les bâtiments"
+
+modifier_goods_input_helicopters_add: "@helicopters! Hélicoptères consommation par niveau"
+modifier_goods_input_helicopters_add_desc: "La quantité de @helicopters! Hélicoptères consommée par les bâtiments"
+
+# missiles: "Missiles"
+
+modifier_goods_output_missiles_add: "@missiles! Missiles production par niveau"
+modifier_goods_output_missiles_add_desc: "La quantité de @missiles! Missiles produite par les bâtiments"
+
+modifier_goods_input_missiles_add: "@missiles! Missiles consommation par niveau"
+modifier_goods_input_missiles_add_desc: "La quantité de @missiles! Missiles consommée par les bâtiments"
+
+# space_assets: "Space Assets"
+
+modifier_goods_output_space_assets_add: "@space_assets! Actifs spatiaux production par niveau"
+modifier_goods_output_space_assets_add_desc: "La quantité de @space_assets! Actifs spatiaux produite par les bâtiments"
+
+modifier_goods_input_space_assets_add: "@space_assets! Actifs spatiaux consommation par niveau"
+modifier_goods_input_space_assets_add_desc: "La quantité de @space_assets! Actifs spatiaux consommée par les bâtiments"
+
+# raw_data: "Raw Data"
+
+modifier_goods_output_raw_data_add: "@raw_data! Données brutes production par niveau"
+modifier_goods_output_raw_data_add_desc: "La quantité de @raw_data! Données brutes produite par les bâtiments"
+
+modifier_goods_input_raw_data_add: "@raw_data! Données brutes consommation par niveau"
+modifier_goods_input_raw_data_add_desc: "La quantité de @raw_data! Données brutes consommée par les bâtiments"
+
+# organized_data: "Organized Data"
+
+modifier_goods_output_organized_data_add: "@organized_data! Données organisées production par niveau"
+modifier_goods_output_organized_data_add_desc: "La quantité de @organized_data! Données organisées produite par les bâtiments"
+
+modifier_goods_input_organized_data_add: "@organized_data! Données organisées consommation par niveau"
+modifier_goods_input_organized_data_add_desc: "La quantité de @organized_data! Données organisées consommée par les bâtiments"
+
+# business_data: "Business Data"
+
+modifier_goods_output_business_data_add: "@business_data! Données commerciales production par niveau"
+modifier_goods_output_business_data_add_desc: "La quantité de @business_data! Données commerciales produite par les bâtiments"
+
+modifier_goods_input_business_data_add: "@business_data! Données commerciales consommation par niveau"
+modifier_goods_input_business_data_add_desc: "La quantité de @business_data! Données commerciales consommée par les bâtiments"
+
+#MR
+
+# good_uranium: "Uranium"
+
+modifier_goods_output_good_uranium_add: "@good_uranium! Uranium production par niveau"
+modifier_goods_output_good_uranium_add_desc: "La quantité de @good_uranium! Uranium produite par les bâtiments"
+
+modifier_goods_input_good_uranium_add: "@good_uranium! Uranium consommation par niveau"
+modifier_goods_input_good_uranium_add_desc: "La quantité de @good_uranium! Uranium consommée par les bâtiments"
+
+# elgar_music: "Entertainment"
+
+modifier_goods_output_elgar_music_add: "@elgar_music! Divertissement production par niveau"
+modifier_goods_output_elgar_music_add_desc: "La quantité de @elgar_music! Divertissement produite par les bâtiments"
+
+modifier_goods_input_elgar_music_add: "@elgar_music! Divertissement consommation par niveau"
+modifier_goods_input_elgar_music_add_desc: "La quantité de @elgar_music! Divertissement consommée par les bâtiments"
+
+# elgar_instruments: "Instruments"
+
+modifier_goods_output_elgar_instruments_add: "@elgar_instruments! Instruments production par niveau"
+modifier_goods_output_elgar_instruments_add_desc: "La quantité de @elgar_instruments! Instruments produite par les bâtiments"
+
+modifier_goods_input_elgar_instruments_add: "@elgar_instruments! Instruments consommation par niveau"
+modifier_goods_input_elgar_instruments_add_desc: "La quantité de @elgar_instruments! Instruments consommée par les bâtiments"
+
+#NEW 1.0
+
+modifier_goods_output_rare_earths_add: "@rare_earths! Terres rares production par niveau"
+modifier_goods_output_rare_earths_add_desc: "La quantité de @rare_earths! Terres rares produite par les bâtiments"
+
+modifier_goods_input_rare_earths_add: "@rare_earths! Terres rares consommation par niveau"
+modifier_goods_input_rare_earths_add_desc: "La quantité de @rare_earths! Terres rares consommée par les bâtiments"
+
+modifier_goods_input_softwares_add: "@software! Logiciels consommation par niveau"
+modifier_goods_input_softwares_add_desc: "La quantité de @software! Logiciels consommée par les bâtiments"
+
+modifier_goods_output_softwares_add: "@software! Logiciels production par niveau"
+modifier_goods_output_softwares_add_desc: "La quantité de @software! Logiciels produite par les bâtiments"
+
+modifier_goods_input_interactive_entertainment_add: "@interactive_entertainment! Divertissement numérique consommation par niveau"
+modifier_goods_input_interactive_entertainment_add_desc: "La quantité de @interactive_entertainment! Divertissement numérique consommée par les bâtiments"
+
+modifier_goods_output_interactive_entertainment_add: "@interactive_entertainment! Divertissement numérique production par niveau"
+modifier_goods_output_interactive_entertainment_add_desc: "La quantité de @interactive_entertainment! Divertissement numérique produite par les bâtiments"
+
+# NEW 1.3
+
+modifier_goods_output_manzoni_prints_add: "@manzoni_prints! Médias production par niveau" #UPDATE
+modifier_goods_output_manzoni_prints_add_desc: "La quantité de @manzoni_prints! Médias produite par les bâtiments" #UPDATE
+
+modifier_goods_input_manzoni_prints_add: "@manzoni_prints! Médias consommation par niveau" #UPDATE
+modifier_goods_input_manzoni_prints_add_desc: "La quantité de @manzoni_prints! Médias consommée par les bâtiments" #UPDATE
+
+# NEW 1.4
+
+modifier_goods_input_on_demand_goods_add: "@on_demand_goods! Biens à la demande consommation par niveau"
+modifier_goods_input_on_demand_goods_add_desc: "La quantité de @on_demand_goods! Biens à la demande consommée par les bâtiments"
+
+modifier_goods_output_on_demand_goods_add: "@on_demand_goods! Biens à la demande production par niveau"
+modifier_goods_output_on_demand_goods_add_desc: "La quantité de @on_demand_goods! Biens à la demande produite par les bâtiments"

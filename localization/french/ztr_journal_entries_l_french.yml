@@ -1,0 +1,170 @@
+﻿l_french:
+
+# À REFAIRE COMPLÈTEMENT
+
+je_france_pop: "Stagnation du XIXᵉ siècle"
+je_france_pop_reason: "[COUNTRY.GetName] a été le premier grand [Concept('concept_country','$concept_country$')] européen à connaître un [Concept('concept_demographic_stages','$concept_demographic_stages$')] avancé : dès la fin de la première moitié du XIXᵉ siècle, un déclin des taux de natalité parmi la population [COUNTRY.GetAdjective] a été observé en raison de l’urbanisation, des changements culturels, de la disponibilité d’une contraception rudimentaire, d’une meilleure éducation des femmes et des politiques d’héritage."
+je_france_pop_goal: "Améliorer les soins de santé à [COUNTRY.GetName] via des lois, des centres urbains ou la recherche de nouvelles technologies telles que la pénicilline et les antibiotiques."
+
+je_irish_independence: "Question Irlandaise"
+je_irish_independence_reason: "L’Irlande devient partie du Royaume-Uni en 1801, mais le peuple irlandais revendique depuis longtemps son indépendance. La Question Irlandaise désigne le débat sur la nécessité pour l’Irlande d’être un État indépendant ou de rester dans le Royaume-Uni, malgré l’absence d’une véritable intégration économique ou politique. Le mouvement nationaliste irlandais a gagné en force ces dernières années, avec de nombreux partisans de l’autodétermination et de l’établissement d’un État irlandais indépendant."
+je_irish_independence_goal: "Réduire les troubles irlandais, maintenir une faible barre de progrès et, surtout, promulguer des lois sur l’exclusion culturelle ou le multiculturalisme."
+
+je_arabia_unification: "Unification Arabique"
+je_arabia_unification_reason: "La péninsule arabique est une région de grande importance culturelle et religieuse, mais elle est divisée en divers États et territoires tribaux depuis le déclin du califat abbasside. Aujourd’hui, avec la montée du nationalisme et le désir d’unité, un mouvement croissant cherche à unifier la péninsule arabique en une seule nation. Cette unification renforcerait non seulement le pouvoir politique et économique de la région, mais favoriserait également la solidarité culturelle et religieuse de ses habitants."
+je_arabia_unification_goal: "Unifier la péninsule arabique en contrôlant les régions de Nejd, Hedjaz et Hail, par des moyens diplomatiques ou militaires."
+
+je_austrian_empire_collapse: "Déclin de l’Empire Austro-Hongrois"
+je_austrian_empire_collapse_reason: "L’Empire [COUNTRY.GetAdjective], autrefois puissance dominante en Europe, fait désormais face à d’importants défis. La montée du nationalisme, les difficultés économiques et le déclin de l’autorité impériale ont conduit à de vastes troubles et à des revendications d’indépendance parmi diverses nationalités au sein de l’empire. L’incapacité de l’empire à s’adapter au paysage politique changeant et son échec à répondre aux aspirations de ses populations diverses ont contribué à son déclin. La question est désormais de savoir si l’Empire [COUNTRY.GetAdjective] pourra se réformer et survivre ou s’il succombera aux pressions de la désintégration."
+je_austrian_empire_collapse_goal: "Promulguer des lois favorisant l’inclusion culturelle et les droits, augmenter le PIB par habitant et maintenir une position dominante dans la géopolitique européenne en tant que grande puissance. Si vous complétez cette JE, [COUNTRY.GetName] s’effondrera et sera divisé entre ses voisins et ses nationalités internes. Dernier rappel : Monarchie."
+
+je_ottoman_empire_collapse: "Déclin de l’Empire Ottoman"
+je_ottoman_empire_collapse_reason: "Le [COUNTRY.GetName], dernier empire du Moyen-Orient, traverse une longue période de déclin et d’instabilité, incapable de s’adapter au paysage politique changeant du XIXᵉ siècle. La montée du nationalisme balkanique, les difficultés économiques, l’expansionnisme russe et les besoins européens en pétrole sont quelques-uns des problèmes auxquels l’empire doit se préparer. La question est désormais de savoir si [COUNTRY.GetName] pourra se réformer et survivre ou succombera aux pressions de la désintégration."
+je_ottoman_empire_collapse_goal: "Promulguer des lois favorisant l’inclusion culturelle et les droits, augmenter le PIB par habitant et maintenir une position dominante dans la géopolitique européenne en tant que grande puissance. Si vous complétez cette JE, [COUNTRY.GetName] s’effondrera et sera divisé entre ses voisins et ses nationalités internes."
+
+je_old_progressive_ideologies: "Anciennes Idéologies Progressistes"
+je_old_progressive_ideologies_reason: "Permet les premières lois et idéologies progressistes et [Concept('concept_environment','$concept_environmental$')] apparaissant à la fin du XIXᵉ siècle parmi l’intelligentsia et les industriels de [COUNTRY.GetName], avec des droits tels que l’adoption et la protection de l’environnement."
+
+je_mid_progressive_ideologies: "Idéologies Progressistes Moyennes"
+je_mid_progressive_ideologies_reason: "Permet les lois et idéologies progressistes et [Concept('concept_environment','$concept_environmental$')] apparaissant au début de la seconde moitié du XXᵉ siècle, avec des droits tels que l’euthanasie, les droits des couples de même sexe, l’usage de l’uranium et des réglementations plus strictes contre la pollution."
+
+je_late_progressive_ideologies: "Idéologies Progressistes Tardives"
+je_late_progressive_ideologies_reason: "Permet les lois et idéologies progressistes et [Concept('concept_environment','$concept_environmental$')] apparaissant à la fin du XXᵉ siècle, avec des droits tels que l’avortement, les droits LGBTQ+ et des actions climatiques extrêmes telles que la démolition de mines et de bâtiments polluants."
+je_late_progressive_ideologies_goal: "Rechercher la technologie du Néolibéralisme."
+
+# Étapes Démographiques
+
+je_demographic_0_to_1: "Ière Étape Démographique"
+je_demographic_0_to_1_reason: "[COUNTRY.GetName] est dans la première étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold très élevés# et des taux de mortalité #bold élevés#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold moyenne#."
+je_demographic_0_to_1_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_1_to_2: "IIᵉ Étape Démographique"
+je_demographic_1_to_2_reason: "[COUNTRY.GetName] est dans la deuxième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold très élevés# et des taux de mortalité #bold moyens#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold élevée#."
+je_demographic_1_to_2_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_2_to_3: "IIIᵉ Étape Démographique"
+je_demographic_2_to_3_reason: "[COUNTRY.GetName] est dans la troisième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold élevés# et des taux de mortalité #bold faibles#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est encore #bold élevée#."
+je_demographic_2_to_3_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_3_to_4: "IVᵉ Étape Démographique"
+je_demographic_3_to_4_reason: "[COUNTRY.GetName] est dans la quatrième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold moyens# et des taux de mortalité #bold très faibles#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold moyenne#."
+je_demographic_3_to_4_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_4_to_5: "Vᵉ Étape Démographique"
+je_demographic_4_to_5_reason: "[COUNTRY.GetName] est dans la cinquième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold faibles# et des taux de mortalité #bold très faibles#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold faible#."
+je_demographic_4_to_5_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_5_to_6: "VIᵉ Étape Démographique"
+je_demographic_5_to_6_reason: "[COUNTRY.GetName] est dans la sixième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold très faibles# et des taux de mortalité #bold très faibles#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold très faible#."
+je_demographic_5_to_6_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_6_to_7: "VIIᵉ Étape Démographique"
+je_demographic_6_to_7_reason: "[COUNTRY.GetName] est dans la septième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold minimes# et des taux de mortalité #bold minimes#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold minimale#."
+je_demographic_6_to_7_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_demographic_7_to_8: "VIIIᵉ Étape Démographique"
+je_demographic_7_to_8_reason: "[COUNTRY.GetName] est dans la huitième étape de [Concept('concept_demographic_stages','$concept_demographic_stage$')], caractérisée par des taux de natalité #bold inexistants# et des taux de mortalité #bold minimes#.\n\nLa [Concept('concept_pop_growth','$concept_pop_growth$')] est #bold stagnante#."
+je_demographic_7_to_8_goal: "Une haute [Concept('concept_literacy','$concept_literacy$')], un haut [Concept('concept_sol','$concept_sol$')], des frontières fermées et un gouvernement libéral accéléreront le processus. L’immigration, le multiculturalisme et les valeurs traditionnelles le ralentiront."
+
+je_old_progressive_ideologies_goal: "[COUNTRY.GetName] doit être au moins un pays Partiellement Développé et posséder la technologie des Droits de l’Homme."
+je_mid_progressive_ideologies_goal: "[COUNTRY.GetName] doit être au moins un pays Développé et posséder la technologie de la Démocratie Sociale."
+
+################################
+
+# NOUVEAU 1.5 (traduction française)
+
+je_liberty_index: "Indice d'Idéologie"
+je_liberty_index_reason: "L'[Concept('concept_ideology','$concept_ideology$')] d'un [concept_country] est mesurée par deux indices clés : l'@liberty_index! [Concept('concept_liberty_index','$concept_liberty_index$')] et l'@equality_index! [Concept('concept_equality_index','$concept_equality_index$')].\n\nL'@liberty_index! [Concept('concept_liberty_index','$concept_liberty_index$')] et l'@equality_index! [Concept('concept_equality_index','$concept_equality_index$')] mesurent les valeurs politiques et sociales d'une nation. L'[Concept('concept_liberty_index','$concept_liberty_index$')] reflète le degré de liberté individuelle, de libertés civiles et de gouvernance [Concept('concept_democracy','$concept_democracy_adjective$')] au sein d'un pays, tandis que l'[Concept('concept_equality_index','$concept_equality_index$')] évalue le niveau d'égalité sociale et économique parmi ses citoyens. Ensemble, ces indices donnent un aperçu du paysage idéologique global d'une nation, influençant ses politiques intérieures et ses relations internationales.\n\nLes deux indices sont influencés par la plupart des [Concept('concept_law', '$concept_laws$')] en vigueur dans le pays.\n\nEn fonction de notre [Concept('concept_liberty_index','$concept_liberty_index$')], nous pouvons être classés comme :\n 75-100 : #positive_value État Démocratique#!\n 50-75 : #v État Démocratique Déficient#!\n 25-50 : #v État Autoritaire#!\n 0-25 : #gold_value État Totalitaire#!\n\nEn fonction de notre [Concept('concept_equality_index','$concept_equality_index$')], nous pouvons être classés comme :\n 75-100 : #negative_value État Socialiste#!\n 50-75 : #v État-Providence#!\n 25-50 : #v État Stratifié#!\n 0-25 : #blue_value État Individualiste#!\n\n#negative_value Important#! : Le Groupe de Lois #v Distribution du Pouvoir#! limitera votre maximum [Concept('concept_liberty_index','$concept_liberty_index$')]."
+
+liberty_index_progress_bar: "Indice de Liberté"
+liberty_index_progress_bar_desc: "Indice de Liberté : #v [ROOT.GetCountry.MakeScope.Var('liberty_index_var').GetValue]/100#!"
+
+equality_index_progress_bar: "Indice d'Égalité"
+equality_index_progress_bar_desc: "Indice d'Égalité : #v [ROOT.GetCountry.MakeScope.Var('equality_index_var').GetValue]/100#!"
+
+show_liberty_index_rankings_button: "Voir les Classements de l'Indice de Liberté"
+show_liberty_index_rankings_button_desc: "Voir les classements actuels @liberty_index! [Concept('concept_liberty_index','$concept_liberty_index$')] des pays les plus influents du monde."
+
+show_equality_index_rankings_button: "Voir les Classements de l'Indice d'Égalité"
+show_equality_index_rankings_button_desc: "Voir les classements actuels @equality_index! [Concept('concept_equality_index','$concept_equality_index$')] des pays les plus influents du monde."
+
+# Centre de Recherche
+
+research_center_decision: "Étudier un site pour un Centre de Recherche"
+research_center_decision_desc: "À mesure que notre compréhension de la science et de la technologie progresse, nous reconnaissons la nécessité d'une installation dédiée pour mener des recherches de pointe. Nos scientifiques proposent la construction d'un Centre de Recherche à la fine pointe de la technologie pour encourager l'innovation et stimuler le progrès dans divers domaines. Nous devons autoriser une étude pour identifier le meilleur site possible pour cette institution importante, un lieu proche des meilleurs esprits de notre nation."
+
+je_research_center_site:0 "Étude pour un Centre de Recherche"
+je_research_center_site_reason:0 "Pour assurer le succès de notre Centre de Recherche, nous devons d'abord identifier l'emplacement optimal pour sa construction. Nos scientifiques et planificateurs mèneront une étude approfondie pour évaluer les sites potentiels en fonction de facteurs tels que l'accessibilité, les infrastructures et la proximité des institutions universitaires."
+
+je_research_center_site_goal:1 "Attendre l'achèvement de l'étude de #v 2 ans#!"
+je_research_center_construction:0 "Construire un Centre de Recherche"
+je_research_center_construction_reason:0 "Avec le site identifié, nous pouvons maintenant procéder à la construction. Cette installation servira de pôle pour la recherche scientifique et le développement technologique, attirant les meilleurs talents et favorisant la collaboration entre chercheurs. Son achèvement marquera une étape importante dans l'engagement de notre nation envers l'innovation et le progrès."
+
+research_center.1.t:0 "Site pour le Centre de Recherche National Sélectionné"
+research_center.1.d:0 "Après de longues délibérations et une évaluation minutieuse de multiples propositions, la commission a choisi [SCOPE.sState('research_center_site').GetCityHubName], en [SCOPE.sState('research_center_site').GetName], comme site de notre futur [concept_building] **Centre de Recherche National**. L'infrastructure, l'accessibilité, les traditions universitaires et l'importance historique de la région en font l'endroit le plus approprié pour une nouvelle ère de recherche scientifique et d'avancement technologique."
+research_center.1.f:0 "« La force d'une nation réside non seulement dans ses ressources, mais dans sa capacité à questionner, explorer et découvrir. »"
+research_center.1.major_power: "Jetons les fondations de la connaissance."
+research_center.1.minor_power: "Concentrons-nous sur le lien entre universités existantes et le reste du monde."
+
+research_center.2.t:0 "Le Centre de Recherche National Inauguré"
+research_center.2.d:0 "Après des années de planification et de construction, le [concept_building] **Centre de Recherche National** à [SCOPE.sState('research_center_site').GetCityHubName], [SCOPE.sState('research_center_site').GetName], a officiellement ouvert ses portes. Chercheurs, ingénieurs et universitaires de tout le pays se sont réunis pour entamer un nouveau chapitre de découverte. L'installation se dresse comme un monument à l'intellect humain et une promesse de progrès à venir."
+research_center.2.a:0 "La quête du savoir ne connaît pas de limites."
+
+# État et idéologie
+
+ztr_tooltip_is_distopia: "[ROOT.GetCountry.GetName] est une #V #N Distopie#!#!."
+ztr_tooltip_is_not_distopia: "[ROOT.GetCountry.GetName] n'est pas une #V #N Distopie#!#!."
+ztr_tooltip_ztr_is_totalitarian: "[ROOT.GetCountry.GetName] est #negative_value Totalitaire#!"
+ztr_tooltip_ztr_is_not_totalitarian: "[ROOT.GetCountry.GetName] n'est pas #negative_value Totalitaire#!"
+ztr_tooltip_ztr_is_authoritarian: "[ROOT.GetCountry.GetName] est #v Autoritaire#!"
+ztr_tooltip_ztr_is_flawed_democratic: "[ROOT.GetCountry.GetName] est #v Démocratique Déficient#!"
+ztr_tooltip_ztr_is_full_democratic: "[ROOT.GetCountry.GetName] est #positive_value Pleinement Démocratique#!"
+ztr_tooltip_ztr_is_not_full_democratic: "[ROOT.GetCountry.GetName] n'est pas #positive_value Pleinement Démocratique#!"
+ztr_tooltip_ztr_is_democratic: "[ROOT.GetCountry.GetName] est #v Démocratique#!"
+ztr_tooltip_ztr_is_not_democratic: "[ROOT.GetCountry.GetName] n'est pas #v Démocratique#!"
+ztr_tooltip_is_individualist_state: "[ROOT.GetCountry.GetName] est un #v État Individualiste#!"
+ztr_tooltip_is_egalitarian_state: "[ROOT.GetCountry.GetName] est un #v État Égalitaire#!"
+ztr_tooltip_is_communist_state: "[ROOT.GetCountry.GetName] est un #negative_value État Communiste#!"
+
+je_strike_not_ending_after_10_years_tt: "La #V #N Grève#!#! en [ROOT.GetCountry.GetName] dure depuis plus de #v 10 ans#!."
+
+# Russie et Révolution
+
+ztr_russia_order_progress_bar: "Ordre"
+ztr_russia_order_progress_bar_desc: "Ordre : #v [ROOT.GetCountry.MakeScope.Var('russia_order_var').GetValue]/100#!"
+ztr_russia_revolution_progress_bar: "Révolution"
+ztr_russia_revolution_progress_bar_desc: "Révolution : #v [ROOT.GetCountry.MakeScope.Var('russia_revolution_var').GetValue]/100#!"
+
+ZTR_CONSERVATIVE_POWER: "De l'Élite Conservatrice"
+ZTR_LIBERAL_ACCEPT_ORDER: "Du Traité avec les Libéraux"
+ZTR_LIBERAL_REFUSE_ORDER: "De l'Élite Libérale"
+ZTR_COMMUNIST_REVOLUTION: "Des Idées de la Révolution Communiste"
+
+je_group_russian_revolution: "La Révolution Russe"
+
+ztr_je_russian_absolutism: "Derniers jours de l'absolutisme russe"
+ztr_je_russian_absolutism_reason: "Le régime [Concept('concept_autocracy','Autocratique')] des #v Tsars#! en [ROOT.GetCountry.GetName] est mis à l'épreuve par modernisation, agitation sociale et nouvelles idéologies. Trois voies :\n1.@autocracy_index! #v Voie Conservatrice#!\n2.@individualist_index! #gold_value Voie Libérale#!\n3.@equality_index! #negative_value Voie Communiste#!\n\nPOIDS DES VOIES :\n#gold_value Voie Libérale#! : [ROOT.GetCountry.MakeScope.Var('russia_liberalist_path_var_total').GetValue|1].\n#negative_value Voie Communiste#! : [ROOT.GetCountry.MakeScope.Var('russia_sovietic_path_var').GetValue|1]."
+
+ztr_tooltip_russian_order_wins: "Compléter la barre de progression #v Ordre#!"
+ztr_tooltip_russian_revolution_wins: "Compléter la barre de progression #negative_value Révolution#!"
+
+ztr_ask_a_government_liberal_petition: "Suggérer une réforme des #gold_value Libéraux#!"
+ztr_ask_a_government_liberal_petition_desc: "Pour obtenir le soutien de la faction #gold_value Libérale#! et éviter des divisions, nous devrions envisager la promulgation de réformes répondant à leurs préoccupations."
+
+ztr_treaty_with_liberals: "Signer un traité de coopération avec les #gold_value Libéraux#!"
+ztr_treaty_with_liberals_desc: "Grâce à nos bonnes relations avec la faction #gold_value Libérale#!, nous pourrions trouver un terrain d'entente et signer un traité qui stabiliserait la situation en [ROOT.GetCountry.GetName]."
+
+ztr_help_liberal_consensus: "Stimuler le consensus des #gold_value Libéraux#!"
+ztr_help_liberal_consensus_desc: "En promouvant des politiques alignées avec les valeurs de la faction #gold_value Libérale#!, nous pouvons contrer l'influence croissante des #negative_value Communistes#! et maintenir l'ordre en [ROOT.GetCountry.GetName]."
+
+ztr_repress_soviet_movements: "Réprimer les mouvements #negative_value Communistes#!"
+ztr_repress_soviet_movements_desc: "L'essor des mouvements #negative_value Communistes#! en [ROOT.GetCountry.GetName] constitue une menace sérieuse pour notre stabilité. Nous devons agir pour les réprimer et maintenir l'ordre."
+
+ztr_je_russian_absolutism_government_petition: "Pétition pour le consensus libéral"
+ztr_je_russian_absolutism_government_petition_status: "Le [SCOPE.gsInterestGroup('government_petition_ig').GetName] demande l'adoption de [SCOPE.sLaw('government_petition_law').GetName]. Pour obtenir leur soutien contre les #negative_value Communistes#!, nous devons sérieusement considérer leur requête."
+
+ztr_je_russian_absolutism_government_petition_reason: "Si [SCOPE.sLaw('government_petition_law').GetName] est adoptée avec succès, les #gold_value Libéraux#! seront très satisfaits et pourraient offrir leur soutien pour maintenir l'ordre et la stabilité en [ROOT.GetCountry.GetName]."
+
+ztr_tooltip_russia_loses_european_periphery: "[ROOT.GetCountry.GetName] va #negative_value Perdre#! sa périphérie européenne contrôlée."
+
+research_center_can_construct_tt: "Un site approprié pour un Centre de Recherche a été identifié et étudié."

@@ -1,0 +1,13 @@
+{
+  "name": "Tech & Res - Français",
+  "version": "1.0",
+  "id": "3526893952",
+  "supported_game_version": "1.12.*",
+  "tags": ["Localisation", "Traduction"],
+  "authors": ["luluddof"],
+  "description": "Traduction française complète du mod Tech & Res pour Victoria 3. Ajoute une localisation française fidèle et exhaustive pour tous les contenus du mod original.",
+  "dependencies": [],
+  "game_custom_data" : {
+  "multiplayer_synchronized" : true
+  }
+  }

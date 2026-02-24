@@ -1,0 +1,214 @@
+﻿l_french:
+# Building Group
+ bg_natural_gas_extraction: "Réserves de gaz naturel"
+ bg_water_farms: "Bassins d'eau"
+ bg_hydroponic_farms: "Fermes hydroponiques"
+ bg_advancedores_mining: "Mines de minerais avancés"
+ bg_commonores_mining: "Mines de minerais communs"
+ bg_copper_mining: "Mines de cuivre"
+ bg_bauxite_mining: "Mines de bauxite"
+ bg_uranium_mining: "Mines d'uranium"
+
+ # MR
+ building_elgar_opera: "Opéras"
+ building_elgar_opera_lens_option: "Développer $building_elgar_opera$"
+ building_manzoni_publishing_industry: "Industries d'édition"
+ building_manzoni_publishing_industry_lens_option: "Développer $building_manzoni_publishing_industry$"
+ building_instrument_workshops: "Ateliers d'instruments"
+ building_instrument_workshops_lens_option: "Développer $building_instrument_workshops$"
+ building_mendelejew_synthetic_rubber_factory: "Usines de caoutchouc synthétique"
+ building_mendelejew_synthetic_rubber_factory_lens_option: "Développer $building_mendelejew_synthetic_rubber_factory$"
+ building_mendelejew_hydrogenation_plants: "Usines d'hydrogénation"
+ building_mendelejew_hydrogenation_plants_lens_option: "Développer $building_mendelejew_hydrogenation_plants$"
+
+# Building
+ building_bauxite_mine: "Mines de bauxite"
+ building_bauxite_mine_lens_option: "Développer $building_bauxite_mine$"
+ building_water_plant: "Usines d'eau"
+ building_water_plant_lens_option: "Développer $building_water_plant$"
+ building_alloys_plant: "Usines d'alliages"
+ building_alloys_plant_lens_option: "Développer $building_alloys_plant$"
+ building_copper_mine: "Mines de cuivre"
+ building_copper_mine_lens_option: "Développer $building_copper_mine$"
+ building_advancedores_mine: "Mines de minerais avancés"
+ building_advancedores_mine_lens_option: "Développer $building_advancedores_mine$"
+ building_commonores_mine: "Mines de minerais communs"
+ building_commonores_mine_lens_option: "Développer $building_commonores_mine$"
+ building_spaceport: "Port spatial"
+ building_spaceport_lens_option: "Développer $building_spaceport$"
+ building_nuclear_power_plant: "Centrales nucléaires"
+ building_nuclear_power_plant_lens_option: "Développer $building_nuclear_power_plant$"
+ building_uranium_mine: "Mines d'uranium"
+ building_uranium_mine_lens_option: "Développer $building_uranium_mine$"
+ building_petrochemical_industry: "Industrie pétrochimique"
+ building_petrochemical_industry_lens_option: "Développer $building_petrochemical_industry$"
+ building_oil_refinerie: "Raffineries de pétrole"
+ building_oil_refinerie_lens_option: "Développer $building_oil_refinerie$"
+ building_airport: "Aéroports"
+ building_airport_lens_option: "Développer $building_airport$"
+ building_electronics_industry: "Industries électroniques"
+ building_electronics_industry_lens_option: "Développer $building_electronics_industry$"
+ building_entertainment_industry: "Zones de divertissement"
+ building_entertainment_industry_lens_option: "Développer $building_entertainment_industry$"
+ building_hydroponic: "Fermes hydroponiques"
+ building_hydroponic_lens_option: "Développer $building_hydroponic$"
+ building_pharmaceuticals_industry: "Industries pharmaceutiques"
+ building_pharmaceuticals_industry_lens_option: "Développer $building_pharmaceuticals_industry$"
+ building_processors_foundry: "Fonderies de puces"
+ building_processors_foundry_lens_option: "Développer $building_processors_foundry$"
+ building_robotics_industry: "Industries robotiques"
+ building_robotics_industry_lens_option: "Développer $building_robotics_industry$"
+ building_geothermal_power_plant: "Centrales géothermiques"
+ building_geothermal_power_plant_lens_option: "Développer $building_geothermal_power_plant$"
+ building_natural_gas_rig: "Plateformes de gaz naturel"
+ building_natural_gas_rig_lens_option: "Développer $building_natural_gas_rig$"
+ building_natural_gas_rig_discovered_resource: "Gaz naturel"
+ building_space_assets_industry: "Industries d'actifs spatiaux"
+ building_space_assets_industry_lens_option: "Développer $building_space_assets_industry$"
+ building_highway: "Autoroutes"
+ building_highway_lens_option: "Développer $building_highway$"
+ building_office: "Bureaux"
+ building_office_lens_option: "Développer $building_office$"
+ building_datacenter_industry: "Centres de données"
+ building_datacenter_industry_lens_option: "Développer $building_datacenter_industry$"
+ building_telecommunications_industry: "Usines de télécommunications"
+ building_telecommunications_industry_lens_option: "Développer $building_telecommunications_industry$"
+
+# NEW 1.0
+ building_water_desalination_plant: "Usines de dessalement d'eau"
+ building_water_desalination_plant_lens_option: "Développer $building_water_desalination_plant$"
+ building_renewable_energy_power_plant: "Centrales d'énergie renouvelable"
+ building_renewable_energy_power_plant_lens_option: "Développer $building_renewable_energy_power_plant$"
+ building_battery_plant: "Usines de batteries"
+ building_battery_plant_lens_option: "Développer $building_battery_plant$"
+ building_rare_earths_mine: "Mines de terres rares"
+ building_rare_earths_mine_lens_option: "Développer $building_rare_earths_mine$"
+ building_software_industry: "Industrie logicielle"
+ building_software_industry_lens_option: "Développer $building_software_industry$"
+ building_digital_media_industry: "Industrie des médias numériques"
+ building_digital_media_industry_lens_option: "Développer $building_digital_media_industry$"
+ building_elgar_opera_throughput_add: "Opéras [concept_throughput]"
+ building_elgar_opera_throughput_add_desc: "Augmente le [concept_throughput] des opéras."
+ building_group_bg_natural_gas_extraction_throughput_add: "Plateformes de gaz naturel [concept_throughput]"
+ building_group_bg_natural_gas_extraction_throughput_add_desc: "Augmente le [concept_throughput] des plateformes de gaz."
+
+# NEW 1.1
+#ADDED PLURAL TO EVERY BUILDING EXCEPT SPACEPORT
+ building_aircraft_industry: "Industries aéronautiques"
+ building_aircraft_industry_lens_option: "Développer $building_aircraft_industry$"
+
+
+# NEW 1.2
+ building_petrochemical_industry_throughput_add: "Industries pétrochimiques [concept_throughput]"
+ building_petrochemical_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries pétrochimiques."
+ building_oil_refinerie_throughput_add: "Raffineries de pétrole [concept_throughput]"
+ building_oil_refinerie_throughput_add_desc: "Augmente le [concept_throughput] des raffineries de pétrole."
+ building_alloys_plant_throughput_add: "Usines d'alliages [concept_throughput]"
+ building_alloys_plant_throughput_add_desc: "Augmente le [concept_throughput] des usines d'alliages."
+ building_electronics_industry_throughput_add: "Industries électroniques [concept_throughput]"
+ building_electronics_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries électroniques."
+ building_battery_plant_throughput_add: "Usines de batteries [concept_throughput]"
+ building_battery_plant_throughput_add_desc: "Augmente le [concept_throughput] des usines de batteries."
+ building_processors_foundry_throughput_add: "Fonderies de puces [concept_throughput]"
+ building_processors_foundry_throughput_add_desc: "Augmente le [concept_throughput] des fonderies de puces."
+ building_robotics_industry_throughput_add: "Industries robotiques [concept_throughput]"
+ building_robotics_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries robotiques."
+ building_aircraft_industry_throughput_add: "Industries aéronautiques [concept_throughput]"
+ building_aircraft_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries aéronautiques."
+ building_pharmaceuticals_industry_throughput_add: "Industries pharmaceutiques [concept_throughput ]"
+ building_pharmaceuticals_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries pharmaceutiques."
+ building_hydroponic_throughput_add: "Fermes hydroponiques [concept_throughput]"
+ building_hydroponic_throughput_add_desc: "Augmente le [concept_throughput] des fermes hydroponiques."
+ building_entertainment_industry_throughput_add: "Zones de divertissement [concept_throughput]"
+ building_entertainment_industry_throughput_add_desc: "Augmente le [concept_throughput] des zones de divertissement."
+ building_space_assets_industry_throughput_add: "Industries d'actifs spatiaux [concept_throughput]"
+ building_space_assets_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries d'actifs spatiaux."
+ building_water_plant_throughput_add: "Usines d'eau [concept_throughput]"
+ building_water_plant_throughput_add_desc: "Augmente le [concept_throughput] des usines d'eau."
+ building_water_desalination_plant_throughput_add: "Usines de dessalement d'eau [concept_throughput]"
+ building_water_desalination_plant_throughput_add_desc: "Augmente le [concept_throughput] des usines de dessalement d'eau."
+ building_office_throughput_add: "Bureaux [concept_throughput]"
+ building_office_throughput_add_desc: "Augmente le [concept_throughput] des bureaux."
+ building_digital_media_industry_throughput_add: "Industries des médias numériques [concept_throughput]"
+ building_digital_media_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries des médias numériques."
+ building_software_industry_throughput_add: "Industries logicielles [concept_throughput]"
+ building_software_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries logicielles."
+ building_telecommunications_industry_throughput_add: "Usines de télécommunications [concept_throughput]"
+ building_telecommunications_industry_throughput_add_desc: "Augmente le [concept_throughput] des usines de télécommunications."
+ building_datacenter_industry_throughput_add: "Centres de données [concept_throughput]"
+ building_datacenter_industry_throughput_add_desc: "Augmente le [concept_throughput] des centres de données."
+ building_uranium_mine_throughput_add: "Mines d'uranium [concept_throughput]"
+ building_uranium_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines d'uranium."
+ building_bauxite_mine_throughput_add: "Mines de bauxite [concept_throughput]"
+ building_bauxite_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines de bauxite."
+ building_copper_mine_throughput_add: "Mines de cuivre [concept_throughput]"
+ building_copper_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines de cuivre."
+ building_commonores_mine_throughput_add: "Mines de minerais communs [concept_throughput]"
+ building_commonores_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines de minerais communs."
+ building_advancedores_mine_throughput_add: "Mines de minerais avancés [concept_throughput]"
+ building_advancedores_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines de minerais avancés."
+ building_natural_gas_rig_throughput_add: "Plateformes de gaz naturel [concept_throughput]"
+ building_natural_gas_rig_throughput_add_desc: "Augmente le [concept_throughput] des plateformes de gaz naturel."
+ building_rare_earths_mine_throughput_add: "Mines de terres rares [concept_throughput]"
+ building_rare_earths_mine_throughput_add_desc: "Augmente le [concept_throughput] des mines de terres rares."
+ building_nuclear_power_plant_throughput_add: "Centrales nucléaires [concept_throughput]"
+ building_nuclear_power_plant_throughput_add_desc: "Augmente le [concept_throughput] des centrales nucléaires."
+ building_renewable_energy_power_plant_throughput_add: "Centrales d'énergie renouvelable [concept_throughput]"
+ building_renewable_energy_power_plant_throughput_add_desc: "Augmente le [concept_throughput] des centrales d'énergie renouvelable."
+ building_airport_throughput_add: "Aéroports [concept_throughput]"
+ building_airport_throughput_add_desc: "Augmente le [concept_throughput] des aéroports."
+
+
+# NEW 1.3
+ building_elgar_opera: "Zones de divertissement" #UPDATED
+ building_elgar_opera_lens_option: "Développer $building_elgar_opera$" #UPDATED
+ building_elgar_opera_throughput_add: "Zones de divertissement [concept_throughput]" #UPDATED
+ building_elgar_opera_throughput_add_desc: "Augmente le [concept_throughput] des zones de divertissement." #UPDATED
+ building_mendelejew_synthetic_rubber_factory: "Industries pétrochimiques" #UPDATED
+ building_mendelejew_synthetic_rubber_factory_lens_option: "Développer $building_mendelejew_synthetic_rubber_factory$" #UPDATED
+ building_mendelejew_hydrogenation_plants: "Raffineries de pétrole" #UPDATED
+ building_mendelejew_hydrogenation_plants_lens_option: "Développer $building_mendelejew_synthetic_rubber_factory$" #UPDATED
+ building_mendelejew_synthetic_rubber_factory_throughput_add: "Industries pétrochimiques [concept_throughput]" #UPDATED
+ building_mendelejew_synthetic_rubber_factory_throughput_add_desc: "Augmente le [concept_throughput] des industries pétrochimiques." #UPDATED
+ building_mendelejew_hydrogenation_plants_throughput_add: "Raffineries de pétrole [concept_throughput]" #UPDATED
+ building_mendelejew_hydrogenation_plants_throughput_add_desc: "Augmente le [concept_throughput] des raffineries de pétrole." #UPDATED
+ building_manzoni_publishing_industry: "Industries des médias" #UPDATED
+ building_manzoni_publishing_industry_lens_option: "Développer $building_manzoni_publishing_industry$" #UPDATED
+ building_interactive_media_industry_throughput_add: "Industries des médias interactifs [concept_throughput]"
+ building_interactive_media_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries des médias interactifs."
+ building_interactive_media_industry: "Industrie des médias interactifs"
+ building_interactive_media_industry_lens_option: "Développer $building_interactive_media_industry$"
+ building_manzoni_publishing_industry_throughput_add: "Industries des médias [concept_throughput]"
+ building_manzoni_publishing_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries des médias."
+ building_aircraft_industry: "Industries aérospatiales"
+ building_aircraft_industry_throughput_add: "Industries aérospatiales [concept_throughput]"
+ building_aircraft_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries aérospatiales."
+ building_consumer_electronics_industry: "Industries d'électronique grand public"
+ building_consumer_electronics_industry_lens_option: "Développer $building_consumer_electronics_industry$"
+ building_consumer_electronics_industry_throughput_add: "Industries d'électronique grand public [concept_throughput]"
+ building_consumer_electronics_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries d'électronique grand public."
+ building_electronics_industry: "Industries de composants électroniques" #UPDATED
+ building_electronics_industry_throughput_add: "Industries de composants électroniques [concept_throughput]" #UPDATED
+ building_electronics_industry_throughput_add_desc: "Augmente le [concept_throughput] des industries de composants électroniques." #UPDATED
+
+ 
+ #NOUVEAU 1.4
+building_ecommerce_logistics: "Centres logistiques du e-commerce"
+building_ecommerce_logistics_lens_option: "Développer les $building_ecommerce_logistics$"
+building_ecommerce_logistics_throughput_add: "[concept_throughput] du e-commerce logistique"
+building_ecommerce_logistics_throughput_add_desc: "Augmente le [concept_throughput] des centres logistiques du e-commerce."
+
+# NEW 1.5
+
+building_modern_state_baseline: "Base de la construction de l'État moderne"
+nuclear_weapons_silo_can_construct_tt:0 "A identifié et étudié un site approprié pour un Silo d'armes nucléaires"
+
+building_research_center: "Centre de recherche"
+building_research_center_lens_option: "Agrandir $building_research_center$"
+building_research_center_throughput_add: "[concept_throughput] du Centre de recherche"
+building_research_center_throughput_add_desc: "Augmente la [concept_throughput] du Centre de recherche."
+
+building_hydroelectric_power_plant: "Centrale hydroélectrique"
+building_hydroelectric_power_plant_lens_option: "Agrandir $building_hydroelectric_power_plant$"
+building_hydroelectric_power_plant_throughput_add: "[concept_throughput] de la Centrale hydroélectrique"
+building_hydroelectric_power_plant_throughput_add_desc: "Augmente la [concept_throughput] de la Centrale hydroélectrique."

@@ -1,0 +1,92 @@
+﻿l_french:
+
+# Kenya ZKN
+# Namibia ZNB
+# Somalia ZSO
+# Eritrea ZER
+# Chad ZCH
+# Niger ZNI
+# Mauritania ZMU
+# Senegal ZSE
+# Guinea ZGU
+# Ivory Coast ZIC
+# Ghana ZGH
+# Togo ZTG
+# Benin ZBN
+# Burkina Faso ZBF
+# Nigeria ZNG
+# Camerun ZCM
+# Central African Republic ZCA
+# Gabon ZGB
+# Republic of the Congo ZCG
+# Democratic Republic of the Congo ZDC
+# Uganda ZUG
+# Rwanda ZRW
+# Tanzania ZTZ
+# Angola ZAG
+# Zambia ZZM
+# Mozambico ZMZ
+# Malawi ZMW
+# Eswatini ZSW
+# Lesotho ZLS
+
+ZKN: "Kenya"
+ZKN_ADJ: "Kényan"
+ZNB: "Namibie"
+ZNB_ADJ: "Namibien"
+ZSO: "Somalie"
+ZSO_ADJ: "Somalien"
+ZER: "Érythrée"
+ZER_ADJ: "Érythréen"
+ZCH: "Tchad"
+ZCH_ADJ: "Tchadien"
+ZNI: "Niger"
+ZNI_ADJ: "Nigérien"
+ZMU: "Mauritanie"
+ZMU_ADJ: "Mauritanien"
+ZSE: "Sénégal"
+ZSE_ADJ: "Sénégalais"
+ZGU: "Guinée"
+ZGU_ADJ: "Guinéen"
+ZIC: "Côte d'Ivoire"
+ZIC_ADJ: "Ivoirien"
+ZGH: "Ghana"
+ZGH_ADJ: "Ghanéen"
+ZTG: "Togo"
+ZTG_ADJ: "Togolais"
+ZBN: "Bénin"
+ZBN_ADJ: "Béninois"
+ZBF: "Burkina Faso"
+ZBF_ADJ: "Burkinabé"
+ZNG: "Nigéria"
+ZNG_ADJ: "Nigérian"
+ZCM: "Cameroun"
+ZCM_ADJ: "Camerounais"
+ZCA: "République centrafricaine"
+ZCA_ADJ: "Centrafricain"
+ZGB: "Gabon"
+ZGB_ADJ: "Gabonais"
+ZCG: "Congo du Nord"
+ZCG_ADJ: "Congolais"
+ZDC: "Congo du Sud"
+ZDC_ADJ: "Congolais"
+ZUG: "Ouganda"
+ZUG_ADJ: "Ougandais"
+ZRW: "Rwanda"
+ZRW_ADJ: "Rwandais"
+ZTZ: "Tanzanie"
+ZTZ_ADJ: "Tanzanien"
+ZAG: "Angola"
+ZAG_ADJ: "Angolais"
+ZZM: "Zambie"
+ZZM_ADJ: "Zambien"
+ZMZ: "Mozambique"
+ZMZ_ADJ: "Mozambicain"
+ZMW: "Malawi"
+ZMW_ADJ: "Malawien"
+ZSW: "Eswatini"
+ZSW_ADJ: "Swazi"
+ZLS: "Lesotho"
+ZLS_ADJ: "Basotho"
+ZBT: "Botswana"
+ZBT_ADJ: "Tswana"
